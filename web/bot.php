@@ -70,7 +70,7 @@ if (!is_null($events['events'])) {
                 $text = $message;
                 $case = 1;
             }
-            if (strpos($textinput, 'ถ่ายทอด') !== false || strpos($textinput, 'ช่อง') !== false) {
+            if ( strpos($textinput, 'ถ่ายทอด') !== false ) {
                 $message = '
 ';
                 $html = file_get_contents('http://livescore.siamsport.co.th/widget/live_table');
