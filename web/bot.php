@@ -1154,8 +1154,8 @@ if (!is_null($events['events'])) {
 07:00-14:00 ตลาดญี่ปุ่น JPY
 08:20-15:00 ตลาดจีน CNY
 13:00-21:00 ตลาดสวิส CHF
-14:00-22:00 ตลาดยุโรป EUR ( DST )
-15:00-23:00 ตลาดอังกฤษ GBP ( DST )
+13:00-21:00 ตลาดยุโรป EUR
+14:00-22:00 ตลาดอังกฤษ GBP
 19:00-03:00 ตลาดแคนาดา CAD
 19:20-03:00 ตลาดโคเมก USD';
                 $case = 1;
@@ -1560,7 +1560,7 @@ if (!is_null($events['events'])) {
             }
 
             if ( strpos($textinput, 'ปฏิทิน') !== false ) {
-                $text = 'เช็คได้ที่ https://www.investing.com/economic-calendar/ หรือ https://www.forexfactory.com/calendar.php?day=today';
+                $text = 'เช็คได้ที่ https://trading789.com/economic-calendar/ หรือ https://www.forexfactory.com/calendar.php?day=today';
                 $case = 1;
             }
 
@@ -1598,19 +1598,7 @@ https://goo.gl/M3gbyK';
 https://goo.gl/sw6qTp';
                 $case = 1;
             }
-            /*
-                        if ( strpos($textinput, 'ประเภทบัญชี') !== false ) {
-                            $text = 'ประเภทบัญชี
-            http://th.weltrade.com/trader/type_account/';
-                            $case = 1;
-                        }
 
-                        if ( strpos($textinput, 'Spread') !== false || strpos($textinput, 'spread') !== false ) {
-                            $text = 'ค่าสเปรดบัญชีประเภทต่างๆ
-            http://th.weltrade.com/trader/tools/';
-                            $case = 1;
-                        }
-            */
             if ( strpos($textinput, 'ฝากเงิน') !== false || strpos($textinput, 'เติมเงิน') !== false || strpos($textinput, 'deposit') !== false || strpos($textinput, 'Deposit') !== false ) {
                 $text = 'วิธีฝากเงินโบรค Trading789
                 
