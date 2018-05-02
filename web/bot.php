@@ -1572,9 +1572,9 @@ https://goo.gl/cOQgUR';
             }
 
             if ( strpos($textinput, 'ตะกร้า') !== false || strpos($textinput, 'ตระกร้า') !== false || strpos($textinput, 'finviz') !== false || strpos($textinput, 'Finviz') !== false ) {
-                $text = 'เช็คอันดับค่าเงินได้ที่นี่ ( Refresh every 1 min )
+                $text = 'เช็คอันดับค่าเงินแบบ Real-time ได้ที่นี่ 
                 
-https://goo.gl/xeza18';
+http://bit.ly/2JMNpeZ';
                 $case = 1;
             }
 
