@@ -1663,7 +1663,7 @@ https://goo.gl/BdLmhS';
                 $case = 1;
             }
 
-            if ( strpos($textinput, 'trading') !== false || strpos($textinput, 'Trading') !== false || strpos($textinput, 'ลิ้งสมัคร') !== false || strpos($textinput, 'โบรคอาจารยเดีย') !== false || strpos($textinput, 'โบรคจารยเดีย') !== false || strpos($textinput, 'โบรค อ.เดีย') !== false || strpos($textinput, 'โบรคอ.เดีย') !== false ) {
+            if ( strpos($textinput, 'Trading') !== false || strpos($textinput, 'ลิ้งสมัคร') !== false || strpos($textinput, 'โบรคอาจารยเดีย') !== false || strpos($textinput, 'โบรคจารยเดีย') !== false || strpos($textinput, 'โบรค อ.เดีย') !== false || strpos($textinput, 'โบรคอ.เดีย') !== false ) {
                 $text = 'วิธีการสมัครโบรค Trading789
                 
 https://goo.gl/EN7wAF';
