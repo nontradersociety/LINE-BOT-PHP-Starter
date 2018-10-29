@@ -1577,7 +1577,7 @@ http://th.weltrade.com/?r1=ipartner&r2=12411
                 $case = 1;
             }
             
-            if ( strpos($textinput, 'icmarket') !== false || strpos($textinput, 'Icmarket') !== false ) {
+            if ( strpos($textinput, 'icmarket') !== false || strpos($textinput, 'Icmarket') !== false || strpos($textinput, 'ICmarket') !== false || strpos($textinput, 'ไอซี') !== false ) {
                 $text = 'Link การสมัคร
                 
 http://icmarkets.com/?camp=25748
