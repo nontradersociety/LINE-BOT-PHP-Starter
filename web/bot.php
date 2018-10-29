@@ -1576,6 +1576,14 @@ http://th.weltrade.com/?r1=ipartner&r2=12411
 หากใครใคร่สนับสนุนกลุ่มเราสามารถคลิกลิ้งด้านบนเพื่อเปิดบัญชีได้เลยครับ';
                 $case = 1;
             }
+            
+            if ( strpos($textinput, 'icmarket') !== false || strpos($textinput, 'Icmarket') !== false ) {
+                $text = 'Link การสมัคร
+                
+http://icmarkets.com/?camp=25748
+หากใครใคร่สนับสนุนกลุ่มเราสามารถคลิกลิ้งด้านบนเพื่อเปิดบัญชีได้เลยครับ';
+                $case = 1;
+            }
 
             if ( strpos($textinput, 'crypto') !== false || strpos($textinput, 'digital') !== false || strpos($textinput, 'btc') !== false || strpos($textinput, 'eth') !== false || strpos($textinput, 'ltc') !== false || strpos($textinput, 'บิท') !== false || strpos($textinput, 'bitcoin') !== false || strpos($textinput, 'Bitcoin') !== false ) {
                 $text = 'เช็คราคาได้ที่นี่เลย
