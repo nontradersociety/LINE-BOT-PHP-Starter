@@ -232,7 +232,6 @@ if (!is_null($events['events'])) {
                         break;
                 }
             }
-
             if (strpos($textinput, 'ขอเพลง') !== false) {
                 $rand = rand(1, 20);
                 switch ($rand) {
@@ -318,7 +317,6 @@ if (!is_null($events['events'])) {
                         break;
                 }
             }
-
             if ( strpos($textinput, 'หน้าหี') !== false || strpos($textinput, 'จิ๋ม') !== false || strpos($textinput, 'เหี้ย') !== false || strpos($textinput, 'สัด') !== false || strpos($textinput, 'สัส') !== false || strpos($textinput, 'สั ส') !== false || strpos($textinput, 'สั ด') !== false || strpos($textinput, 'พ่อง') !== false || strpos($textinput, 'ควย') !== false || strpos($textinput, 'คว ย') !== false || strpos($textinput, 'ค ว ย') !== false || strpos($textinput, 'ค วย') !== false || strpos($textinput, 'fuck') !== false || strpos($textinput, 'ตีน') !== false || strpos($textinput, 'ตรีน') !== false || strpos($textinput, 'มึง') !== false || strpos($textinput, 'มรึง') !== false || strpos($textinput, 'เมิง') !== false || strpos($textinput, 'เมริง') !== false ) {
                 $rand = rand(0, 3);
                 if ($rand == 0) {
@@ -332,7 +330,6 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-
             if ( strpos($textinput, 'กะเทย') !== false || strpos($textinput, 'กระเทย') !== false ) {
                 $rand = rand(0, 6);
                 if ($rand == 0) { //กระเทยไม่สวย
@@ -352,7 +349,6 @@ if (!is_null($events['events'])) {
                 }
                 $case = 2;
             }
-
             if ( strpos($textinput, 'หวย') !== false || strpos($textinput, 'huay') !== false ) {
                 $rand = rand(0, 10);
                 if ($rand == 0) {
@@ -382,7 +378,6 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-
             if ( strpos($textinput, 'ทรัม') !== false || strpos($textinput, 'trump') !== false  || strpos($textinput, 'ทรั้ม') !== false ) {
                 $rand = rand(0, 15);
                 if ($rand == 0) {
@@ -463,7 +458,6 @@ if (!is_null($events['events'])) {
                 }
                 $case = 2;
             }
-
             if ( strpos($textinput, 'คิดถึงบอท') !== false ) {
                 $rand = rand(0, 4);
                 if ($rand == 0) {
@@ -479,7 +473,6 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-
             if ( strpos($textinput, 'รักบอท') !== false ) {
                 $rand = rand(0, 4);
                 if ($rand == 0) {
@@ -495,7 +488,6 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-
             if ( strpos($textinput, 'ไม่รักบอท') !== false ) {
                 $rand = rand(0, 4);
                 if ($rand == 0) {
@@ -511,7 +503,6 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-
             if ( strpos($textinput, 'เกลียดบอท') !== false ) {
                 $rand = rand(0, 4);
                 if ($rand == 0) {
@@ -527,7 +518,6 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-
             if (strpos($textinput, 'ไอ้บอท') !== false || strpos($textinput, 'ไอบอท') !== false) {
                 $rand = rand(0, 3);
                 if ($rand == 0) {
@@ -541,7 +531,6 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-
             if ( strpos($textinput, 'โต๊ด') !== false ) {
                 $rand = rand(0, 3);
                 if ($rand == 0) {
@@ -555,7 +544,6 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-
             if ( strpos($textinput, 'กวนติง') !== false || strpos($textinput, 'สึด') !== false || strpos($textinput, 'เควี้ย') !== false || strpos($textinput, 'เชี้ย') !== false || strpos($textinput, 'กลาก') !== false || strpos($textinput, 'กราก') !== false ) {
                 $rand = rand(0, 1);
                 if ($rand == 0) {
@@ -565,7 +553,6 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-
             if ( strpos($textinput, 'โง่') !== false || strpos($textinput, 'stupid') !== false || strpos($textinput, 'Stupid') !== false ) {
                 $rand = rand(0, 3);
                 if ($rand == 0) {
@@ -579,7 +566,6 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-
             if ( strpos($textinput, 'เสียดาย') !== false ) {
                 $rand = rand(0, 15);
                 if ($rand == 0) {
@@ -603,7 +589,6 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-
             if ( strpos($textinput, 'ฉิบหาย') !== false || strpos($textinput, 'ฉิบผาย') !== false ) {
                 $rand = rand(0, 2);
                 if ($rand == 0) {
@@ -615,7 +600,6 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-
             if ( strpos($textinput, 'เก๋า') !== false || strpos($textinput, 'ไฝว้') !== false || strpos($textinput, 'ขมับ') !== false ) {
                 $rand = rand(0, 15);
                 if ($rand == 0) {
@@ -671,7 +655,6 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-
             if ( strpos($textinput, 'โม้') !== false ) {
                 $rand = rand(0, 2);
                 if ($rand == 0) {
@@ -683,7 +666,6 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-
             if ( strpos($textinput, 'รวน') !== false ) {
                 $rand = rand(0, 2);
                 if ($rand == 0) {
@@ -695,7 +677,6 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-
             if ( strpos($textinput, 'หิว') !== false ) {
                 $rand = rand(0, 15);
                 if ($rand == 0) {
@@ -773,7 +754,6 @@ if (!is_null($events['events'])) {
                 }
                 $case = 2;
             }
-
             if ( strpos($textinput, 'ตู่') !== false || strpos($textinput, 'ประยุท') !== false || strpos($textinput, 'จันทร์โอชา') !== false || strpos($textinput, 'จันทรโอชา') !== false || strpos($textinput, 'ปรับทัศนคติ') !== false ) {
                 $rand = rand(0, 10);
                 if ($rand == 0) {
@@ -804,7 +784,6 @@ if (!is_null($events['events'])) {
                 }
                 $case = 2;
             }
-
             if ( strpos($textinput, 'บิน') !== false ) {
                 $rand = rand(0, 16);
                 if ($rand == 0) {
@@ -836,7 +815,6 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-
             if ( strpos($textinput, 'ทุบ') !== false ) {
                 $rand = rand(0, 16);
                 if ($rand == 0) {
@@ -868,7 +846,6 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-
             if ( strpos($textinput, 'Sell') !== false || strpos($textinput, 'Buy') !== false ) {
                 $rand = rand(0, 9);
                 if ($rand == 0) {
@@ -894,7 +871,6 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-
             if ( strpos($textinput, 'ปอด') !== false ) {
                 $rand = rand(0, 4);
                 if ($rand == 0) {
@@ -910,7 +886,6 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-
             if ( strpos($textinput, 'ง่วง') !== false ) {
                 $rand = rand(0, 6);
                 if ($rand == 0) {
@@ -930,7 +905,6 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-
             if ( strpos($textinput, 'ติดบาย') !== false || strpos($textinput, 'ติดไม้บาย') !== false || strpos($textinput, 'ติดbuy') !== false || strpos($textinput, 'ติดไม้buy') !== false || strpos($textinput, 'ติดไม้ buy') !== false ) {
                 $rand = rand(0, 1);
                 if ($rand == 0) {
@@ -940,7 +914,6 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-
             if ( strpos($textinput, 'ติดเซล') !== false || strpos($textinput, 'ติดไม้เซล') !== false || strpos($textinput, 'ติดsell') !== false || strpos($textinput, 'ติดไม้sell') !== false || strpos($textinput, 'ติดไม้ sell') !== false ) {
                 $rand = rand(0, 1);
                 if ($rand == 0) {
@@ -950,7 +923,6 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-
             if ( strpos($textinput, 'เฮด') !== false || strpos($textinput, 'เฮจ') !== false || strpos($textinput, 'hedg') !== false ) {
                 $rand = rand(0, 1);
                 if ($rand == 0) {
@@ -960,7 +932,6 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-
             if ( strpos($textinput, 'เหนื่อย') !== false ) {
                 $rand = rand(0, 3);
                 if ($rand == 0) {
@@ -974,7 +945,6 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-
             if ( strpos($textinput, 'จุดกลับตัว') !== false ) {
                 $rand = rand(0, 1);
                 if ($rand == 0) {
@@ -984,12 +954,10 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-
             if ( strpos($textinput, 'แนวต้านสำคัญ') !== false ) {
                 $text = 'แนวต้านสำคัญ คือ แนวราคาที่กราฟได้มาชนบ่อยๆแล้วไม่สามารถผ่านไปได้';
                 $case = 1;
             }
-
             if (strpos($textinput, 'ชนแล้วเด้ง') !== false) {
                 $rand = rand(0, 1);
                 if ($rand == 0) {
@@ -999,27 +967,22 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-
             if ( strpos($textinput, 'จ่อ') !== false ) {
                 $text = 'กราฟมาจ่อแนวต้านแล้วหรอ ถ้าใครมีออเดอร์อยู่รีบเคลียร์ทิ้งนะ มันมีโอกาสที่จะทะลุได้เลย';
                 $case = 1;
             }
-
             if ( strpos($textinput, 'adp-nonfarm') !== false ) {
                 $text = 'ADP-Nonfarm คือ รายงานการจ้างงานแห่งชาติเอดีพี จะวัดค่าการเปลี่ยนแปลงรายเดือนเพื่อทราบถึงการจ้างงานภาคเอกชนที่ไม่ใช่เกษตรกรรมซึ่งได้ยึดตามข้อมูลการคิดเงินเดือนที่ได้ข้อมูลจากกิจการธุรกิจต่างๆ ประมาณ 400,000 แห่งทั่วทั้งสหรัฐอเมริกา';
                 $case = 1;
             }
-
             if ( strpos($textinput, 'non-farm') !== false ) {
                 $text = 'Non-farm payroll คือ รายงานตัวเลขการจ้างงานนอกภาคการเกษตร จะวัดค่าการเปลี่ยนแปลงในจำนวนของผู้ที่มีงานทำในระหว่างช่วงเดือนก่อนหน้านี้โดยไม่รวมอุตสาหกรรมภาคการเกษตร การสร้างงานนั้นเป็นดัชนีที่สำคัญที่บ่งชี้ถึงการใช้จ่ายของผู้บริโภคซึ่งถือเป็นส่วนที่มากที่สุดของกิจกรรมทางเศรษฐกิจ';
                 $case = 1;
             }
-
             if ( strpos($textinput, 'สลับไม้') !== false ) {
                 $text = 'การสลับไม้เล่น คือ การที่เราออกออเดอร์ไปแล้ว 1 ออเดอร์ แล้วกราฟเกิดวิ่งสวนทางทำให้เราต้องไปออกออเดอร์เพิ่มอีก 1 ออเดอร์ เมื่อกราฟได้วิ่งกลับลงมาที่ออเดอร์แรกอีกครั้ง เราจะทำการปิดออเดอร์นั้นทันที ซึ่งจะเหลือออเดอร์ที่ 2 ซึ่งราคาจะดีกว่า';
                 $case = 1;
             }
-
             if ( strpos($textinput, 'เพลีย') !== false ) {
                 $rand = rand(0, 4);
                 if ($rand == 0) {
@@ -1035,21 +998,21 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-
             if ( strpos($textinput, 'sideway') !== false || strpos($textinput, 'Sideway') !== false ) {
                 $text = 'ตลาดแบบ Sideway คือ สภาวะที่ตลาดเลือกทิศทางไม่ได้ว่าจะขึ้นหรือจะลง วิ่งอยู่ในกรอบ นักลงทุนส่วนมากหากเจอสภาวะแบบนี้อาจไม่เข้าเทรดหรือถ้าเทรดก็เป็นแบบทำกำไรระยะสั้น ต้องใช้ประสบการณ์เพราะต้องเข้าเร็วออกเร็ว หากช้าอาจโดนกราฟลากได้';
                 $case = 1;
             }
-
             if ( strpos($textinput, 'บายหรือเซล') !== false || strpos($textinput, 'บาย หรือ เซล') !== false || strpos($textinput, 'เซล หรือ บาย') !== false || strpos($textinput, 'เซลหรือบาย') !== false ) {
                 $text = 'เช็คเหตุผลในการเข้าออเดอร์สิ
-1. เช็คข่าวต่างๆที่มีผลต่อสกุลเงินที่เราเล่น
-2. เช็คข่าวใน forexfactory เทียบดัวเลขคาดการณ์และครั้งก่อนว่าดีขึ้นหรือแย่ลง
-3. ถ้าทองคำหรือคู่เงินที่เทียบ usd เข้าไปเช็ค USDX ว่าแข็งค่าหรืออ่อนค่า
-4. หาจุดกลับตัวที่ใกล้ที่สุดและเข้าออเดอร์ตามที่วิเคราะห์ไว้';
+                
+1. เช็คข่าวต่างๆที่มีผลต่อสกุลเงินที่เราเล่นใน forexfactory หรือ investing
+2. เทียบดัวเลขคาดการณ์และครั้งก่อนว่าดีขึ้นหรือแย่ลง
+3. ถ้าทองคำหรือคู่เงินที่เทียบ usd ก็เข้าไปเช็คตลาดหุ้นสหรัฐว่าบวกหรือลบและเช็คตะกร้าเงินด้วย
+4. เข้าออเดอร์โดยใช้เทคนิคที่เหมาะสมกับสถานการณ์นั้นๆตามที่คุณได้ศึกษากันมา
+
+เข้าใจตรงกันนะ !!!';
                 $case = 1;
             }
-
             if ( strpos($textinput, 'คัน') !== false ) {
                 $rand = rand(0, 5);
                 if ($rand == 0) {
@@ -1067,7 +1030,6 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-
             if ( strpos($textinput, 'ตลาดเปิด') !== false || strpos($textinput, 'เปิดตลาด') !== false || strpos($textinput, 'ปิดตลาด') !== false || strpos($textinput, 'ตลาดปิด') !== false ) {
                 $text = 'ช่วงเวลาตลาดเปิด-ปิด
                 
@@ -1075,38 +1037,32 @@ if (!is_null($events['events'])) {
 07:00-14:00 ตลาดญี่ปุ่น JPY
 08:20-15:00 ตลาดจีน CNY
 13:00-21:00 ตลาดสวิส CHF
-13:00-21:00 ตลาดยุโรป EUR
-14:00-22:00 ตลาดอังกฤษ GBP
+14:00-22:00 ตลาดยุโรป EUR
+15:00-23:00 ตลาดอังกฤษ GBP
 19:00-03:00 ตลาดแคนาดา CAD
-19:20-03:00 ตลาดโคเมก USD';
+20:20-03:00 ตลาดโคเมก USD';
                 $case = 1;
             }
-
             if ( strpos($textinput, 'usdx') !== false || strpos($textinput, 'Usdx') !== false  || strpos($textinput, 'USDX') !== false || strpos($textinput, 'ดอลล่าดิบ') !== false || strpos($textinput, 'ดอลลาดิบ') !== false ) {
                 $text = 'เช็ค usdx ได้ที่ https://www.investing.com/quotes/us-dollar-index';
                 $case = 1;
             }
-
             if ( strpos($textinput, 'ดัชนีหลัก') !== false || strpos($textinput, 'major-indices') !== false ) {
                 $text = 'เช็คดัชนีหลัก ได้ที่ https://th.investing.com/indices/major-indices';
                 $case = 1;
             }
-
             if ( strpos($textinput, 'ดัชนีโลก') !== false || strpos($textinput, 'world-indices') !== false ) {
                 $text = 'เช็คดัชนีโลก ได้ที่ https://th.investing.com/indices/world-indices';
                 $case = 1;
             }
-
             if ( strpos($textinput, 'ดัชนีกองทุน') !== false || strpos($textinput, 'cfds') !== false || strpos($textinput, 'CFDs') !== false || strpos($textinput, 'CFDS') !== false ) {
                 $text = 'เช็คดัชนีกองทุน ได้ที่ https://th.investing.com/indices/indices-cfds';
                 $case = 1;
             }
-
             if ( strpos($textinput, 'ดัชนีหุ้นทั่วโลก') !== false || strpos($textinput, 'global-indices') !== false ) {
                 $text = 'เช็คดัชนีหุ้นทั่วโลก ได้ที่ https://th.investing.com/indices/global-indices';
                 $case = 1;
             }
-
             if ( strpos($textinput, 'ต้านแข็ง') !== false || strpos($textinput, 'รับแข็ง') !== false ) {
                 $rand = rand(0, 3);
                 if ($rand == 0) {
@@ -1120,7 +1076,6 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-
             if ( strpos($textinput, 'ovt') !== false || strpos($textinput, 'OVT') !== false || strpos($textinput, 'Ovt') !== false || strpos($textinput, 'overtrade') !== false || strpos($textinput, 'Overtrade') !== false ) {
                 $rand = rand(0, 4);
                 if ($rand == 0) {
@@ -1136,7 +1091,6 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-
             if ( strpos($textinput, 'ฝันดี') !== false ) {
                 $rand = rand(0, 6);
                 if ($rand == 0) {
@@ -1168,7 +1122,6 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-
             if ( strpos($textinput, 'กราฟป่วย') !== false ) {
                 $rand = rand(0, 7);
                 if ($rand == 0) {
@@ -1202,7 +1155,6 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-
             if ( strpos($textinput, 'เซ็ง') !== false ) {
                 $rand = rand(0, 2);
                 if ($rand == 0) {
@@ -1214,7 +1166,6 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-
             if ( strpos($textinput, 'เงียบ') !== false ) {
                 $rand = rand(0, 8);
                 if ($rand == 0) {
@@ -1239,7 +1190,6 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-
             if (strpos($textinput, 'บอทโหด') !== false) {
                 $rand = rand(0, 3);
                 if ($rand == 0) {
@@ -1253,7 +1203,6 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-
             if ( strpos($textinput, 'แม้ง') !== false || strpos($textinput, 'แม่ง') !== false ) {
                 $rand = rand(0, 1);
                 if ($rand == 0) {
@@ -1263,7 +1212,6 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-
             if ( strpos($textinput, 'หัวร้อน') !== false ) {
                 $rand = rand(0, 7);
                 if ($rand == 0) {
@@ -1285,7 +1233,6 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-
             if ( strpos($textinput, 'เหล้า') !== false || strpos($textinput, 'เบียร์') !== false || strpos($textinput, 'เมา') !== false || strpos($textinput, 'ปาร์ตี้') !== false || strpos($textinput, 'ปาตี้') !== false || strpos($textinput, 'party') !== false || strpos($textinput, 'Party') !== false || strpos($textinput, 'pub') !== false || strpos($textinput, 'Pub') !== false ) {
                 $rand = rand(0, 10);
                 if ($rand == 0) {
@@ -1327,7 +1274,6 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-
             if ( strpos($textinput, 'ล้างพอท') !== false || strpos($textinput, 'ล้างพอร์ต') !== false || strpos($textinput, 'ล้างพอต') !== false || strpos($textinput, 'ล้างพอร์ท') !== false ) {
                 $rand = rand(0, 4);
                 if ($rand == 0) {
@@ -1343,7 +1289,6 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-
             if ( strpos($textinput, 'เสือก') !== false ) {
                 $rand = rand(0, 6);
                 if ($rand == 0) {
@@ -1363,7 +1308,6 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-
             if (strpos($textinput, 'ปัญญาอ่อน') !== false) {
                 $rand = rand(0, 2);
                 if ($rand == 0) {
@@ -1375,7 +1319,6 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-
             if ( strpos($textinput, 'แดก') !== false ) {
                 $rand = rand(0, 3);
                 if ($rand == 0) {
@@ -1389,7 +1332,6 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-
             if ( strpos($textinput, 'สดชื่น') !== false ) {
                 $rand = rand(0, 4);
                 if ($rand == 0) {
@@ -1405,7 +1347,6 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-
             if ( strpos($textinput, 'เกรียน') !== false ) {
                 $rand = rand(0, 4);
                 if ($rand == 0) {
@@ -1421,7 +1362,6 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-
             if ( strpos($textinput, 'กาก') !== false || strpos($textinput, 'กา ก') !== false || strpos($textinput, 'ก า ก') !== false || strpos($textinput, 'ก าก') !== false || strpos($textinput, 'kak') !== false || strpos($textinput, 'Kak') !== false || strpos($textinput, 'KAK') !== false ) {
                 $rand = rand(0, 10);
                 if ($rand == 0) {
@@ -1461,7 +1401,6 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-
             if (strpos($textinput, 'กฎระเบียบ') !== false) {
                 $text = '⚠️ กฎระเบียบของห้อง ⚠️
 ❌ เนื้อหาที่ละเมิดต่อ สถาบันชาติ ศาสนา พระมหากษัตริย์ และพระบรมวงศานุวงศ์
@@ -1474,101 +1413,86 @@ if (!is_null($events['events'])) {
 💥 Admin มีสิทธิ์ที่จะ Ban สมาชิกที่ทำผิดกฎหรือที่พิจารณาแล้วว่าไม่เหมาะสมได้ทันที ซึ่งหากเกิดข้อพิพาท ทาง Admin จะปรึกษากันและทำตามคะแนนเสียงส่วนใหญ่ 💥';
                 $case = 1;
             }
-
             if ( strpos($textinput, 'สวัสดีบอท') !== false || strpos($textinput, 'สวัสดีครับบอท') !== false || strpos($textinput, 'สวัสดีคับบอท') !== false || strpos($textinput, 'สวัสดีค่ะบอท') !== false || strpos($textinput, 'สวัสดีค่าบอท') !== false ) {
                 $text = 'สวัสดีครับ';
                 $case = 1;
             }
-
             if ( strpos($textinput, 'ปฏิทิน') !== false ) {
                 $text = 'เช็คได้ที่ https://trading789.com/economic-calendar/ หรือ https://www.forexfactory.com/calendar.php?day=today';
                 $case = 1;
             }
-
             if ( strpos($textinput, 'แก้ไม้') !== false ) {
                 $text = 'วิธีการแก้ไม้แบบปิดรวบ
                 
 https://goo.gl/cOQgUR';
                 $case = 1;
             }
-
             if ( strpos($textinput, 'ตะกร้า') !== false || strpos($textinput, 'ตระกร้า') !== false || strpos($textinput, 'finviz') !== false || strpos($textinput, 'Finviz') !== false ) {
                 $text = 'เช็คอันดับค่าเงินแบบ Real-time ได้ที่นี่ 
                 
 http://bit.ly/2JMNpeZ';
                 $case = 1;
             }
-
             if ( strpos($textinput, 'Volume') !== false || strpos($textinput, 'volume') !== false ) {
                 $text = 'Volume คืออะไร ???
                 
 https://goo.gl/RN5h1f';
                 $case = 1;
             }
-
             if ( strpos($textinput, 'Fibo') !== false || strpos($textinput, 'fibo') !== false ) {
                 $text = 'การใช้งาน Fibo Retractment
                 
 https://goo.gl/M3gbyK';
                 $case = 1;
             }
-
             if ( strpos($textinput, 'Gap') !== false || strpos($textinput, 'gap') !== false ) {
                 $text = 'Gap คืออะไร ???
                 
 https://goo.gl/sw6qTp';
                 $case = 1;
             }
-
             if ( strpos($textinput, 'ฝากเงิน') !== false || strpos($textinput, 'เติมเงิน') !== false || strpos($textinput, 'deposit') !== false || strpos($textinput, 'Deposit') !== false ) {
                 $text = 'วิธีฝากเงินโบรค Trading789
                 
 https://goo.gl/is6a5b';
                 $case = 1;
             }
-
             if ( strpos($textinput, 'ถอนเงิน') !== false || strpos($textinput, 'withdraw') !== false || strpos($textinput, 'Withdraw') !== false ) {
                 $text = 'วิธีถอนเงินโบรค Trading789
                 
 https://goo.gl/1j56Xj';
                 $case = 1;
             }
-
             if ( strpos($textinput, 'เปิดบัญชีเทรด') !== false ) {
                 $text = 'วิธีการเปิดบัญชีสำหรับเทรดโบรค Trading789
                 
 https://goo.gl/xihMFe';
                 $case = 1;
             }
-
             if ( strpos($textinput, 'wallet') !== false || strpos($textinput, 'Wallet') !== false ) {
                 $text = 'วิธีโอนเงินจาก Wallet โบรค Trading789
                 
 https://goo.gl/o512oJ';
                 $case = 1;
             }
-
             if ( strpos($textinput, 'ยืนยัน') !== false || strpos($textinput, 'verify') !== false || strpos($textinput, 'Verify') !== false) {
                 $text = 'วิธีการยืนยันตัวตนโบรค Trading789
                 
 https://goo.gl/pFLgHH';
                 $case = 1;
             }
-
             if ( strpos($textinput, 'ประเภทบัญชี') !== false ) {
                 $text = 'ประเภทบัญชีโบรค Trading789
                 
-https://trading789.com/trading-account-types/';
+https://trading789.com/trading-accounttype';
                 $case = 1;
             }
-
             if ( strpos($textinput, 'promo code') !== false || strpos($textinput, 'Promo Code') !== false  ) {
                 $text = 'วิธีใช้ Promo Code
                 
 https://trading789.com/how-to-use-promo-code/';
                 $case = 1;
             }
-
             if ( strpos($textinput, 'weltrade') !== false || strpos($textinput, 'Weltrade') !== false || strpos($textinput, 'เวลเทรด') !== false ) {
                 $text = 'Link การสมัคร (  รหัสพันธมิตรหรือรหัสผู้เเนะนำ :: 12411 )
                 
@@ -1576,7 +1500,7 @@ http://th.weltrade.com/?r1=ipartner&r2=12411
 หากใครใคร่สนับสนุนกลุ่มเราสามารถคลิกลิ้งด้านบนเพื่อเปิดบัญชีได้เลยครับ';
                 $case = 1;
             }
-            
+
             if ( strpos($textinput, 'icmarket') !== false || strpos($textinput, 'Icmarket') !== false || strpos($textinput, 'ICmarket') !== false || strpos($textinput, 'ไอซี') !== false ) {
                 $text = 'Link การสมัคร
                 
@@ -1584,26 +1508,22 @@ http://icmarkets.com/?camp=25748
 หากใครใคร่สนับสนุนกลุ่มเราสามารถคลิกลิ้งด้านบนเพื่อเปิดบัญชีได้เลยครับ';
                 $case = 1;
             }
-
             if ( strpos($textinput, 'crypto') !== false || strpos($textinput, 'digital') !== false || strpos($textinput, 'btc') !== false || strpos($textinput, 'eth') !== false || strpos($textinput, 'ltc') !== false || strpos($textinput, 'บิท') !== false || strpos($textinput, 'bitcoin') !== false || strpos($textinput, 'Bitcoin') !== false ) {
                 $text = 'เช็คราคาได้ที่นี่เลย
                 
 https://goo.gl/BdLmhS';
                 $case = 1;
             }
-
             if ( strpos($textinput, 'trading') !== false || strpos($textinput, 'Trading') !== false || strpos($textinput, 'ลิ้งสมัคร') !== false || strpos($textinput, 'โบรคอาจารยเดีย') !== false || strpos($textinput, 'โบรคจารยเดีย') !== false || strpos($textinput, 'โบรค อ.เดีย') !== false || strpos($textinput, 'โบรคอ.เดีย') !== false ) {
                 $text = 'วิธีการสมัครโบรค Trading789
                 
 https://goo.gl/EN7wAF';
                 $case = 1;
             }
-
             if ( strpos($textinput, 'บทวิเคราะห์') !== false || strpos($textinput, 'บทวิเคราะ') !== false ) {
                 $text = 'ดูบทวิเคราะห์ประจำวัน-ย้อนหลังได้ที่ http://www.tradersociety.org มีการวิเคราะห์ข่าวทุกเช้า';
                 $case = 1;
             }
-
             if ( strpos($textinput, 'ฮ่าๆๆ') !== false || strpos($textinput, '555+') !== false || strpos($textinput, 'ฮา') !== false ) {
                 $rand = rand(0, 6);
                 if ($rand == 0) {
