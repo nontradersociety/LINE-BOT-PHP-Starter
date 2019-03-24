@@ -215,19 +215,19 @@ if (!is_null($events['events'])) {
                         $case = 1;
                         break;
                     case 26:
-                        $img = 'https://scontent-kul1-1.xx.fbcdn.net/v/t1.0-0/p350x350/16265186_10210453831156519_7957454316529614986_n.jpg?oh=4cff46558aaa4064c6cbb740a5ba2508&oe=591C5013';
+                        $img = 'https://media-spiceee.net/uploads/content/image/285575/large_13434888_1594338330896008_2444272835128941170_n.jpg';
                         $case = 2;
                         break;
                     case 27:
-                        $img = 'https://scontent-kul1-1.xx.fbcdn.net/v/t1.0-9/16142628_10210453831076517_6780299885516424767_n.jpg?oh=485e0dd80b787a79ceb299be998ac152&oe=58FFF81B';
+                        $img = 'https://scontent-frx5-1.cdninstagram.com/vp/4fff2d80391526e8ea2c238d219b3789/5D0DDD44/t51.2885-15/e35/39525728_326268768128891_7215001245700849664_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&se=7&ig_cache_key=MTg1NjY0MjQzMDA0MDk0MTQ5OQ%3D%3D.2';
                         $case = 2;
                         break;
                     case 28:
-                        $img = 'https://scontent-kul1-1.xx.fbcdn.net/v/t1.0-9/16195768_10210453831116518_1834306896464001100_n.jpg?oh=096fdcfcf742753b5a3468281ebac8b3&oe=5909F9D0';
+                        $img = 'https://scontent.fbkk5-3.fna.fbcdn.net/v/t1.0-9/42908916_10212323747791287_3392551038832607232_n.jpg?_nc_cat=105&_nc_eui2=AeHYe7vjhBlS8VohzrJhtqwCN_i7z51xFnCqK1k1Th6Rn0L_p7Vney8JzVgzZXEbta254qgGlhQ434QuDYLMwMwWCXNPVju5Vx5PX3fMgyzPaA&_nc_ht=scontent.fbkk5-3.fna&oh=cf82bf7910f295661ff111f21c16c7f8&oe=5D450A80';
                         $case = 2;
                         break;
                     case 29:
-                        $img = 'https://scontent-kul1-1.xx.fbcdn.net/v/t1.0-9/16143305_10210453831516528_4406585939313454026_n.jpg?oh=1d266be09bf56aadc21ea57df61a9048&oe=594ADC78';
+                        $img = 'https://scontent.fbkk5-3.fna.fbcdn.net/v/t1.0-9/40057749_10212083560666759_5912096760108417024_n.jpg?_nc_cat=111&_nc_eui2=AeFq0jZcgMM_SA-pPP0E2PO_qy4zaJ1B0JgpBtBcdSWKppjpdmrnEl24z0d7-Ve80RB7owpFpXXtd6VWuZSlZueA5Wc1XHs5cDDIBvCDNFBrSQ&_nc_ht=scontent.fbkk5-3.fna&oh=92a43905adf7ca5f62f0e4ada0bdf249&oe=5D442E31';
                         $case = 2;
                         break;
                 }
@@ -235,16 +235,16 @@ if (!is_null($events['events'])) {
             if (strpos($textinput, 'ขอเพลง') !== false) {
                 $rand = rand(1, 20);
                 switch ($rand) {
-                    case 1: //pull me under non
-                        $text = 'https://www.facebook.com/naiinon/videos/vb.100000271105382/1440978912587798/?type=3&theater';
+                    case 1: //DT
+                        $text = 'https://www.facebook.com/naiinon/videos/vb.100000271105382/1978704102148607/?type=3';
                         $case = 1;
                         break;
                     case 2: //คิดถึง silly fools non
-                        $text = 'https://www.facebook.com/naiinon/videos/vb.100000271105382/1110728128946213/?type=3&theater';
+                        $text = 'https://www.facebook.com/naiinon/videos/vb.100000271105382/1110728128946213/?type=3';
                         $case = 1;
                         break;
-                    case 3: //elevate non
-                        $text = 'https://www.facebook.com/naiinon/videos/vb.100000271105382/1052510024768024/?type=3&theater';
+                    case 3: //หูเบา
+                        $text = 'https://www.facebook.com/naiinon/videos/vb.100000271105382/1634517953233892/?type=3';
                         $case = 1;
                         break;
                     case 4: //olivia bossanova 2
@@ -280,7 +280,7 @@ if (!is_null($events['events'])) {
                         $case = 1;
                         break;
                     case 12: // เรือเล็กควรออกจากฝั่ง non
-                        $text = 'https://www.facebook.com/naiinon/videos/vb.100000271105382/805809092771453/?type=3&theater';
+                        $text = 'https://www.facebook.com/naiinon/videos/vb.100000271105382/805809092771453/?type=3';
                         $case = 1;
                         break;
                     case 13: //Pitbull, Ne-Yo
@@ -329,25 +329,6 @@ if (!is_null($events['events'])) {
                     $text = 'จะพูดคำหยาบทำไมเนี่ย';
                 }
                 $case = 1;
-            }
-            if ( strpos($textinput, 'กะเทย') !== false || strpos($textinput, 'กระเทย') !== false ) {
-                $rand = rand(0, 6);
-                if ($rand == 0) { //กระเทยไม่สวย
-                    $img = 'https://scontent-fbkk5-7.us-fbcdn.net/v1/t.1-48/1426l78O9684I4108ZPH0J4S8_842023153_K1DlXQOI5DHP/dskvvc.qpjhg.xmwo/w/data/941/941285-img.rnda2g.2.jpg';
-                } elseif ($rand == 1) {
-                    $img = 'https://scontent-fbkk5-7.us-fbcdn.net/v1/t.1-48/1426l78O9684I4108ZPH0J4S8_842023153_K1DlXQOI5DHP/dskvvc.qpjhg.xmwo/p/data/263/263989-535f8dd40ec2a.jpg';
-                } elseif ($rand == 2) {
-                    $img = 'https://pbs.twimg.com/media/BrUGtjbCAAAaOae.jpg';
-                } elseif ($rand == 3) {
-                    $img = 'https://pbs.twimg.com/media/CBo6hveUsAAqZCL.jpg';
-                } elseif ($rand == 4) { //โยชิ
-                    $img = 'https://image.dek-d.com/27/0331/9080/118067941';
-                } elseif ($rand == 5) { //เฟรม
-                    $img = 'https://1.bp.blogspot.com/-yJTg4mWLNIA/V4tREp20TsI/AAAAAAAAFUo/cUi9vOmT-9QV8WGiRMJpVmMQ1e2cfoFLgCLcB/s640/2016-07-17_16-05-07.png';
-                } else { //เฟรม
-                    $img = 'https://f2.jarm.com/news/00/1c/rx/1470709798_20.jpg';
-                }
-                $case = 2;
             }
             if ( strpos($textinput, 'หวย') !== false || strpos($textinput, 'huay') !== false ) {
                 $rand = rand(0, 10);
@@ -680,106 +661,67 @@ if (!is_null($events['events'])) {
             if ( strpos($textinput, 'หิว') !== false ) {
                 $rand = rand(0, 15);
                 if ($rand == 0) {
-                    $img = 'https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.0-9/41666377_2086524668033216_2962612296968306688_n.jpg?_nc_cat=111&oh=746e376b794035f878a69867f29a7966&oe=5C2C1300';
+                    $img = 'https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.0-9/54217256_2346011285417885_5159326264569364480_o.jpg?_nc_cat=103&_nc_eui2=AeEKdTrz_WrOr4PVI0O5WGhQBa_mZ3BdTIp7VBnN1VUubVJTy_YTUuRHBRDs3UjjhJYrU5ZqOm8CqylZkTByhj_oZhYhP3HIYY_VzqlnMsKlfg&_nc_ht=scontent.fbkk5-4.fna&oh=b869b13d34f7608f221783d1181e12e8&oe=5D192C11';
                 } elseif ($rand == 1) {
                     $img = 'https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.0-9/41406711_2081436165208733_4081266241795260416_n.jpg?_nc_cat=106&oh=b6fb4a4e7f45286759573a552c2d243e&oe=5C60CF4D';
                 } elseif ($rand == 2) {
-                    $img = 'https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.0-9/41452159_2079025628783120_7944850643242450944_n.jpg?_nc_cat=104&oh=479d30af7731d26e3f4521451fbfb601&oe=5C2B9C9C';
+                    $img = 'https://scontent.fbkk5-1.fna.fbcdn.net/v/t1.0-9/53857850_2352786724740341_3119049767691223040_o.jpg?_nc_cat=109&_nc_eui2=AeEGNKY6uj5VQ-owXSQbuMoJHY3Dn2i644Uejb0GIq-1heF33qgXqe9rxid6waEGfvt4z5mOGc5TNnGg_wuMXRQ49wA2gGZ7EwBAfHnEuAquDg&_nc_ht=scontent.fbkk5-1.fna&oh=222ca95c958efbb2b57f1f77f4f0f3ea&oe=5D15CB57';
                 } elseif ($rand == 3) {
-                    $img = 'https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.0-9/41302178_2079025525449797_7889831734223568896_n.jpg?_nc_cat=102&oh=c7c0c7d8bf043c093ee4932472f41758&oe=5C34002F';
+                    $img = 'https://scontent.fbkk5-2.fna.fbcdn.net/v/t1.0-9/53285595_2339410569411290_559177743774777344_o.jpg?_nc_cat=108&_nc_eui2=AeEfBdrB7cdBcJxdz0ClNq7xh2P9kCh6CsbsBy3Xfu1cxYVZilMZcn-kDJJXYGGz7NsnJyZedj2xdayZsbG154OJ9Ag0bY1slyU4Ahg7WS4-qw&_nc_ht=scontent.fbkk5-2.fna&oh=49d853e36bda1ea84a445c00321969a0&oe=5D192065';
                 } elseif ($rand == 4) {
-                    $img = 'https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.0-9/40526229_2071719922847024_3964923128299126784_n.jpg?_nc_cat=109&oh=04162ceabdbe5ed378702713939950b1&oe=5C607249';
+                    $img = 'https://scontent.fbkk5-1.fna.fbcdn.net/v/t1.0-9/53359592_2331291276889886_1271098268490661888_o.jpg?_nc_cat=109&_nc_eui2=AeFeriaV_Kh0n-84af4phYwpf9wnIv29HVGlov6KT3u67SEMSMbQQ331lnfM2G5rRk3KRiaDReDRpZx50msIdepe5HmKc3PVygO7Yylp4is8vg&_nc_ht=scontent.fbkk5-1.fna&oh=527cf7f7ae28cc13c67dee1a99f193be&oe=5D1717D9';
                 } elseif ($rand == 5) {
-                    $img = 'https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.0-9/40567826_2069165536435796_6183874293370191872_n.jpg?_nc_cat=103&oh=de064609bcfc31c305de6ffe790fcdf5&oe=5C5C592D';
+                    $img = 'https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.0-9/52661048_2322256371126710_7253960168193392640_o.jpg?_nc_cat=110&_nc_eui2=AeHbTt50XPdG7rc2dKZmW6Afw_VhOUfb8GDjEJMgv7kEDPWOAlbzk_Vai_jcVHgKDswA1xBMlT4m8MxAUFI372WlB_xZxbPApG4xAf12S_PGLg&_nc_ht=scontent.fbkk5-4.fna&oh=b72caf75fefb0f10a319c5993194c7a5&oe=5D4C8867';
                 } elseif ($rand == 6) {
-                    $img = 'https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.0-9/40410005_2069164666435883_7752830476573736960_n.jpg?_nc_cat=102&oh=3cccf5393942e46dffac2aab49d6b08c&oe=5C2F6AC5';
+                    $img = 'https://scontent.fbkk5-1.fna.fbcdn.net/v/t1.0-9/52889858_2320802104605470_513667750615318528_o.jpg?_nc_cat=109&_nc_eui2=AeEZ0BjZnCi3Q6stsKDnOa-Kvf7PMI3Q92UHtE-Bb0JT8jcTlHayTf-rune_Kw0iG1fIlKQWxKSY5YW4WkPzi-8BcV_H5E9voGDRp979yhgSsg&_nc_ht=scontent.fbkk5-1.fna&oh=ad372279c89f5f349167fbdfc9782523&oe=5D18275D';
                 } elseif ($rand == 7) {
-                    $img = 'https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.0-9/40319026_2067964449889238_1581670007954210816_n.jpg?_nc_cat=109&oh=17413c091570a528b0334364f971ac2e&oe=5C1AA50B';
+                    $img = 'https://scontent.fbkk5-3.fna.fbcdn.net/v/t1.0-9/52715534_2319049751447372_7011439320791777280_o.jpg?_nc_cat=111&_nc_eui2=AeE6-CQG1twOgc4xaZMDX42JoVT-AzXyudtvlgQBKc5a-7vwpfggmUaoAifpiNia0zz3g6XpIBetC1LYjw6aX9DHT7ypY8QONOmpm4NMlnFl6w&_nc_ht=scontent.fbkk5-3.fna&oh=3896d7381027c812a63df61fb3f10155&oe=5D18E645';
                 } elseif ($rand == 8) {
-                    $img = 'https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.0-9/40209204_2063188067033543_133535176092286976_n.jpg?_nc_cat=111&oh=8bb95db096cab227572c43c9840cf539&oe=5C28176C';
+                    $img = 'https://scontent.fbkk5-5.fna.fbcdn.net/v/t1.0-9/52793137_2317582621594085_112741568670072832_o.jpg?_nc_cat=100&_nc_eui2=AeFuSXkb-bmYxQ7re4SRkoqjMj5Qknat2fzHqvv6LbxKvKNejTRMIWpCSiZ9bgVIsqrhkt8rD7BTPkfsT1ig53hNVlRW0rdKANgJDAuaZeCHJw&_nc_ht=scontent.fbkk5-5.fna&oh=e3d8e3bf3332653b8191cd3edbd52c0e&oe=5D47FE8F';
                 } elseif ($rand == 9) {
-                    $img = 'https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.0-9/37594928_2003893716296312_1694883932832530432_n.jpg?_nc_cat=105&oh=c4efcff7034c783726ef08ad739410e5&oe=5C1983F8';
+                    $img = 'https://scontent.fbkk5-7.fna.fbcdn.net/v/t1.0-9/51842291_2305903982761949_9219892890006716416_o.jpg?_nc_cat=104&_nc_eui2=AeEWobK7pA2n6DU2VD_iVBM9PEzklGArE08UjhtLecS5I-jWwDlsN1puucEXKZGpEmnVcfNAgiLSRU8V_yRL9Wo98dPyK-tGytFrG3pmeThBig&_nc_ht=scontent.fbkk5-7.fna&oh=8d45aaad33876158be0b4bd5ca96ec57&oe=5D14062B';
                 } elseif ($rand == 10) {
-                    $img = 'https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.0-9/37598012_2003292043023146_2180520021044756480_n.jpg?_nc_cat=111&oh=2c2e99094f813647c371eee26f2d21c7&oe=5C2B4656';
+                    $img = 'https://scontent.fbkk5-6.fna.fbcdn.net/v/t1.0-9/50562803_2270498986302449_763019988314357760_o.jpg?_nc_cat=101&_nc_eui2=AeEhwm8bpkktNiSOQsvZgBw4PsKXPXkOxRQh7YMWy1WKQn3bfECW9oGa_gBiS8OsmmqA3zak7lODYUai32iHsxkgmOqlD2tzBOCOKCRt5-97fg&_nc_ht=scontent.fbkk5-6.fna&oh=d44da4459fcce51c473f620ce56b870d&oe=5D4EE525';
                 } elseif ($rand == 11) {
-                    $img = 'https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.0-9/37606793_2001575799861437_7539845157194039296_n.jpg?_nc_cat=107&oh=106c7767f0e86719ceb7de363407b65c&oe=5C24AC9D';
+                    $img = 'https://scontent.fbkk5-8.fna.fbcdn.net/v/t1.0-9/50273941_2260003380685343_6028911662877114368_o.jpg?_nc_cat=106&_nc_eui2=AeH29E1AY5E5NcSd-QD6Cv3Djqkvr5gIMPenClqIih4nQhKon4YUHfPK63AJi9qNfE7m1s8XxMT-QhlKglZoxWMNmOLf-2mzVlGlEvKFBGippA&_nc_ht=scontent.fbkk5-8.fna&oh=25c48ce64fb626e445819945528108ff&oe=5D17AA6D';
                 } elseif ($rand == 12) {
-                    $img = 'https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.0-9/36814450_1981013961917621_365646452992507904_n.jpg?_nc_cat=105&oh=bb32f3b611aedae38b091e825e55b947&oe=5C1AFEAD';
+                    $img = 'https://scontent.fbkk5-3.fna.fbcdn.net/v/t1.0-9/49938143_2260003300685351_1208266526197547008_o.jpg?_nc_cat=105&_nc_eui2=AeHTGtoUOBtp9k-vOakRfYSY0rxni2LIDo9-dC1Iroq-8sPA1KVUfybNrOxM7AZypfMZhVzmwvQGCdsYNXYGPnUtFH0TuMf9-i5pmS5IaXQogQ&_nc_ht=scontent.fbkk5-3.fna&oh=2cfa6775994d4eab2d35317d784471a1&oe=5D0A5514';
                 } elseif ($rand == 13) {
-                    $img = 'https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.0-9/36617498_1976721709013513_1975849762645082112_n.jpg?_nc_cat=105&oh=5bddc043627a25e7c408c69938dd1eea&oe=5C1901ED';
+                    $img = 'https://scontent.fbkk5-3.fna.fbcdn.net/v/t1.0-9/46084906_2168143203204695_2640493739792924672_o.jpg?_nc_cat=111&_nc_eui2=AeFW1GX3R2aa4Q6jP4IWPlFeqZnxqKInZOpGvlAsGMfZH94yCDp8rIFj-FsgDxgqpXLa2MGvEl7BrFctDDVeW7rjDvLCQtWnJehljrBPyrXdOw&_nc_ht=scontent.fbkk5-3.fna&oh=b82fbfdf70c4ac2ee0841d94c9cbc11b&oe=5D0CEE11';
                 } elseif ($rand == 14) {
-                    $img = 'https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.0-9/36580724_1974934392525578_6851075730269274112_n.jpg?_nc_cat=101&oh=77098cd3dd95344087cdfe111c6971a5&oe=5C3093C3';
+                    $img = 'https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.0-9/43141231_2110046015681081_8731316437118877696_o.jpg?_nc_cat=110&_nc_eui2=AeE9NoQLRWA7kv6GN7zSZzGsVwgA7RlDAM5clcBowPoQzkawRYlGjyaW9bLXyUj-oKT5iFRDT3N3tpOAO3shFYso2eSj-nzHt3hOWdgqhr5WSw&_nc_ht=scontent.fbkk5-4.fna&oh=2d5e524a4cad1df9a90faa25187af01e&oe=5D49A1EC';
                 } else {
                     $text = 'กินอะไรกันดีละ';
                     $case = 1;
                 }
                 $case = 2;
             }
-            if ( strpos($textinput, 'อาจารย์เดียร์') !== false ) {
-                $rand = rand(0, 16);
-                if ($rand == 0) {
-                    $img = 'https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.0-1/c1.0.960.960/p960x960/40395170_10156637715352354_4127208330139533312_o.jpg?_nc_cat=111&oh=198337ce43b7e7ae714d83c8630905a9&oe=5C61826A';
-                } elseif ($rand == 1) {
-                    $img = 'https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.0-9/41876442_10156680736147354_1591132155914747904_n.jpg?_nc_cat=102&oh=df1dde3c95e62a215966bd42559435ed&oe=5C1F82E0';
-                } elseif ($rand == 2) {
-                    $img = 'https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.0-9/41943301_10156680521377354_2362972907543461888_n.jpg?_nc_cat=105&oh=f72d937ea2044ab2f772f7d30e17aae3&oe=5C5BE851';
-                } elseif ($rand == 3) {
-                    $img = 'https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.0-9/41886599_10156679836427354_232956994615508992_o.jpg?_nc_cat=111&oh=7e574bb90b1517fa37536c44760f894c&oe=5C28CE30';
-                } elseif ($rand == 4) {
-                    $img = 'https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.0-9/41873107_10156678936912354_188318643593936896_n.jpg?_nc_cat=106&oh=2a193d9990f961acd9cf080f80281a23&oe=5C6131F9';
-                } elseif ($rand == 5) {
-                    $img = 'https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.0-9/41694424_10156671446872354_2320991998816813056_n.jpg?_nc_cat=100&oh=700fd089ef363c0e8759ed535b703a4b&oe=5C1CC8CE';
-                } elseif ($rand == 6) {
-                    $img = 'https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.0-9/41600022_10156667982847354_3976579553576353792_n.jpg?_nc_cat=109&oh=674242d1f424ea278ecf8d064c3cc06c&oe=5C2E4F6C';
-                } elseif ($rand == 7) {
-                    $img = 'https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.0-9/39628875_10156619305832354_3441492100976214016_n.jpg?_nc_cat=100&oh=cf23ef6ba598d19d732cc08287f7e88f&oe=5C1E84A0';
-                } elseif ($rand == 8) {
-                    $img = 'https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.0-9/39210718_10156606584807354_5099905263180185600_n.jpg?_nc_cat=110&oh=ea97c219ccc90a66b51614727ad59cc7&oe=5C1F46C6';
-                } elseif ($rand == 9) {
-                    $img = 'https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.0-9/38534446_10156579596437354_1402376727031709696_n.jpg?_nc_cat=103&oh=79d53f9cd0aef1be1502200fcf9694b5&oe=5C1D19BB';
-                } elseif ($rand == 10) {
-                    $img = 'https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.0-9/37762230_10156548028872354_8615410577063280640_n.jpg?_nc_cat=103&oh=91eff3d8f125ecf6a46343285493935a&oe=5C1A2B12';
-                } elseif ($rand == 11) {
-                    $img = 'https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.0-9/37073997_10156508612772354_5492896690614566912_n.jpg?_nc_cat=108&oh=250a60c9c5af9014f0ff1147670c7ccb&oe=5C28F641';
-                } elseif ($rand == 12) {
-                    $img = 'https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.0-9/36986370_10156512249812354_7685404326159712256_n.jpg?_nc_cat=103&oh=a0bbc7815a79390095c72a7963ceeb24&oe=5C62A094';
-                } elseif ($rand == 13) {
-                    $img = 'https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.0-9/35963894_10156460312842354_4523522035036454912_o.jpg?_nc_cat=109&oh=a0f72c62197669eda865e62c844c487e&oe=5C31A1E8';
-                } elseif ($rand == 14) {
-                    $img = 'https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.0-9/35159197_10156427605097354_3001229782445719552_o.jpg?_nc_cat=101&oh=e67c0d14d0dcdc5065d8736f29b713b3&oe=5C30DD64';
-                } elseif ($rand == 15) {
-                    $img = 'https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.0-9/34783729_10156419919972354_7995030472738471936_n.jpg?_nc_cat=106&oh=d922c2af24871e29997e42ccf0847707&oe=5C229113';
-                } elseif ($rand == 16) {
-                    $img = 'https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.0-9/34018160_10156395397282354_3846038691243884544_o.jpg?_nc_cat=101&oh=7a929aa3170ca34c1661b29fc1c5521f&oe=5C6115FE';
-                }
-                $case = 2;
-            }
-            if ( strpos($textinput, 'ตู่') !== false || strpos($textinput, 'ประยุท') !== false || strpos($textinput, 'จันทร์โอชา') !== false || strpos($textinput, 'จันทรโอชา') !== false || strpos($textinput, 'ปรับทัศนคติ') !== false ) {
+            if ( strpos($textinput, 'ตู่') !== false || strpos($textinput, 'ประยุท') !== false || strpos($textinput, 'จันทรโอชา') !== false || strpos($textinput, 'ปรับทัศนคติ') !== false ) {
                 $rand = rand(0, 10);
                 if ($rand == 0) {
                     $text = 'เอิ่มมม...งานนี้ mod จะไม่ยุ่ง 5555';
                     $case = 1;
                 } elseif ($rand == 1) {
-                    $img = 'https://news.mthai.com/app/uploads/2015/04/1.330.jpg';
+                    $img = 'https://thaipublica.org/wp-content/uploads/2015/11/thaipulica-พล.อ.ประยุทธ์-จันทร์โอชา2.jpg';
                 } elseif ($rand == 2) {
-                    $img = 'https://gdb.voanews.com/BB5B585E-6006-4388-BD55-621E103AD3CA_cx0_cy2_cw0_w1023_r1_s.jpg';
+                    $img = 'https://www.77kaoded.com/wp-content/uploads/พล.อ.ประยุทธ์-จันทร์โอชา.jpg';
                 } elseif ($rand == 3) {
-                    $img = 'https://i.ytimg.com/vi/iVeNF7qIPhg/maxresdefault.jpg';
+                    $img = 'https://www.prachachat.net/wp-content/uploads/2017/12/201701255931-1-1.jpg';
                 } elseif ($rand == 4) {
-                    $img = 'https://timedotcom.files.wordpress.com/2014/06/thailand-coup.jpg?w=720&quality=85';
+                    $img = 'https://upload.wikimedia.org/wikipedia/commons/1/1b/Vladimir_Putin_meeting_Prayut_Chan-o-cha_%282016-05-19%29-02_cropped1.jpg';
                 } elseif ($rand == 5) {
-                    $img = 'https://i.ytimg.com/vi/koh1YEA5LSs/maxresdefault.jpg';
+                    $img = 'https://www.thairath.co.th/media/CiHZjUdJ5HPNXJ92GP8NsxFOJAi5JcKcbF.jpg';
                 } elseif ($rand == 6) {
-                    $img = 'https://truststoreonline.com/wp-content/uploads/2017/09/30-13.jpg';
+                    $img = 'https://static.naewna.com/uploads/news/source/317203.jpg';
                 } elseif ($rand == 7) {
-                    $img = 'https://www.matichonweekly.com/wp-content/uploads/2017/02/201507221240497-20061002145931.jpg';
+                    $img = 'https://site-assets.mediaoxide.com/workpointnews/2019/01/13135739/1547362654_82266_22.jpg';
                 } elseif ($rand == 8) {
-                    $img = 'https://truststoreonline.com/wp-content/uploads/2017/10/CiHZjUdJ5HPNXJ92GO302E70Q09n8gAbil-1.jpg';
+                    $img = 'https://asiamedia.lmu.edu/wp-content/uploads/2017/10/prayut_thailand.jpg?w=640';
                 } elseif ($rand == 9) {
-                    $text = 'เปลี่ยนเรื่องคุยกันดีกว่า 55555';
+                    $text = 'เปลี่ยนเรื่องคุยกันดีกว่ามั้ง 55555';
                     $case = 1;
                 } else {
-                    $text = 'ระวังบินนะ 55';
+                    $text = 'พูดชื่อนี้แล้วปวดหัว';
                     $case = 1;
                 }
                 $case = 2;
@@ -1002,11 +944,11 @@ if (!is_null($events['events'])) {
                 $text = 'ตลาดแบบ Sideway คือ สภาวะที่ตลาดเลือกทิศทางไม่ได้ว่าจะขึ้นหรือจะลง วิ่งอยู่ในกรอบ นักลงทุนส่วนมากหากเจอสภาวะแบบนี้อาจไม่เข้าเทรดหรือถ้าเทรดก็เป็นแบบทำกำไรระยะสั้น ต้องใช้ประสบการณ์เพราะต้องเข้าเร็วออกเร็ว หากช้าอาจโดนกราฟลากได้';
                 $case = 1;
             }
-            if ( strpos($textinput, 'บายหรือเซล') !== false || strpos($textinput, 'บาย หรือ เซล') !== false || strpos($textinput, 'เซล หรือ บาย') !== false || strpos($textinput, 'เซลหรือบาย') !== false ) {
+            if ( strpos($textinput, 'บายหรือเซล') !== false || strpos($textinput, 'บาย หรือ เซล') !== false || strpos($textinput, 'เซล หรือ บาย') !== false || strpos($textinput, 'เซลหรือบาย') !== false || strpos($textinput, 'ซิก') !== false ) {
                 $text = 'เช็คเหตุผลในการเข้าออเดอร์สิ
                 
 1. เช็คข่าวต่างๆที่มีผลต่อสกุลเงินที่เราเล่นใน forexfactory หรือ investing
-2. เทียบดัวเลขคาดการณ์และครั้งก่อนว่าดีขึ้นหรือแย่ลง
+2. เทียบตัวเลขคาดการณ์และครั้งก่อนว่าดีขึ้นหรือแย่ลง
 3. ถ้าทองคำหรือคู่เงินที่เทียบ usd ก็เข้าไปเช็คตลาดหุ้นสหรัฐว่าบวกหรือลบและเช็คตะกร้าเงินด้วย
 4. เข้าออเดอร์โดยใช้เทคนิคที่เหมาะสมกับสถานการณ์นั้นๆตามที่คุณได้ศึกษากันมา
 
@@ -1037,10 +979,10 @@ if (!is_null($events['events'])) {
 07:00-14:00 ตลาดญี่ปุ่น JPY
 08:20-15:00 ตลาดจีน CNY
 13:00-21:00 ตลาดสวิส CHF
-14:00-22:00 ตลาดยุโรป EUR
-15:00-23:00 ตลาดอังกฤษ GBP
+13:00-22:00 ตลาดยุโรป EUR
+14:00-23:00 ตลาดอังกฤษ GBP
 19:00-03:00 ตลาดแคนาดา CAD
-20:20-03:00 ตลาดโคเมก USD';
+19:20-03:00 ตลาดโคเมก USD';
                 $case = 1;
             }
             if ( strpos($textinput, 'usdx') !== false || strpos($textinput, 'Usdx') !== false  || strpos($textinput, 'USDX') !== false || strpos($textinput, 'ดอลล่าดิบ') !== false || strpos($textinput, 'ดอลลาดิบ') !== false ) {
@@ -1238,7 +1180,7 @@ if (!is_null($events['events'])) {
                 if ($rand == 0) {
                     $text = 'จัดไปอย่าให้เสีย';
                 } elseif ($rand == 1) {
-                    $img = 'https://www.heinemann-dutyfree.com/media/catalog/product/cache/13/image/9df78eab33525d08d6e5fb8d27136e95/5/1/518250.jpg';
+                    $img = 'https://www.1855thebottleshop.com/media/catalog/product/cache/1/image/960x1600/9df78eab33525d08d6e5fb8d27136e95/j/o/johnnie_walker_blue_label_ghost_and_rare_port_ellen_1.jpg';
                     $case = 2;
                 } elseif ($rand == 2) {
                     $text = 'ทองหล่อไป อย่างเด็ด';
@@ -1247,7 +1189,7 @@ if (!is_null($events['events'])) {
                 } elseif ($rand == 4) {
                     $text = 'ไปข้าวสารหรือสีลมดี';
                 } elseif ($rand == 5) {
-                    $img = 'https://img01.siam2nite.com/4lO4GumrZBHQ3ewvMiQahlje3KE=/smart/locations/832/cover_large_p18s7p8d9dvdl1to31lsf1oje1k985.jpg';
+                    $img = 'https://www.boozeshop.ph/media/catalog/product/h/o/hoegaarden_rosc_e_330ml_can.jpg';
                     $case = 2;
                 } elseif ($rand == 6) {
                     $text = 'คอแข็งพอป่าว';
@@ -1418,7 +1360,7 @@ if (!is_null($events['events'])) {
                 $case = 1;
             }
             if ( strpos($textinput, 'ปฏิทิน') !== false ) {
-                $text = 'เช็คได้ที่ https://trading789.com/economic-calendar/ หรือ https://www.forexfactory.com/calendar.php?day=today';
+                $text = 'เช็คได้ที่ https://www.forexfactory.com/calendar.php?day=today';
                 $case = 1;
             }
             if ( strpos($textinput, 'แก้ไม้') !== false ) {
@@ -1451,48 +1393,6 @@ https://goo.gl/M3gbyK';
 https://goo.gl/sw6qTp';
                 $case = 1;
             }
-            if ( strpos($textinput, 'ฝากเงิน') !== false || strpos($textinput, 'เติมเงิน') !== false || strpos($textinput, 'deposit') !== false || strpos($textinput, 'Deposit') !== false ) {
-                $text = 'วิธีฝากเงินโบรค Trading789
-                
-https://goo.gl/is6a5b';
-                $case = 1;
-            }
-            if ( strpos($textinput, 'ถอนเงิน') !== false || strpos($textinput, 'withdraw') !== false || strpos($textinput, 'Withdraw') !== false ) {
-                $text = 'วิธีถอนเงินโบรค Trading789
-                
-https://goo.gl/1j56Xj';
-                $case = 1;
-            }
-            if ( strpos($textinput, 'เปิดบัญชีเทรด') !== false ) {
-                $text = 'วิธีการเปิดบัญชีสำหรับเทรดโบรค Trading789
-                
-https://goo.gl/xihMFe';
-                $case = 1;
-            }
-            if ( strpos($textinput, 'wallet') !== false || strpos($textinput, 'Wallet') !== false ) {
-                $text = 'วิธีโอนเงินจาก Wallet โบรค Trading789
-                
-https://goo.gl/o512oJ';
-                $case = 1;
-            }
-            if ( strpos($textinput, 'ยืนยัน') !== false || strpos($textinput, 'verify') !== false || strpos($textinput, 'Verify') !== false) {
-                $text = 'วิธีการยืนยันตัวตนโบรค Trading789
-                
-https://goo.gl/pFLgHH';
-                $case = 1;
-            }
-            if ( strpos($textinput, 'ประเภทบัญชี') !== false ) {
-                $text = 'ประเภทบัญชีโบรค Trading789
-                
-https://trading789.com/trading-accounttype';
-                $case = 1;
-            }
-            if ( strpos($textinput, 'promo code') !== false || strpos($textinput, 'Promo Code') !== false  ) {
-                $text = 'วิธีใช้ Promo Code
-                
-https://trading789.com/how-to-use-promo-code/';
-                $case = 1;
-            }
             if ( strpos($textinput, 'weltrade') !== false || strpos($textinput, 'Weltrade') !== false || strpos($textinput, 'เวลเทรด') !== false ) {
                 $text = 'Link การสมัคร (  รหัสพันธมิตรหรือรหัสผู้เเนะนำ :: 12411 )
                 
@@ -1514,14 +1414,8 @@ http://icmarkets.com/?camp=25748
 https://goo.gl/BdLmhS';
                 $case = 1;
             }
-            if ( strpos($textinput, 'trading') !== false || strpos($textinput, 'Trading') !== false || strpos($textinput, 'ลิ้งสมัคร') !== false || strpos($textinput, 'โบรคอาจารยเดีย') !== false || strpos($textinput, 'โบรคจารยเดีย') !== false || strpos($textinput, 'โบรค อ.เดีย') !== false || strpos($textinput, 'โบรคอ.เดีย') !== false ) {
-                $text = 'วิธีการสมัครโบรค Trading789
-                
-https://goo.gl/EN7wAF';
-                $case = 1;
-            }
-            if ( strpos($textinput, 'บทวิเคราะห์') !== false || strpos($textinput, 'บทวิเคราะ') !== false ) {
-                $text = 'ดูบทวิเคราะห์ประจำวัน-ย้อนหลังได้ที่ http://www.tradersociety.org มีการวิเคราะห์ข่าวทุกเช้า';
+            if ( strpos($textinput, 'บทวิเคราะ') !== false ) {
+                $text = 'ดูบทวิเคราะห์ทองคำประจำวัน-ย้อนหลังได้ที่ http://www.tradersociety.org';
                 $case = 1;
             }
             if ( strpos($textinput, 'ฮ่าๆๆ') !== false || strpos($textinput, '555+') !== false || strpos($textinput, 'ฮา') !== false ) {
