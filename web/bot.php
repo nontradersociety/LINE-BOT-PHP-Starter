@@ -944,8 +944,12 @@ if (!is_null($events['events'])) {
                 $text = 'ตลาดแบบ Sideway คือ สภาวะที่ตลาดเลือกทิศทางไม่ได้ว่าจะขึ้นหรือจะลง วิ่งอยู่ในกรอบ นักลงทุนส่วนมากหากเจอสภาวะแบบนี้อาจไม่เข้าเทรดหรือถ้าเทรดก็เป็นแบบทำกำไรระยะสั้น ต้องใช้ประสบการณ์เพราะต้องเข้าเร็วออกเร็ว หากช้าอาจโดนกราฟลากได้';
                 $case = 1;
             }
-            if ( strpos($textinput, 'บายหรือเซล') !== false || strpos($textinput, 'บาย หรือ เซล') !== false || strpos($textinput, 'เซล หรือ บาย') !== false || strpos($textinput, 'เซลหรือบาย') !== false || strpos($textinput, 'ซิก') !== false ) {
-                $text = 'เช็คเหตุผลในการเข้าออเดอร์สิ
+            if ( strpos($textinput, 'บายหรือเซล') !== false || strpos($textinput, 'บาย หรือ เซล') !== false || strpos($textinput, 'เซล หรือ บาย') !== false || strpos($textinput, 'เซลหรือบาย') !== false || strpos($textinput, 'ขอซิก') !== false ) {
+                $rand = rand(0,5);
+                if ($rand == 0) {
+                    $text = 'ไม่บอกเดี๋ยวรวย';
+                } elseif ($rand == 1) {
+                                    $text = 'เช็คเหตุผลในการเข้าออเดอร์สิ
                 
 1. เช็คข่าวต่างๆที่มีผลต่อสกุลเงินที่เราเล่นใน forexfactory หรือ investing
 2. เทียบตัวเลขคาดการณ์และครั้งก่อนว่าดีขึ้นหรือแย่ลง
@@ -953,6 +957,15 @@ if (!is_null($events['events'])) {
 4. เข้าออเดอร์โดยใช้เทคนิคที่เหมาะสมกับสถานการณ์นั้นๆตามที่คุณได้ศึกษากันมา
 
 เข้าใจตรงกันนะ !!!';
+                } elseif ($rand == 2) {
+                    $text = 'วันนี้ไม่ค่อยมีอารมณ์อ่ะ วิเคราะห์เองไปก่อนนะ';
+                } elseif ($rand == 3) {
+                    $text = 'เปิดเปิดหน้าเข้าออเดอร์ หลับตาแล้วจิ้มเลย 555';
+                } elseif ($rand == 4) {
+                    $text = 'วิเคราะห์กราฟแปป';
+                } elseif ($rand == 5) {
+                    $text = 'ขอแต่ Mod บอกซิกมาบ้างสิจะได้กดตามบ้าง';
+                }
                 $case = 1;
             }
             if ( strpos($textinput, 'คัน') !== false ) {
@@ -1290,7 +1303,7 @@ if (!is_null($events['events'])) {
                 $case = 1;
             }
             if ( strpos($textinput, 'เกรียน') !== false ) {
-                $rand = rand(0, 4);
+                $rand = rand(0, 5);
                 if ($rand == 0) {
                     $text = 'ว่าใครเกรียน';
                 } elseif ($rand == 1) {
@@ -1299,7 +1312,7 @@ if (!is_null($events['events'])) {
                     $text = 'อยากเกรียมมั๊ยละ';
                 } elseif ($rand == 3) {
                     $text = 'หัวเกรียนนักเรียนไทย';
-                } else {
+                } elseif ($rand == 4) {
                     $text = 'คุณนั่นแหละเกรียน';
                 }
                 $case = 1;
@@ -1368,13 +1381,13 @@ if (!is_null($events['events'])) {
                 
 https://goo.gl/cOQgUR';
                 $case = 1;
-            }
+            }/*
             if ( strpos($textinput, 'ตะกร้า') !== false || strpos($textinput, 'ตระกร้า') !== false || strpos($textinput, 'finviz') !== false || strpos($textinput, 'Finviz') !== false ) {
                 $text = 'เช็คอันดับค่าเงินแบบ Real-time ได้ที่นี่ 
                 
 http://bit.ly/2JMNpeZ';
                 $case = 1;
-            }
+            }*/
             if ( strpos($textinput, 'Volume') !== false || strpos($textinput, 'volume') !== false ) {
                 $text = 'Volume คืออะไร ???
                 
