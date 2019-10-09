@@ -1391,7 +1391,7 @@ http://bit.ly/2JMNpeZ';
             if ( strpos($textinput, 'Volume') !== false || strpos($textinput, 'volume') !== false ) {
                 $text = 'Volume คืออะไร ???
                 
-https://goo.gl/RN5h1f';
+http://bit.ly/31XDXPe';
                 $case = 1;
             }
             if ( strpos($textinput, 'Fibo') !== false || strpos($textinput, 'fibo') !== false ) {
