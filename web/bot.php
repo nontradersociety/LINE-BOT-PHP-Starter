@@ -359,7 +359,7 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-            if ( strpos($textinput, 'ทรัม') !== false || strpos($textinput, 'trump') !== false  || strpos($textinput, 'ทรั้ม') !== false ) {
+            if ( strpos($textinput, 'ทรัม') !== false || strpos($textinput, 'trump') !== false) {
                 $rand = rand(0, 15);
                 if ($rand == 0) {
                     $text = 'คุณลุงผู้ที่รักความสงบ 55';
@@ -397,6 +397,44 @@ if (!is_null($events['events'])) {
                     $img = 'https://timedotcom.files.wordpress.com/2016/05/trump-fail-004.jpg';
                 } else {
                     $img = 'https://cdn.vox-cdn.com/thumbor/CgeN3iG-iKDzJGG_EGETa0C9A8g=/0x0:3000x2227/1200x800/filters:focal(907x634:1387x1114)/cdn.vox-cdn.com/uploads/chorus_image/image/59377179/944308308.jpg.0.jpg';
+                }
+                $case = 2;
+            }
+            if ( strpos($textinput, 'พาวเวล') !== false || strpos($textinput, 'powell') !== false  || strpos($textinput, 'Powell') !== false ) {
+                $rand = rand(0, 14);
+                if ($rand == 0) {
+                    $text = 'ระวังจะพาไปแกนโลกนะ';
+                    $case = 1;
+                } elseif ($rand == 1) {
+                    $text = 'ทุบซักกี่จุดดี';
+                    $case = 1;
+                } elseif ($rand == 2) {
+                    $text = 'พารูดซัก 1000 จุดดีมั๊ย';
+                    $case = 1;
+                } elseif ($rand == 3) {
+                    $img = 'https://static.politico.com/dims4/default/68795be/2147483647/resize/1160x%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F78%2F02%2Fb284f4d442bd9d00793096672b89%2F190823-jerome-powell-ap-773.jpg';
+                } elseif ($rand == 4) {
+                    $img = 'https://images.axios.com/yxmJGM8mcs1q7nuK_b5AVTjS8F4=/0x0:4922x2769/1920x1080/2019/02/26/1551191586837.jpg';
+                } elseif ($rand == 5) {
+                    $img = 'https://thenypost.files.wordpress.com/2019/09/jerome-powell.jpg?quality=90&strip=all';
+                } elseif ($rand == 6) {
+                    $img = 'https://webapi.project-syndicate.org/library/6aed65293d733ca44d18c46ac11c5343.jpg';
+                } elseif ($rand == 7) {
+                    $img = 'https://dynaimage.cdn.cnn.com/cnn/c_fill,g_auto,w_1200,h_675,ar_16:9/https%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F181220100716-01-jerome-powell-presser-1219.jpg';
+                } elseif ($rand == 8) {
+                    $img = 'https://media.brstatic.com/2018/01/29124551/meet-jerome-powell-new-chair-federal-reserve.jpg';
+                } elseif ($rand == 9) {
+                    $img = 'https://www.marketplace.org/wp-content/uploads/2018/02/jeromepowell_1.jpg?fit=1800%2C1000';
+                } elseif ($rand == 10) {
+                    $img = 'https://cdnph.upi.com/pv/upi/b5404ae98139177cefdb6f6c0e4d23b2/FED-CHAIR-POWELL.jpg';
+                } elseif ($rand == 11) {
+                    $img = 'https://gvwire.com/wp-content/uploads/2019/03/interest-rate-hikes-jerome-powell-750x400.jpg';
+                } elseif ($rand == 12) {
+                    $img = 'https://cdn.talkingpointsmemo.com/wp-content/uploads/2018/09/GettyImages-1041032142.jpg';
+                } elseif ($rand == 13) {
+                    $img = 'https://media3.s-nbcnews.com/i/newscms/2019_25/2902141/190619-jerome-powell-ew-1048a_5b036b56194a785e236e804fb69cc4a8.jpg';
+                } else {
+                    $img = 'https://static01.nyt.com/images/2019/06/25/business/25DC-POWELL-01/25DC-POWELL-01-videoSixteenByNine3000.jpg';
                 }
                 $case = 2;
             }
