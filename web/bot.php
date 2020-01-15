@@ -215,7 +215,7 @@ if (!is_null($events['events'])) {
                         $case = 1;
                         break;
                     case 26:
-                        $img = 'https://media-spiceee.net/uploads/content/image/285575/large_13434888_1594338330896008_2444272835128941170_n.jpg';
+                        $img = 'https://images.app.goo.gl/c2Niwgx7vzDSLsr76';
                         $case = 2;
                         break;
                     case 27:
