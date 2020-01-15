@@ -223,11 +223,11 @@ if (!is_null($events['events'])) {
                         $case = 2;
                         break;
                     case 28:
-                        $img = 'https://scontent.fbkk5-3.fna.fbcdn.net/v/t1.0-9/42908916_10212323747791287_3392551038832607232_n.jpg?_nc_cat=105&_nc_eui2=AeHYe7vjhBlS8VohzrJhtqwCN_i7z51xFnCqK1k1Th6Rn0L_p7Vney8JzVgzZXEbta254qgGlhQ434QuDYLMwMwWCXNPVju5Vx5PX3fMgyzPaA&_nc_ht=scontent.fbkk5-3.fna&oh=cf82bf7910f295661ff111f21c16c7f8&oe=5D450A80';
+                        $img = 'https://i.pinimg.com/originals/3d/dc/be/3ddcbe76d3e0b6da38af306e73d1a5b8.jpg';
                         $case = 2;
                         break;
                     case 29:
-                        $img = 'https://scontent.fbkk5-3.fna.fbcdn.net/v/t1.0-9/40057749_10212083560666759_5912096760108417024_n.jpg?_nc_cat=111&_nc_eui2=AeFq0jZcgMM_SA-pPP0E2PO_qy4zaJ1B0JgpBtBcdSWKppjpdmrnEl24z0d7-Ve80RB7owpFpXXtd6VWuZSlZueA5Wc1XHs5cDDIBvCDNFBrSQ&_nc_ht=scontent.fbkk5-3.fna&oh=92a43905adf7ca5f62f0e4ada0bdf249&oe=5D442E31';
+                        $img = 'https://s.isanook.com/wo/0/ud/21/108061/108061-20180418020812-b42a9c2.jpg';
                         $case = 2;
                         break;
                 }
@@ -699,35 +699,35 @@ if (!is_null($events['events'])) {
             if ( strpos($textinput, 'หิว') !== false ) {
                 $rand = rand(0, 15);
                 if ($rand == 0) {
-                    $img = 'https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.0-9/66127906_2544389838913361_4260700135652065280_o.jpg?_nc_cat=110&_nc_oc=AQmDM9Dlhq7fXNeIJsUnW4aP6wN5ipQas4tlyhGDeu9te573XcCSCi5D2nvyK3AEEcI6EWFSFbN_gtt0siw41U0z&_nc_ht=scontent.fbkk5-4.fna&oh=fec892d2a8c53f8e155be609dbc0c984&oe=5DBD78BC';
+                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.0-9/p960x960/80847118_2895706283781713_2507603757982810112_o.jpg?_nc_cat=110&_nc_ohc=BYZQdeeNAjoAX-RSHr-&_nc_ht=scontent.fbkk25-1.fna&_nc_tp=1002&oh=c3643801fec89704f2119bb9b44f78bc&oe=5EAC55D9';
                 } elseif ($rand == 1) {
-                    $img = 'https://scontent.fbkk5-7.fna.fbcdn.net/v/t1.0-9/66396440_2543607308991614_258330931255836672_o.jpg?_nc_cat=108&_nc_oc=AQnl2uD4ZOU7IE0QFq2Zg7gAO9K9JzjKq_BeWKqUVklQF-K7OdMvOZk2aaDukAYafqxCLjZKJslpfYgvhbFOV8ly&_nc_ht=scontent.fbkk5-7.fna&oh=b76b165d9a26a3129d4f9fecac05e3ea&oe=5D797DC3';
+                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.0-9/p960x960/80214280_2895706327115042_3501324929599537152_o.jpg?_nc_cat=100&_nc_ohc=v_VtcBTvnIQAX97BFyE&_nc_ht=scontent.fbkk25-1.fna&_nc_tp=1002&oh=2a2377c9df5542dd9fb6d4a6b7e76696&oe=5E9DC27E';
                 } elseif ($rand == 2) {
-                    $img = 'https://scontent.fbkk5-3.fna.fbcdn.net/v/t1.0-9/65818026_2542597349092610_5123844633499009024_o.jpg?_nc_cat=111&_nc_oc=AQkERHvKU9TNszv8ABPnRFgvYX3QSzP-qoHWf1AVRSamzq6pLku1YkwAgJRQDObSgubKzHvnaU2dKQHpG5K6AMZu&_nc_ht=scontent.fbkk5-3.fna&oh=63e0d32f020895aad8c8d7e4861996ff&oe=5DAEC228';
+                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.0-9/p960x960/80223255_2887952851223723_3144712459277828096_o.jpg?_nc_cat=108&_nc_ohc=oPNTc8F-4HkAX9Mpm65&_nc_ht=scontent.fbkk25-1.fna&_nc_tp=1002&oh=a7c1546f2a5da4fd259aa55fade197fa&oe=5ED57C4A';                  
                 } elseif ($rand == 3) {
-                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.0-9/65119202_2520513637967648_6428605648769908736_o.jpg?_nc_cat=109&_nc_oc=AQkTdWOQA_jAeiIG5Yve3t0BkSOOlQFQQ34keyXON8sEjhmbIpqrsgb9tM4xxqmPMiIdlO78kqKYlTlyUOzqKVSO&_nc_ht=scontent.fbkk25-1.fna&oh=f459107b305c39c26f12366aafc6ae46&oe=5D78A57F';
+                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.0-9/p960x960/78197555_2834450899907252_7537796354714632192_o.jpg?_nc_cat=104&_nc_ohc=fDgAXBrLnRIAX-BbU9F&_nc_ht=scontent.fbkk25-1.fna&_nc_tp=1002&oh=c36c2a469d20b16df0c00bca5e371134&oe=5EA3964A';
                 } elseif ($rand == 4) {
-                    $img = 'https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.0-9/65557404_2519351184750560_589591249011343360_o.jpg?_nc_cat=103&_nc_oc=AQnKFp3v6zTtbdvdTf3I6clTcaJBtkaoFf5SMWcDsPOyePbT7h1XN-W26ShCM68yd2nXnu1NP8a2-YYw5IL-koKQ&_nc_ht=scontent.fbkk5-4.fna&oh=ef2701868abba175705e878eed354491&oe=5DA1FFD6';
+                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.0-9/p960x960/75557513_2791336987551977_7391162692305682432_o.jpg?_nc_cat=111&_nc_ohc=7unXDWGRd_oAX_ufyvC&_nc_ht=scontent.fbkk25-1.fna&_nc_tp=1002&oh=d61532491e3c923f39a569a810703c20&oe=5EAAA7AA';
                 } elseif ($rand == 5) {
-                    $img = 'https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.0-9/61633723_2478576455494700_5745819386166378496_o.jpg?_nc_cat=110&_nc_oc=AQnvI42u4aeAEmZDwxb2qqAtZrJ1omxaVRRM9CcdR2MeYxMVGqGTkcLnQOvTV3-0ALHGDjl3LmDRyD_xlzYSDuCs&_nc_ht=scontent.fbkk5-4.fna&oh=a69057d995aeec1828cdd443f0e7563a&oe=5DB6C141';
+                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.0-9/p960x960/76720747_2788684791150530_6521974608537583616_o.jpg?_nc_cat=102&_nc_ohc=-gjKvvKH9SAAX-B_0eE&_nc_ht=scontent.fbkk25-1.fna&_nc_tp=1002&oh=9c7e0eae12b7ced1d82e9fad3640d5c8&oe=5E9EDD43';
                 } elseif ($rand == 6) {
-                    $img = 'https://scontent.fbkk5-6.fna.fbcdn.net/v/t1.0-9/60775340_2458136557538690_1889843205751439360_o.jpg?_nc_cat=101&_nc_oc=AQkDtfpzuSG-RuXc7--o317tbbAwVJul9bpyWt2YT94hzhrg0NUChUIgpDoygXyZezjfQVvSRAgGY1mOdRF3ybun&_nc_ht=scontent.fbkk5-6.fna&oh=392a6c853497d09dd5c901fbbca034b4&oe=5DC19654';
+                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.0-9/p960x960/73472486_2788604727825203_8249360951195729920_o.jpg?_nc_cat=107&_nc_ohc=x9vNasMOOK0AX90lb5x&_nc_ht=scontent.fbkk25-1.fna&_nc_tp=1002&oh=e02193df165255bdaa81017fb763214f&oe=5EDC1783';
                 } elseif ($rand == 7) {
-                    $img = 'https://scontent.fbkk5-3.fna.fbcdn.net/v/t1.0-9/60905024_2458136847538661_3813731229983834112_o.jpg?_nc_cat=111&_nc_oc=AQlcewdV3RGXJKJxAmS2NLpoxIGKSD7Zn4cpX1WKieOrs-usPxh6Iz9hxhrYbi5ot7w_gwkwRVjctCdppoS57NBb&_nc_ht=scontent.fbkk5-3.fna&oh=b2734bcebf3e9e68cefef8f163c0d7f2&oe=5DACA98C';
+                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.0-9/p960x960/73313636_2754934727858870_2259550120825585664_o.jpg?_nc_cat=104&_nc_ohc=Irt9dmoITYwAX_FXsLO&_nc_ht=scontent.fbkk25-1.fna&_nc_tp=1002&oh=22bb4e61aeacfd7c4c449d112057dbc9&oe=5EA6ECBD';
                 } elseif ($rand == 8) {
-                    $img = 'https://scontent.fbkk5-6.fna.fbcdn.net/v/t1.0-9/60715659_2460219163997096_6055630173389193216_o.jpg?_nc_cat=102&_nc_oc=AQnklSA52ii0bEUT3ovY36pl7sGvGFe3Ca0YgirXVqvX0Ocaa-ARj_YzKygaW1sr8sRtogzE5hppvOmQGdLVzv2Y&_nc_ht=scontent.fbkk5-6.fna&oh=9a0f45c78ead99b8c86cbf4b713c8168&oe=5DB8A67E';
+                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.0-9/p960x960/72633733_2730363120316031_2836571495210156032_o.jpg?_nc_cat=101&_nc_ohc=92kI3F2uX8cAX8iKHi5&_nc_ht=scontent.fbkk25-1.fna&_nc_tp=1002&oh=c28457016333488b0c05d890116928cb&oe=5E962158';
                 } elseif ($rand == 9) {
-                    $img = 'https://scontent.fbkk5-5.fna.fbcdn.net/v/t1.0-9/58669642_2418089958210017_7638001712711598080_o.jpg?_nc_cat=100&_nc_oc=AQnrfV5gQ7HlFyefnwe9riV-5V41Yj8xgJbMznBjaoeNxE1M0IAUTjoaYCCxtqA4TTtPpmAAyhTa48Pao3X5wgxi&_nc_ht=scontent.fbkk5-5.fna&oh=27a3f4c0cc1f8764c99024c8eb46aaf0&oe=5DABAAE3';
+                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.0-9/p960x960/72331276_2728445520507791_1582679776240336896_o.jpg?_nc_cat=105&_nc_ohc=K5TOU_bP7Q0AX8hk8TL&_nc_ht=scontent.fbkk25-1.fna&_nc_tp=1002&oh=7fe623bbe58121cb252639dbd8dc9343&oe=5EA7A65D';
                 } elseif ($rand == 10) {
-                    $img = 'https://scontent.fbkk5-8.fna.fbcdn.net/v/t1.0-9/56584260_2381531805199166_5831592004781342720_o.jpg?_nc_cat=106&_nc_oc=AQm8X0ERsBQxxbH_dnALoez7VNf6sxdUIGcHNFlzH9F1_J6st4_nati56lfIG9lrxOb3WhJetoP64FprFLuEIbIC&_nc_ht=scontent.fbkk5-8.fna&oh=9e88597666df94f2ecfd4050a62e970f&oe=5D79ED96';
+                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.0-9/70838983_2683522138333463_3159692158450008064_n.jpg?_nc_cat=101&_nc_ohc=VOOiUkgdDyIAX_Uj_CN&_nc_ht=scontent.fbkk25-1.fna&oh=32f306e0bc80ea888226056fea428e9d&oe=5EA68EDC';
                 } elseif ($rand == 11) {
-                    $img = 'https://scontent.fbkk5-3.fna.fbcdn.net/v/t1.0-9/52715534_2319049751447372_7011439320791777280_o.jpg?_nc_cat=111&_nc_oc=AQmzs-UDU7PTomguUYp-jhK5NDTaS3tlM8O3p-mjCFWo9g9UeJ4Tv4Btx99cOWAxSs6mJduU4SkT0QAs9Y3otCLm&_nc_ht=scontent.fbkk5-3.fna&oh=840ad03228ccc58633627717ffd59354&oe=5DB71A45';
+                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.0-9/p960x960/70616747_2674193832599627_1450351812375740416_o.jpg?_nc_cat=104&_nc_ohc=r6HC1Vp26jwAX_Z1Ess&_nc_ht=scontent.fbkk25-1.fna&_nc_tp=1002&oh=444d6388774145639addcec459495739&oe=5E8D33D9';
                 } elseif ($rand == 12) {
-                    $img = 'https://scontent.fbkk5-8.fna.fbcdn.net/v/t1.0-9/51374387_2289931187692562_7547708808521318400_o.jpg?_nc_cat=106&_nc_oc=AQlckxzciotS7XpyjY85w8V80Js5x0Xk0Rw3Llr30ei0XnUB9WKUp_Tblmtp3nFLhm_toD-G9NtfweMInsUqczhd&_nc_ht=scontent.fbkk5-8.fna&oh=68afce33d5a408923bf4ac0562ccb754&oe=5DC5C62E';
+                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.0-9/p960x960/67840007_2604601622892182_8474614612728217600_o.jpg?_nc_cat=107&_nc_ohc=kltW_hiims4AX9Ss0hY&_nc_ht=scontent.fbkk25-1.fna&_nc_tp=1002&oh=b490eb61f10247a28d7cee5a4f5a91d6&oe=5EA262E0';
                 } elseif ($rand == 13) {
-                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.0-9/57170633_2394787150540298_1017019178764206080_o.jpg?_nc_cat=109&_nc_oc=AQl3yZmRyh2nFv6iW_2VogZ8tG9VR_Itzi1uWT3NuMSKcvF_zeQFMdUQAV-UHsuDjW5HDZ9ZukTXSmx7WlXQd4NP&_nc_ht=scontent.fbkk25-1.fna&oh=733c24ce659f2daa358bb4883a80d055&oe=5DAE87B8';
+                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.0-9/p960x960/67582802_2587340661284945_7914943995686420480_o.jpg?_nc_cat=106&_nc_ohc=GKSrDEZ2idAAX8RWJBe&_nc_ht=scontent.fbkk25-1.fna&_nc_tp=1002&oh=6c67db4912669b37a12c4dd210b85baa&oe=5E9D054B';
                 } elseif ($rand == 14) {
-                    $img = 'https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.0-9/56890408_2395710657114614_7498877237978988544_o.jpg?_nc_cat=103&_nc_oc=AQm-M0ghXkoimqY_HUW4IYIcSIIY0fMn8adIbcm15toDWwZIEpKpRy5M_-vle_zxtRNdv9hyBhYzUJVkFEbjroOt&_nc_ht=scontent.fbkk5-4.fna&oh=96d7e6acded605091ef520d3901e4b17&oe=5DC3ABED';
+                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.0-9/p960x960/69717475_2646365608715783_8089522751137644544_o.jpg?_nc_cat=109&_nc_ohc=Rp6DadpBRUkAX_CW0Bw&_nc_ht=scontent.fbkk25-1.fna&_nc_tp=1002&oh=640182c864171592215fb9b42456b112&oe=5EA45B0D';
                 } else {
                     $text = 'กินอะไรกันดีละ';
                     $case = 1;
