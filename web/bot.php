@@ -737,27 +737,25 @@ if (!is_null($events['events'])) {
             if ( strpos($textinput, 'ตู่') !== false || strpos($textinput, 'ประยุท') !== false || strpos($textinput, 'จันทรโอชา') !== false || strpos($textinput, 'ปรับทัศนคติ') !== false ) {
                 $rand = rand(0, 10);
                 if ($rand == 0) {
-                    $text = 'เอิ่มมม...งานนี้ mod จะไม่ยุ่ง 5555';
-                    $case = 1;
+                    $img = 'https://img.pptvhd36.com/contents/files/phet/%E0%B8%A1%E0%B8%8460/58d1061a7234c.jpg';
                 } elseif ($rand == 1) {
-                    $img = 'https://thaipublica.org/wp-content/uploads/2015/11/thaipulica-พล.อ.ประยุทธ์-จันทร์โอชา2.jpg';
+                    $img = 'https://www.thairath.co.th/media/dFQROr7oWzulq5FZYAdIUsZbhUGSJNuE1PgraX04G2xp6kJyhTyS9D3nerViEuA0y74.jpg';
                 } elseif ($rand == 2) {
-                    $img = 'https://www.77kaoded.com/wp-content/uploads/พล.อ.ประยุทธ์-จันทร์โอชา.jpg';
+                    $img = 'https://www.matichon.co.th/wp-content/uploads/2019/06/30-13-3.jpg';
                 } elseif ($rand == 3) {
-                    $img = 'https://www.prachachat.net/wp-content/uploads/2017/12/201701255931-1-1.jpg';
+                    $img = 'https://medias.thansettakij.com/images/2019/03/22/1553263625.jpg';
                 } elseif ($rand == 4) {
-                    $img = 'https://upload.wikimedia.org/wikipedia/commons/1/1b/Vladimir_Putin_meeting_Prayut_Chan-o-cha_%282016-05-19%29-02_cropped1.jpg';
+                    $img = 'https://www.thairath.co.th/media/dFQROr7oWzulq5FZYjuaaHgLVrx6nX81qIVlz0IT1RRP9fKbcwe3xmfunDFBMzl7Bpe.jpg';
                 } elseif ($rand == 5) {
-                    $img = 'https://www.thairath.co.th/media/CiHZjUdJ5HPNXJ92GP8NsxFOJAi5JcKcbF.jpg';
+                    $img = 'https://www.thairath.co.th/media/dFQROr7oWzulq5FZXCY2NMacRFAagfsKgupcy6vUtTYFdR6ShL9GV19VDWo8N16Mchq.jpg';
                 } elseif ($rand == 6) {
-                    $img = 'https://static.naewna.com/uploads/news/source/317203.jpg';
+                    $img = 'https://www.thairath.co.th/media/dFQROr7oWzulq5FZYSPXhkJJdmVVJzjVtbkt4qjv6pjhNVmlda8KeAKu2zC68je6uwU.jpg';
                 } elseif ($rand == 7) {
-                    $img = 'https://site-assets.mediaoxide.com/workpointnews/2019/01/13135739/1547362654_82266_22.jpg';
+                    $img = 'https://img.tnews.co.th/userfiles/images/S__4603906.jpg';
                 } elseif ($rand == 8) {
-                    $img = 'https://asiamedia.lmu.edu/wp-content/uploads/2017/10/prayut_thailand.jpg?w=640';
+                    $img = 'https://www.thairath.co.th/media/dFQROr7oWzulq5FZYSemi26hBQEHjrwfF6LOpyg9o8bAGYjFBiXxdVFPoT18cnz8gF4.jpg';
                 } elseif ($rand == 9) {
-                    $text = 'เปลี่ยนเรื่องคุยกันดีกว่ามั้ง 55555';
-                    $case = 1;
+					$img = 'http://board.postjung.com/data/910/910018-img.rfhq7j.qsy6.jpg';
                 } else {
                     $text = 'พูดชื่อนี้แล้วปวดหัว';
                     $case = 1;
@@ -993,7 +991,6 @@ if (!is_null($events['events'])) {
 2. เทียบตัวเลขคาดการณ์และครั้งก่อนว่าดีขึ้นหรือแย่ลง
 3. ถ้าทองคำหรือคู่เงินที่เทียบ usd ก็เข้าไปเช็คตลาดหุ้นสหรัฐว่าบวกหรือลบและเช็คตะกร้าเงินด้วย
 4. เข้าออเดอร์โดยใช้เทคนิคที่เหมาะสมกับสถานการณ์นั้นๆตามที่คุณได้ศึกษากันมา
-
 เข้าใจตรงกันนะ !!!';
                 } elseif ($rand == 2) {
                     $text = 'วันนี้ไม่ค่อยมีอารมณ์อ่ะ วิเคราะห์เองไปก่อนนะ';
@@ -1413,19 +1410,19 @@ if (!is_null($events['events'])) {
             if ( strpos($textinput, 'ปฏิทิน') !== false ) {
                 $text = 'เช็คได้ที่ https://www.forexfactory.com/calendar.php?day=today';
                 $case = 1;
-            }
+            }/*
             if ( strpos($textinput, 'แก้ไม้') !== false ) {
                 $text = 'วิธีการแก้ไม้แบบปิดรวบ
                 
 https://goo.gl/cOQgUR';
                 $case = 1;
-            }/*
+            }
             if ( strpos($textinput, 'ตะกร้า') !== false || strpos($textinput, 'ตระกร้า') !== false || strpos($textinput, 'finviz') !== false || strpos($textinput, 'Finviz') !== false ) {
                 $text = 'เช็คอันดับค่าเงินแบบ Real-time ได้ที่นี่ 
                 
 http://bit.ly/2JMNpeZ';
                 $case = 1;
-            }*/
+            }
             if ( strpos($textinput, 'Volume') !== false || strpos($textinput, 'volume') !== false ) {
                 $text = 'Volume คืออะไร ???
                 
@@ -1443,7 +1440,7 @@ https://goo.gl/M3gbyK';
                 
 https://goo.gl/sw6qTp';
                 $case = 1;
-            }
+            }*/
             if ( strpos($textinput, 'weltrade') !== false || strpos($textinput, 'Weltrade') !== false || strpos($textinput, 'เวลเทรด') !== false ) {
                 $text = 'Link การสมัคร (  รหัสพันธมิตรหรือรหัสผู้เเนะนำ :: 12411 )
                 
@@ -1462,11 +1459,11 @@ http://icmarkets.com/?camp=25748
             if ( strpos($textinput, 'crypto') !== false || strpos($textinput, 'digital') !== false || strpos($textinput, 'btc') !== false || strpos($textinput, 'eth') !== false || strpos($textinput, 'ltc') !== false || strpos($textinput, 'บิท') !== false || strpos($textinput, 'bitcoin') !== false || strpos($textinput, 'Bitcoin') !== false ) {
                 $text = 'เช็คราคาได้ที่นี่เลย
                 
-https://goo.gl/BdLmhS';
+https://th.investing.com/crypto/';
                 $case = 1;
             }
             if ( strpos($textinput, 'บทวิเคราะ') !== false ) {
-                $text = 'ดูบทวิเคราะห์ทองคำประจำวัน-ย้อนหลังได้ที่ http://www.tradersociety.org';
+                $text = 'ดูบทวิเคราะห์แนวต้าน-แนวรับทองคำประจำวันได้ที่ เพจ เทรดแบบนน นะ';
                 $case = 1;
             }
             if ( strpos($textinput, 'ฮ่าๆๆ') !== false || strpos($textinput, '555+') !== false || strpos($textinput, 'ฮา') !== false ) {
