@@ -1422,13 +1422,13 @@ https://goo.gl/cOQgUR';
                 
 http://bit.ly/2JMNpeZ';
                 $case = 1;
-            }
+            }*/
             if ( strpos($textinput, 'Volume') !== false || strpos($textinput, 'volume') !== false ) {
                 $text = 'Volume คืออะไร ???
                 
 http://bit.ly/31XDXPe';
                 $case = 1;
-            }
+            }/*
             if ( strpos($textinput, 'Fibo') !== false || strpos($textinput, 'fibo') !== false ) {
                 $text = 'การใช้งาน Fibo Retractment
                 
