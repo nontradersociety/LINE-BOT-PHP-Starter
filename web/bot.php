@@ -1416,13 +1416,19 @@ if (!is_null($events['events'])) {
                 
 https://goo.gl/cOQgUR';
                 $case = 1;
+            }*/
+	    if ( strpos($textinput, 'HUI') !== false ) {
+                $text = 'HUI คืออะไร
+                
+http://bit.ly/2VQAUbE';
+                $case = 1;
             }
             if ( strpos($textinput, 'ตะกร้า') !== false || strpos($textinput, 'ตระกร้า') !== false || strpos($textinput, 'finviz') !== false || strpos($textinput, 'Finviz') !== false ) {
                 $text = 'เช็คอันดับค่าเงินแบบ Real-time ได้ที่นี่ 
                 
 http://bit.ly/2JMNpeZ';
                 $case = 1;
-            }*/
+            }
             if ( strpos($textinput, 'Volume') !== false || strpos($textinput, 'volume') !== false ) {
                 $text = 'Volume คืออะไร ???
                 
@@ -1441,7 +1447,7 @@ https://goo.gl/M3gbyK';
 https://goo.gl/sw6qTp';
                 $case = 1;
             }*/
-            if ( strpos($textinput, 'weltrade') !== false || strpos($textinput, 'Weltrade') !== false || strpos($textinput, 'เวลเทรด') !== false ) {
+            if ( strpos($textinput, 'Weltrade') !== false || strpos($textinput, 'เวลเทรด') !== false ) {
                 $text = 'Link การสมัคร (  รหัสพันธมิตรหรือรหัสผู้เเนะนำ :: 12411 )
                 
 http://th.weltrade.com/?r1=ipartner&r2=12411
@@ -1449,7 +1455,7 @@ http://th.weltrade.com/?r1=ipartner&r2=12411
                 $case = 1;
             }
 
-            if ( strpos($textinput, 'icmarket') !== false || strpos($textinput, 'Icmarket') !== false || strpos($textinput, 'ICmarket') !== false || strpos($textinput, 'ไอซี') !== false ) {
+            if ( strpos($textinput, 'Icmarket') !== false ) {
                 $text = 'Link การสมัคร
                 
 http://icmarkets.com/?camp=25748
