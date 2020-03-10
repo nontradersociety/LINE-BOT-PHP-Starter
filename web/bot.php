@@ -1422,13 +1422,13 @@ https://goo.gl/cOQgUR';
                 
 http://bit.ly/2VQAUbE';
                 $case = 1;
-            }
+            }/*
             if ( strpos($textinput, 'ตะกร้า') !== false || strpos($textinput, 'ตระกร้า') !== false || strpos($textinput, 'finviz') !== false || strpos($textinput, 'Finviz') !== false ) {
                 $text = 'เช็คอันดับค่าเงินแบบ Real-time ได้ที่นี่ 
                 
 http://bit.ly/2JMNpeZ';
                 $case = 1;
-            }
+            }*/
             if ( strpos($textinput, 'Volume') !== false || strpos($textinput, 'volume') !== false ) {
                 $text = 'Volume คืออะไร ???
                 
