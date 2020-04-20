@@ -1066,8 +1066,8 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-            if ( strpos($textinput, 'ovt') !== false || strpos($textinput, 'OVT') !== false || strpos($textinput, 'Ovt') !== false || strpos($textinput, 'overtrade') !== false || strpos($textinput, 'Overtrade') !== false ) {
-                $rand = rand(0, 4);
+            if ( strpos($textinput, 'ovt') !== false || strpos($textinput, 'OVT') !== false || strpos($textinput, 'Ovt') !== false || strpos($textinput, 'overtrade') !== false || strpos($textinput, 'Overtrade') !== false || strpos($textinput, 'overlot') !== false ) {
+                $rand = rand(0, 10);
                 if ($rand == 0) {
                     $text = 'เป็นสิ่งที่ไม่สมควรทำเลยนะ';
                 } elseif ($rand == 1) {
@@ -1076,6 +1076,18 @@ if (!is_null($events['events'])) {
                     $text = 'ไม่ดีมั้ง พอร์ตจะเสี่ยงไป';
                 } elseif ($rand == 3) {
                     $text = 'ระวังพอร์ตบินนะถ้ากราฟผันผวน';
+                } elseif ($rand == 4) {
+                    $text = 'ถ้าวิเคราะห์ไม่ดีจากรวยเป็นล้างเลยนะ';
+                } elseif ($rand == 5) {
+                    $text = 'ใจถึงนี่หว่าถึงกล้า ovt';
+                } elseif ($rand == 6) {
+                    $text = 'แน่ใจนะว่าไม้ที่ ovt จะไม่โดนลาก';
+                } elseif ($rand == 7) {
+                    $text = 'รวยหรือล้าง 555';
+                } elseif ($rand == 8) {
+                    $text = 'ขอให้โดนลาก :p';
+                } elseif ($rand == 9) {
+                    $text = 'พอร์ตทนไหวกี่จุด';
                 } else {
                     $text = 'ovt ?? รวยกับล้างมีเส้นบางๆกันอยู่นะ 555';
                 }
@@ -1472,7 +1484,7 @@ https://th.investing.com/crypto/';
                 $text = 'ดูบทวิเคราะห์แนวต้าน-แนวรับทองคำประจำวันได้ที่ เพจ เทรดแบบนน นะ';
                 $case = 1;
             }
-            if ( strpos($textinput, 'ฮ่าๆๆ') !== false || strpos($textinput, '555+') !== false || strpos($textinput, 'ฮา') !== false ) {
+            if ( strpos($textinput, 'ฮ่าๆๆ') !== false || strpos($textinput, '555') !== false || strpos($textinput, 'ฮา') !== false ) {
                 $rand = rand(0, 6);
                 if ($rand == 0) {
                     $array = [
