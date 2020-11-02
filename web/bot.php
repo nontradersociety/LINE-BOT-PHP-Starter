@@ -115,119 +115,119 @@ if (!is_null($events['events'])) {
                 $rand = rand(1, 29);
                 switch ($rand) {
                     case 1:
-                        $text = 'https://www.instagram.com/nookzii/';
-                        $case = 1;
+                        $img = 'https://images.mover.in.th/wp-content/uploads/2020/06/28215717/62c10a37-4137-40b1-b4cf-12d9fdc9e8b1.jpg';
+                        $case = 2;
                         break;
                     case 2:
                         $text = 'https://www.instagram.com/bunny_ployfon/';
                         $case = 1;
                         break;
                     case 3:
-                        $text = 'https://www.instagram.com/bamzilla/';
-                        $case = 1;
+                        $img = 'https://www.setup999.com/wp-content/uploads/2019/01/gg3-12.jpg';
+                        $case = 2;
                         break;
                     case 4:
                         $text = 'https://www.instagram.com/nannyy/';
                         $case = 1;
                         break;
                     case 5:
-                        $text = 'https://www.instagram.com/alexz_sarocha/';
-                        $case = 1;
+                        $img = 'https://i.pinimg.com/originals/ff/a8/ed/ffa8edc54dd2468d12f01a5ad7268de3.jpg';
+                        $case = 2;
                         break;
                     case 6:
                         $text = 'https://www.instagram.com/berryying/';
                         $case = 1;
                         break;
                     case 7:
-                        $text = 'https://www.instagram.com/_nungnink_/';
-                        $case = 1;
+                        $img = 'https://cheerball.com/uploads/images/gossip/201808/20180807054551_8pk.jpg';
+                        $case = 2;
                         break;
                     case 8:
                         $text = 'https://www.instagram.com/beth_lookgade/';
                         $case = 1;
                         break;
                     case 9:
-                        $text = 'https://www.instagram.com/elle_elin/';
-                        $case = 1;
+                        $img = 'https://i.pinimg.com/originals/2b/1f/a0/2b1fa07b59e98e35843e215714fc1f1d.jpg';
+                        $case = 2;
                         break;
                     case 10:
                         $text = 'https://www.instagram.com/fearythanyarat/';
                         $case = 1;
                         break;
                     case 11:
-                        $text = 'https://www.instagram.com/bunny.fuengfah/';
-                        $case = 1;
+                        $img = 'https://i.pinimg.com/originals/d1/bb/7c/d1bb7cd57546981a7672bc73f59017f2.jpg';
+                        $case = 2;
                         break;
                     case 12:
                         $text = 'https://www.instagram.com/n_kang_nung/';
                         $case = 1;
                         break;
                     case 13:
-                        $text = 'https://www.instagram.com/dejarvu/';
-                        $case = 1;
+                        $img = 'https://i.pinimg.com/originals/3b/b5/51/3bb551e5e8979ee8dbed70c53842aeb4.jpg';
+                        $case = 2;
                         break;
                     case 14:
                         $text = 'https://www.instagram.com/wpearita/';
                         $case = 1;
                         break;
                     case 15:
-                        $text = 'https://www.instagram.com/miikuskie/';
-                        $case = 1;
+                        $img = 'https://scontent.fbkk26-1.fna.fbcdn.net/v/t1.0-9/101881150_1992322827587900_5578854229046460416_o.jpg?_nc_cat=104&ccb=2&_nc_sid=8bfeb9&_nc_eui2=AeGXfnRDJE07Fxl4WmEHKbHYB_NJdeHR7sYH80l14dHuxhDULZ4NlIKBaLRng5wHhveBDBmCxSmNhqWCDgcYvkJX&_nc_ohc=s9vJ1OFLueoAX8kHG5p&_nc_ht=scontent.fbkk26-1.fna&oh=0f14afe7c5f04d1d01dd18094518c336&oe=5FC4848A';
+                        $case = 2;
                         break;
                     case 16:
                         $text = 'https://www.instagram.com/cutegirlthailand/';
                         $case = 1;
                         break;
                     case 17:
-                        $text = 'https://www.instagram.com/jomjamspch/';
-                        $case = 1;
+                        $img = 'https://scontent.fbkk26-1.fna.fbcdn.net/v/t1.0-9/96215243_2887386278014194_1980143089263575040_n.jpg?_nc_cat=102&ccb=2&_nc_sid=8bfeb9&_nc_eui2=AeHliA_vkiWWxE6BlGiGpkO_KHwRiVL3d9QofBGJUvd31MnHHN84ePW9HWieD2HGgvRtn5T4SOX1o5SpQxqC8kEi&_nc_ohc=Z1ZIL-ejH1MAX_A9fei&_nc_ht=scontent.fbkk26-1.fna&oh=731878c9638626b80720da654e5d4a76&oe=5FC43CED';
+                        $case = 2;
                         break;
                     case 18:
                         $text = 'https://www.instagram.com/nuchcheeber/';
                         $case = 1;
                         break;
                     case 19:
-                        $text = 'https://www.instagram.com/skykikijung/';
-                        $case = 1;
+                        $img = 'https://scontent.fbkk26-1.fna.fbcdn.net/v/t1.0-9/91294467_2884178648314815_7570293370061324288_o.jpg?_nc_cat=103&ccb=2&_nc_sid=8bfeb9&_nc_eui2=AeFrou7RUbxWjhlyroirf9toVwyms0-Jtx9XDKazT4m3H1fx5PM5ETxqUJNKZZn_h_-jHOH5Y0K7Ht5d1-ePA8YQ&_nc_ohc=F8JYcuODWy0AX89QrGA&_nc_oc=AQnSx9yPGOm8_T8pSK9MG4HeBhSQilr39yzkTmIeBi_oiZZVpSimRPAz10K32-DjNpc&_nc_ht=scontent.fbkk26-1.fna&oh=330b8da9ac161ccf1dbc8f60e096f707&oe=5FC72453';
+                        $case = 2;
                         break;
                     case 20:
                         $text = 'https://www.instagram.com/crystal_girls_/';
                         $case = 1;
                         break;
                     case 21:
-                        $text = 'https://www.instagram.com/donutacm/';
-                        $case = 1;
+                        $img = 'https://scontent.fbkk26-1.fna.fbcdn.net/v/t1.0-9/90102736_2883212695055727_373260326201720832_o.jpg?_nc_cat=103&ccb=2&_nc_sid=8bfeb9&_nc_eui2=AeHsO4LKsNsqnLgu4PI9tNnz-Ka8Xz4nnCH4prxfPiecIfinKQzWc5XPUNjrjBsr2tKOBxtFHOnv96Ju4SdFJ958&_nc_ohc=lmQKZR_NMnEAX_4N8JI&_nc_ht=scontent.fbkk26-1.fna&oh=d31bd360074e195f1c5a2ec3f9f50b03&oe=5FC6F591';
+                        $case = 2;
                         break;
                     case 22:
                         $text = 'https://www.instagram.com/jaaeynano/';
                         $case = 1;
                         break;
                     case 23:
-                        $text = 'https://www.instagram.com/fhm_ohly/';
-                        $case = 1;
+                        $img = 'https://scontent.fbkk26-1.fna.fbcdn.net/v/t1.0-9/70387833_2308556456062381_3824333588682244096_o.jpg?_nc_cat=103&ccb=2&_nc_sid=730e14&_nc_eui2=AeFXeG7NFEWvidfZOjpXaWMVIhuKEeFZPioiG4oR4Vk-KoUL6AT3-G99gsoJ6-P0zRVQrRHV9QDO-DU2bWvU327a&_nc_ohc=_20ubA7GinoAX-3xVIb&_nc_ht=scontent.fbkk26-1.fna&oh=dc58863896f6b8217ff4746296f7acd8&oe=5FC4DD8D';
+                        $case = 2;
                         break;
                     case 24:
                         $text = 'https://www.instagram.com/padpudd/';
                         $case = 1;
                         break;
                     case 25:
-                        $text = 'https://www.instagram.com/fhm_tanya/';
-                        $case = 1;
+                        $img = 'https://scontent.fbkk26-1.fna.fbcdn.net/v/t1.0-9/121781336_2656369251341562_3448441772676403536_o.jpg?_nc_cat=105&ccb=2&_nc_sid=8bfeb9&_nc_eui2=AeEFm4fzoKFkUfNHLVdUvhk6BryhVKvbUrcGvKFUq9tSt1OHA5rs5vco20JnYrXi8ycTX6JRrG64pbQaKoeq98yZ&_nc_ohc=0M9FzZleTygAX-S720j&_nc_ht=scontent.fbkk26-1.fna&oh=48e2a998983c12fc8d19326416b5260a&oe=5FC673B7';
+                        $case = 2;
                         break;
                     case 26:
                         $img = 'https://images.app.goo.gl/c2Niwgx7vzDSLsr76';
                         $case = 2;
                         break;
                     case 27:
-                        $img = 'https://scontent-frx5-1.cdninstagram.com/vp/4fff2d80391526e8ea2c238d219b3789/5D0DDD44/t51.2885-15/e35/39525728_326268768128891_7215001245700849664_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&se=7&ig_cache_key=MTg1NjY0MjQzMDA0MDk0MTQ5OQ%3D%3D.2';
+                        $img = 'https://scontent.fbkk26-1.fna.fbcdn.net/v/t1.0-9/121568545_4469386279770283_2761464031873030729_n.jpg?_nc_cat=107&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeGlyRa7Aex-OVuTXXXPr-YY4PNYFV8b_eXg81gVXxv95bH3m_pCS-i8hGcpxB3ocPMCkMnzs1QRTAKbDyrAyLkj&_nc_ohc=GOua4S4aQSQAX-dgmyF&_nc_ht=scontent.fbkk26-1.fna&oh=5bf621b3145fdcf863568319e2871f8b&oe=5FC7AC1A';
                         $case = 2;
                         break;
                     case 28:
-                        $img = 'https://i.pinimg.com/originals/3d/dc/be/3ddcbe76d3e0b6da38af306e73d1a5b8.jpg';
+                        $img = 'https://scontent.fbkk26-1.fna.fbcdn.net/v/t1.0-9/118530065_2606202713024883_6249386831198843101_o.jpg?_nc_cat=103&ccb=2&_nc_sid=8bfeb9&_nc_eui2=AeGcPPqNgEMfHopBQ3sHtcL6I72QmQoyR0ojvZCZCjJHSgmgrbnHrL9OWs-GrDbnvHVtwH8ARajiGB3PSeBsW36I&_nc_ohc=3DFRWjOW7bsAX8mzm_R&_nc_ht=scontent.fbkk26-1.fna&oh=bba72d983a1454934e9d3a4d9d483b0c&oe=5FC5382A';
                         $case = 2;
                         break;
                     case 29:
-                        $img = 'https://s.isanook.com/wo/0/ud/21/108061/108061-20180418020812-b42a9c2.jpg';
+                        $img = 'https://scontent.fbkk26-1.fna.fbcdn.net/v/t1.0-9/106110353_667968540457485_2455036747469106088_o.jpg?_nc_cat=107&ccb=2&_nc_sid=8bfeb9&_nc_eui2=AeH-gJ355XjhfhGT9K6xs7tLIHHcCjCu3qsgcdwKMK7eq7q2OE8PP5iJSOPM4_BnbIdkv1Pp6kA6pFGKcCTOkM6v&_nc_ohc=jmwnhVCEcSgAX9BLlvE&_nc_ht=scontent.fbkk26-1.fna&oh=f1096f410f1ae71b3f4037c98a5fb9cd&oe=5FC769D6';
                         $case = 2;
                         break;
                 }
