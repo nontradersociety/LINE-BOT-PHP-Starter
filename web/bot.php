@@ -42,7 +42,8 @@ if (!is_null($events['events'])) {
                         $myfile = fopen("data.txt", "r") or die("Unable to open file!");
                         $data = fread($myfile,filesize("data.txt"));
                         if($data == "1") {*/
-            if (strpos($textinput, 'บอล') !== false) {
+		
+            if (strpos($textinput, 'ผลบอล') !== false) {
                 $message = '
 ';
                 $html = file_get_contents('http://livescore.siamsport.co.th/widget/fixtures_results/1204/1');
@@ -107,10 +108,7 @@ if (!is_null($events['events'])) {
                 $text = $message;
                 $case = 1;
             }
-            if (strpos($textinput, 'คะแนน') !== false) {
-                $text = 'ดูเอาเอง -> http://livescore.siamsport.co.th/widget/standing/1204';
-                $case = 1;
-            }
+
             if (strpos($textinput, 'สาว') !== false) {
                 $rand = rand(1, 29);
                 switch ($rand) {
