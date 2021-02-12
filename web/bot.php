@@ -1294,6 +1294,21 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
+            if ( strpos($textinput, 'สึด') !== false || strpos($textinput, 'สึส') !== false || strpos($textinput, 'คุวย') !== false || strpos($textinput, 'สึด') !== false || strpos($textinput, 'ไอเวร') !== false || strpos($textinput, 'ไอเวน') !== false ) {
+                $rand = rand(0, 5);
+                if ($rand == 0) {
+                    $text = 'พูดให้มันดีๆหน่อยได้ป่ะ';
+                } elseif ($rand == 1) {
+                    $text = 'อย่ามากร่างแถวนี้เดี๋ยวจะโดนตบเอา';
+                } elseif ($rand == 2) {
+                    $text = 'พูดคำหยาบนี่ยังไง อยากใส่เดี่ยวว่างั้น';
+                } elseif ($rand == 3) {
+                    $text = 'ปากดีจัง';
+                } elseif ($rand == 4) {
+                    $text = 'เคยพิมพ์อยู่แล้วหงายหลังป่ะ ???';
+                }
+                $case = 1;
+            }
             if ( strpos($textinput, 'กาก') !== false || strpos($textinput, 'กา ก') !== false || strpos($textinput, 'ก า ก') !== false || strpos($textinput, 'ก าก') !== false || strpos($textinput, 'kak') !== false || strpos($textinput, 'Kak') !== false || strpos($textinput, 'KAK') !== false ) {
                 $rand = rand(0, 10);
                 if ($rand == 0) {
