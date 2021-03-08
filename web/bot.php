@@ -495,7 +495,7 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-            if ( strpos($textinput, 'กวนติง') !== false || strpos($textinput, 'สึด') !== false || strpos($textinput, 'เควี้ย') !== false || strpos($textinput, 'เชี้ย') !== false || strpos($textinput, 'กลาก') !== false || strpos($textinput, 'กราก') !== false ) {
+            if ( strpos($textinput, 'กวนติง') !== false || strpos($textinput, 'สึด') !== false || strpos($textinput, 'เควี้ย') !== false || strpos($textinput, 'เชี้ย') !== false || strpos($textinput, 'คุวย') !== false ) {
                 $rand = rand(0, 1);
                 if ($rand == 0) {
                     $text = 'แหนะๆ จะด่าก็มาเลย ไม่ต้องทำเป็นเนียน';
