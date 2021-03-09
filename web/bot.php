@@ -349,27 +349,27 @@ if (!is_null($events['events'])) {
                 } elseif ($rand == 4) {
                     $img = 'https://static.onecms.io/wp-content/uploads/sites/20/2020/11/30/Janet-Yellen.jpg';
                 } elseif ($rand == 5) {
-                    img = 'https://api.time.com/wp-content/uploads/2016/09/gettyimages-495620136.jpg';
+                    $img = 'https://api.time.com/wp-content/uploads/2016/09/gettyimages-495620136.jpg';
                 } elseif ($rand == 6) {
-                    img = 'https://static.timesofisrael.com/www/uploads/2020/11/Untitled-30.jpg';
+                    $img = 'https://static.timesofisrael.com/www/uploads/2020/11/Untitled-30.jpg';
                 } elseif ($rand == 7) {
-                    img = 'https://wgnradio.com/wp-content/uploads/sites/6/2021/03/4793d11a8dcb41a7a54bd20fc121cbbf.jpg?w=2560&h=1440&crop=1';
+                    $img = 'https://wgnradio.com/wp-content/uploads/sites/6/2021/03/4793d11a8dcb41a7a54bd20fc121cbbf.jpg?w=2560&h=1440&crop=1';
                 } elseif ($rand == 8) {
-                    img = 'https://image.cnbcfm.com/api/v1/image/104723997-GettyImages-850232670-janet-yellen.jpg?v=1614988149';
+                    $img = 'https://image.cnbcfm.com/api/v1/image/104723997-GettyImages-850232670-janet-yellen.jpg?v=1614988149';
                 } elseif ($rand == 9) {
-                    img = 'https://news.bitcoin.com/wp-content/uploads/2019/09/yellen-bitcoin-speculative.jpg';
+                    $img = 'https://news.bitcoin.com/wp-content/uploads/2019/09/yellen-bitcoin-speculative.jpg';
                 } elseif ($rand == 10) {
-                    img = 'https://images.barrons.com/im-263891?width=1280&size=1';
+                    $img = 'https://images.barrons.com/im-263891?width=1280&size=1';
                 } elseif ($rand == 11) {
-                    img = 'https://static01.nyt.com/images/2016/02/11/business/11fed3/11fed3-superJumbo.jpg';
+                    $img = 'https://static01.nyt.com/images/2016/02/11/business/11fed3/11fed3-superJumbo.jpg';
                 } elseif ($rand == 12) {
-                    img = 'https://cms.qz.com/wp-content/uploads/2020/11/2017-12-13T201246Z_930034851_RC1D481B33A0_RTRMADP_3_USA-FED-YELLEN-e1606245807705.jpg?quality=75&strip=all&w=1200&h=900&crop=1';
+                    $img = 'https://cms.qz.com/wp-content/uploads/2020/11/2017-12-13T201246Z_930034851_RC1D481B33A0_RTRMADP_3_USA-FED-YELLEN-e1606245807705.jpg?quality=75&strip=all&w=1200&h=900&crop=1';
                 } elseif ($rand == 13) {
-                    img = 'https://i.insider.com/5fbff22b037cbd0018612811';
+                    $img = 'https://i.insider.com/5fbff22b037cbd0018612811';
                 } elseif ($rand == 14) {
-                    img = 'https://images.barrons.com/im-264983?width=1280&size=1';
+                    $img = 'https://images.barrons.com/im-264983?width=1280&size=1';
                 } else {
-                    img = 'https://upload.wikimedia.org/wikipedia/commons/f/f4/Janet_Yellen_official_Federal_Reserve_portrait.jpg';
+                    $img = 'https://upload.wikimedia.org/wikipedia/commons/f/f4/Janet_Yellen_official_Federal_Reserve_portrait.jpg';
                 }
                 $case = 2;
             }
