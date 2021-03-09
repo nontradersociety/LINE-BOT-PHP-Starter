@@ -1341,25 +1341,25 @@ if (!is_null($events['events'])) {
                     $text = 'พูดให้มันดีๆหน่อยได้ป่ะ';
                 } elseif ($rand == 1) {
                     $array = [
-                        "id" => "11537",
+                        "id" => "325708",
                         "type" => "sticker",
-                        "packageId" => "1",
+                        "packageId" => "11537",
                         "stickerId" => "52002773"
                     ];
                     $case = 4;
                 } elseif ($rand == 2) {
                     $array = [
-                        "id" => "11537",
+                        "id" => "325708",
                         "type" => "sticker",
-                        "packageId" => "1",
+                        "packageId" => "11537",
                         "stickerId" => "52002767"
                     ];
                     $case = 4;
                 } elseif ($rand == 3) {
                     $array = [
-                        "id" => "11537",
+                        "id" => "325708",
                         "type" => "sticker",
-                        "packageId" => "1",
+                        "packageId" => "11537",
                         "stickerId" => "52002772"
                     ];
                     $case = 4;
@@ -1525,25 +1525,25 @@ https://th.investing.com/crypto/';
                     $case = 4;
                 } elseif ($rand == 4) {
                     $array = [
-                        "id" => "11538",
+                        "id" => "325708",
                         "type" => "sticker",
-                        "packageId" => "1",
+                        "packageId" => "11538",
                         "stickerId" => "51626504"
                     ];
                     $case = 4;
                 } elseif ($rand == 5) {
                     $array = [
-                        "id" => "11538",
+                        "id" => "325708",
                         "type" => "sticker",
-                        "packageId" => "1",
+                        "packageId" => "11538",
                         "stickerId" => "51626512"
                     ];
                     $case = 4;
                 } elseif ($rand == 6) {
                     $array = [
-                        "id" => "11538",
+                        "id" => "325708",
                         "type" => "sticker",
-                        "packageId" => "1",
+                        "packageId" => "11538",
                         "stickerId" => "51626498"
                     ];
                     $case = 4;
