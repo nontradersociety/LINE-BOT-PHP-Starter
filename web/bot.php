@@ -1497,7 +1497,7 @@ https://th.investing.com/crypto/';
                 $case = 1;
             }
             if ( strpos($textinput, 'ฮ่าๆๆ') !== false || strpos($textinput, '555') !== false || strpos($textinput, 'ฮา') !== false ) {
-                $rand = rand(0, 6);
+                $rand = rand(0, 10);
                 if ($rand == 0) {
                     $array = [
                         "id" => "325708",
