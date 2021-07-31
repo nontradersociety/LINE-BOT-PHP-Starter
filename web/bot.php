@@ -670,67 +670,49 @@ if (!is_null($events['events'])) {
                 $case = 1;
             }
             if ( strpos($textinput, 'หิว') !== false ) {
-                $rand = rand(0, 15);
+                $rand = rand(0, 20);
                 if ($rand == 0) {
                     $img = '';
                 } elseif ($rand == 1) {
-                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/180619231_4214022221950106_6792570831205053467_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=0debeb&_nc_eui2=AeHUX-_qe9Stbwbup1kRdHrKKeLEZ-PvjGIp4sRn4--MYrhKBCntPiu5EoK1NAUVKiFqrRnCU830j5Qqu_616l5E&_nc_ohc=W1d8fGPn5SwAX9zoTXm&_nc_ht=scontent.fbkk25-1.fna&oh=f8b377d65b78020954012cfe0f10e348&oe=60B41ED5';
+                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/221652076_4467260049959654_5700117288862481106_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=0debeb&_nc_eui2=AeHBCU9M_2HcVD3JvCPOL5DkPL2jHNqZ0Wk8vaMc2pnRaRxE0QqfjiqtI2qYyGIu5d3l1qn1J8h438jmWEgu5UVK&_nc_ohc=kEDbb4u1j0UAX9WS8qo&_nc_ht=scontent.fbkk25-1.fna&oh=4400b8cd1b0682ae888d86127738b515&oe=6109089E';
                 } elseif ($rand == 2) {
-                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/178971209_4212144498804545_3511260787664127000_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=0debeb&_nc_eui2=AeHvivWyXxRueVkvJT8-SN_Vw790xNxhIvnDv3TE3GEi-cZ1pBmNGEqf25iUchfUjDjDJgxmTo7-G81_8dQ09T5r&_nc_ohc=DCEKpeKiB04AX-Iki_-&_nc_ht=scontent.fbkk25-1.fna&oh=35e7029c9c26f9029dba40db6bdc4da5&oe=60B5C04C';
-                } elseif ($rand == 3) {
-                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/172551845_4194544393897889_1758112349898774721_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=0debeb&_nc_eui2=AeFk-lFjAodfLIgQlw-FH9kJiSZI1RdsQ6OJJkjVF2xDozLS6h4O70MuHSga8WD7bjRj0CjD9CGiSKO_HRfRvA05&_nc_ohc=m5w-KwG8JgQAX8yEtsi&_nc_ht=scontent.fbkk25-1.fna&oh=7afdb40c37096e6457bdc23283d6786d&oe=60B626F0';
-                } elseif ($rand == 4) {
-                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/141575950_3943923535626644_8063921576053338924_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=0debeb&_nc_eui2=AeH5UBcsCD5giZx0KRM5e-4W1DRvzaExJEjUNG_NoTEkSPTYELPinh9VZaDI1RtJh7Q4qCRz6OtGIQJWFMiDFLkI&_nc_ohc=nVLxeTsHXzoAX_67mRg&_nc_oc=AQmAe34aiUSg5xnod2EuzJ-gvthUTVGW756qgbq57qY5L7722Qa3bFauDP1iDZ_MO1wC1DYtGwJEzUCLTqAnJsRO&_nc_ht=scontent.fbkk25-1.fna&oh=68fdbbd64624cfee764d95daf0400177&oe=60B45FC0';
-                } elseif ($rand == 5) {
-                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/129901871_3820311631321169_582832000698030433_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=0debeb&_nc_eui2=AeH13AEhhAAEEKeHuAXI9c0wB210vJNhKFgHbXS8k2EoWOcNnqCAL-yU-f_kxHjMN__l4h8h1s-cedDazQ9ziM9-&_nc_ohc=DGByLCbYfJ8AX_zcYXZ&_nc_ht=scontent.fbkk25-1.fna&oh=d26646f984237cb292ef0565812191b5&oe=60B50879';
-                } elseif ($rand == 6) {
-                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/121089631_3653764667975867_569258787972615004_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=0debeb&_nc_eui2=AeFRy2B6klV7TIrUBndR0LVKv3cXUk76qQy_dxdSTvqpDGEZblBC_6rXEr74GU5Yb2A5hzCLW14vTj4nIt5d4czL&_nc_ohc=p-L1HwetBu4AX_P-shx&_nc_oc=AQm-Hc2wC18mnO-jePF2pibn5w24cDwDdSg9xnV1w4Xc_h72yUZqpcaykVgcadH4Xu2IyvI-8X92yL1DPlqAv2a0&_nc_ht=scontent.fbkk25-1.fna&oh=ac097b8e0847a454601d3624d69b9a25&oe=60B3D32A';
-                } elseif ($rand == 7) {
-                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/149862383_3998885480130449_4108807332020014452_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=0debeb&_nc_eui2=AeFWqu5bODMCsaDx1uwVBAjOxARxQw7cqkzEBHFDDtyqTC8J0IUeIEGcws2Z8TuH21leFrLnj9vc03Ms7sNnEtqf&_nc_ohc=0qmxS6XCg4UAX-X3BC3&_nc_ht=scontent.fbkk25-1.fna&oh=cfa957ff5569af739cc2acccf516cc81&oe=60B5B02A';
-                } elseif ($rand == 8) {
-                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/160995845_4076968232322173_269069766176849489_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=0debeb&_nc_eui2=AeE8vRdp-8zID-2NJM0JpXd4iN3uFnbZ0_CI3e4WdtnT8JFsXe3aV75BhWT0cmlRXnytYs0sDMfDlmcwmYGNt0Wh&_nc_ohc=E3iKErWqCm8AX9UgMjY&_nc_ht=scontent.fbkk25-1.fna&oh=0cbe6670a1779c7392cbdfe9cdd5d3c2&oe=60B68AFE';
-                } elseif ($rand == 9) {
-                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/164611792_4105455169473479_3288623989102304015_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=0debeb&_nc_eui2=AeFPPn9fhtdYNBxKZlMOxojmrWFV6EC4222tYVXoQLjbbYtADjh5F0fezTiG9nL14hQCusbvZH1nQgEIbhuZdC9c&_nc_ohc=H4qTv4hO62UAX9kX4lk&_nc_ht=scontent.fbkk25-1.fna&oh=79f4de86b277c1aac3c943563cae4239&oe=60B632C9';
-                } elseif ($rand == 10) {
-                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/169851365_4144427952242867_8265799786155415014_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=0debeb&_nc_eui2=AeHiA3dzByrb0yOTd_A6rF9Fq3Hj0y1mBnqrcePTLWYGenlkmin0CJeV44naRQc7UtWZnVqJiuBUgCh5c-5OA5YO&_nc_ohc=K2hPrFK7ylcAX8Y1nWj&_nc_ht=scontent.fbkk25-1.fna&oh=2a21c8eff4db3e531c8d35dd216e8812&oe=60B3E54C';
-                } elseif ($rand == 11) {
-                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/174087923_4171015402917455_224772930998176735_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=0debeb&_nc_eui2=AeF-n9Ul3ye2Ws7U3qa5xLE58MQBcvxpp4XwxAFy_GmnhTrXxzWeOtVBYbiba3Jlut4bS35pvfc9EaASV0qnpkyE&_nc_ohc=bhys55-rV8UAX9P_rlH&_nc_ht=scontent.fbkk25-1.fna&oh=796e48d0aff6ebec6416822ae32a7c98&oe=60B6469C';
-                } elseif ($rand == 12) {
-                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/174703776_4176134355738893_3487270251345186935_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=0debeb&_nc_eui2=AeEO5Mt2QlZHXXvysbpS5suxCjLA05ZnQk0KMsDTlmdCTfajkfQ2ht2ZqPMp6JHV6SEEhqOipJK6odHYDp9hRJ8E&_nc_ohc=XCBI_TU6M_cAX8gdebD&_nc_ht=scontent.fbkk25-1.fna&oh=40bc805b1aca3c833bc0b27045f167fb&oe=60B4AB98';
-                } elseif ($rand == 13) {
-                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/175435088_4180368051982190_8448170036985586484_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=0debeb&_nc_eui2=AeHaXPWllveitmXPsHDYWIkP_-zNk365anL_7M2TfrlqchO3__1PK1n1CyGE6JnOrCNAksrNAcsOTfbIRd6zZs0d&_nc_ohc=H4MWVXJMIWcAX-toRej&_nc_ht=scontent.fbkk25-1.fna&oh=10443d6d0dad32b62ab56cb246fb19f9&oe=60B43E63';
-                } elseif ($rand == 14) {
-                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/173986952_4180368455315483_8022018229143385890_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=0debeb&_nc_eui2=AeG3LhApGQCX2a0EeEzkn7aWrd7Cq8obJ4it3sKryhsniO9X6All0OrUaI8ULKmvdmKzVjFCWSY618RwbQTh9IRu&_nc_ohc=AG6HrjM0T04AX91b2y8&_nc_ht=scontent.fbkk25-1.fna&oh=d38642e94594fe20e501d03f19ef26b6&oe=60B427D4';
-                } else {
+                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/222390124_4467259976626328_4655722589379329376_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=0debeb&_nc_eui2=AeFoCTq3DEu9BA48boYRkCZFwDXrEGsl9ebANesQayX15rSDv4jS5fkaffVWxwAs4GJ-wOCs_jeujwTv2vOKjBwj&_nc_ohc=BkPbqie9vzcAX8L_bLN&tn=dnQ4NQk8Njp5JHP1&_nc_ht=scontent.fbkk25-1.fna&oh=fff2eabd8ea6475fa9a13323bbb4f371&oe=6109FB6D';
+		} elseif ($rand == 3) {
+                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/217818374_4461334550552204_967818571329433070_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=0debeb&_nc_eui2=AeEixkHf2F_AfZbJAb1C9UzmJeCV3srQ4zkl4JXeytDjOfBTTI-13bPNwND48kQH6iihP879NlkGVoCfyMXHptKE&_nc_ohc=XfRzNIyxR7cAX93u_ia&_nc_ht=scontent.fbkk25-1.fna&oh=343b37ccf8f9de1d4dffef6452a8e24f&oe=6109529D';
+		} elseif ($rand == 4) {
+                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/219233275_4461333433885649_8908378468703868566_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=0debeb&_nc_eui2=AeHBgkmcgeG5uWhVh1KJGpTu43V-PMIcsWvjdX48whyxa-KcCcA_bThs0gQv49tUkPMXuUC2SDPDTcCtaLC5z7Eo&_nc_ohc=jkqRqE1Vsb8AX_ZwjKE&_nc_ht=scontent.fbkk25-1.fna&oh=f2d02de2ad47de67ef99d9de3a266e65&oe=610A25E6';
+		} elseif ($rand == 5) {
+                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/218290952_4446208988731427_458644359059021459_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=8bfeb9&_nc_eui2=AeHnifoFJi5NahANg6xu1_AkQChcwoKB4x5AKFzCgoHjHpG_mvSckDzpZbi3dTK6oEGniN29NP8VB74WWZS9Do5I&_nc_ohc=st-TcsruB88AX-yebu2&_nc_ht=scontent.fbkk25-1.fna&oh=57e0f4c8b6eca7a34397a716df8dc79e&oe=610A2680';
+		} elseif ($rand == 6) {
+                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/207443929_4385366884815638_2906856659020860039_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=0debeb&_nc_eui2=AeHYR4lUI8L0pB1-cojQQ8CUOfYJZpl7L9g59glmmXsv2AZWvY4CdSF_Wwd6DoYdaG9I8SJZXiDFFUEMRPjYB4cI&_nc_ohc=Zr1Je09FAKoAX9ExiHb&tn=dnQ4NQk8Njp5JHP1&_nc_ht=scontent.fbkk25-1.fna&oh=f3ad274c2faa4d8e54a0f885cad12cd2&oe=612BE54A';
+		} elseif ($rand == 7) {
+                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/202337050_4367046553314338_4520780647949431066_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=0debeb&_nc_eui2=AeHXGJ5GPKMJOCV6qKMJMJQjH4GNrWUJSA8fgY2tZQlIDzy9Rr9pcjEkF5BxCYE879xAwjimSMUBQAbM_TRVY08R&_nc_ohc=xaVU_zykgB0AX-6ccNI&tn=dnQ4NQk8Njp5JHP1&_nc_ht=scontent.fbkk25-1.fna&oh=bf895668ec79b60e7cf1ece24799199a&oe=6129BA55';
+		} elseif ($rand == 8) {
+                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/203248360_4367046323314361_1958734081124416100_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=0debeb&_nc_eui2=AeGbsB5v87tlAhMYAlowSIOgRy9gr5TpMOFHL2CvlOkw4WaCmaxqNn-sjevExBWvP_m6kWr7j4OcEl1uUXBwVhEp&_nc_ohc=huNvMygWIMIAX8KhtK_&tn=dnQ4NQk8Njp5JHP1&_nc_ht=scontent.fbkk25-1.fna&oh=1fa1b9f4562e2557faea4ca491d2b15c&oe=6128D199';
+		} elseif ($rand == 9) {
+                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/188978386_4282090261809968_844830880063814989_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=0debeb&_nc_eui2=AeF1GwhGZSVoK0XpBPw-JqWXzBvvxEC7mEbMG-_EQLuYRrvVid3NnYfb9vCjqqtKbWGYXB1YkVbX3DWoB92n1oPJ&_nc_ohc=rBbDtX704NkAX_4HVEB&_nc_ht=scontent.fbkk25-1.fna&oh=f5f44d3ec14262cf92e839b3f5b7c06b&oe=61292AFB';
+		} elseif ($rand == 10) {
+                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/173986952_4180368455315483_8022018229143385890_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=0debeb&_nc_eui2=AeG3LhApGQCX2a0EeEzkn7aWrd7Cq8obJ4it3sKryhsniO9X6All0OrUaI8ULKmvdmKzVjFCWSY618RwbQTh9IRu&_nc_ohc=HQvIBiKwRQIAX_JFsVx&tn=dnQ4NQk8Njp5JHP1&_nc_ht=scontent.fbkk25-1.fna&oh=95bee9da3603e5d84f62f9c7e3778787&oe=612ACED4';
+		} elseif ($rand == 11) {
+                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/171443463_4174331192585876_8495382445480906221_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=0debeb&_nc_eui2=AeE_DJQpJOWlBZpuowWaiemerNoBC1BAYRKs2gELUEBhEv5h4jv5TZkQZBnjvQlG-O0aEq_kDxX4_f1bTeMe_Dq-&_nc_ohc=JwCzmYtUgNIAX_7KDnb&tn=dnQ4NQk8Njp5JHP1&_nc_ht=scontent.fbkk25-1.fna&oh=bc29a8f707650e9bb601ec1d6e442f29&oe=612AE418';
+		} elseif ($rand == 12) {
+                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/174087923_4171015402917455_224772930998176735_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=0debeb&_nc_eui2=AeF-n9Ul3ye2Ws7U3qa5xLE58MQBcvxpp4XwxAFy_GmnhTrXxzWeOtVBYbiba3Jlut4bS35pvfc9EaASV0qnpkyE&_nc_ohc=r6zylvrZl8YAX-sAMM0&_nc_ht=scontent.fbkk25-1.fna&oh=305c35e4c3cca4e37f35678237a432ea&oe=6128F91C';
+		} elseif ($rand == 13) {
+                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/169851365_4144427952242867_8265799786155415014_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=0debeb&_nc_eui2=AeHiA3dzByrb0yOTd_A6rF9Fq3Hj0y1mBnqrcePTLWYGenlkmin0CJeV44naRQc7UtWZnVqJiuBUgCh5c-5OA5YO&_nc_ohc=86RKGFjDhZ8AX8bRqTs&tn=dnQ4NQk8Njp5JHP1&_nc_ht=scontent.fbkk25-1.fna&oh=9865bb6fcbe28894cd11862185507a00&oe=612A8C4C';
+		} elseif ($rand == 14) {
+                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/149862383_3998885480130449_4108807332020014452_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=0debeb&_nc_eui2=AeFWqu5bODMCsaDx1uwVBAjOxARxQw7cqkzEBHFDDtyqTC8J0IUeIEGcws2Z8TuH21leFrLnj9vc03Ms7sNnEtqf&_nc_ohc=_CQh89XF62MAX9ftB6r&_nc_ht=scontent.fbkk25-1.fna&oh=3fc960c47dc366b421038c46d24eb553&oe=612C572A';
+		} elseif ($rand == 15) {
+                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/142123490_3951729624846035_296189413855525270_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=0debeb&_nc_eui2=AeELGt-a2xS11cjU9_pPwOZ-PEzBxaEyv6A8TMHFoTK_oK53WcTm7vZDFelpKpKqADqF0u4xJ9Q1VgWAT3EVYWqn&_nc_ohc=Oh84PR7R778AX9RSrd1&_nc_ht=scontent.fbkk25-1.fna&oh=bc3c71da727860d5d9751b3e5ea9bd17&oe=612A0AC0';
+		} elseif ($rand == 16) {
+                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/173705871_4171015852917410_7759359704441059468_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=0debeb&_nc_eui2=AeHpaELkV3ZRv_XzvLwckKnhev7UTup4S2V6_tRO6nhLZRZ9ON5_8RdSeGpNTSF_m-aGHL4M5CwLsvWtz6z6FBTS&_nc_ohc=43yAfttOnEMAX-BCiDd&_nc_ht=scontent.fbkk25-1.fna&oh=e8275155c400ca8da9a9f33a77bd2cad&oe=612B5431';
+		} elseif ($rand == 17) {
+                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/164812352_4120561944629468_8029623511841875929_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=8bfeb9&_nc_eui2=AeFv8Jm8nzrlMDAgs9JvIUbtUC5joDJXgTFQLmOgMleBMZ7OPtMh2Lxp9RDQKIyFjxGG6TsuV21RIL9A00ek1uyN&_nc_ohc=dqmnIwyWM10AX8Hg1-K&_nc_ht=scontent.fbkk25-1.fna&oh=d2c534fb496dcab23d9ea4d6c6e57208&oe=612970A6';
+		} elseif ($rand == 18) {
+                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/157486484_4056719824347014_9046822298124084143_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=0debeb&_nc_eui2=AeE7ZwLxgUiFNKuDVordYnqs8cHL9rzA57Pxwcv2vMDnsxCEDVcy2YshLO8cMePXk9o1DfiBqs-OljrkeZXvbtP7&_nc_ohc=xl04xBq3eywAX_4jLak&tn=dnQ4NQk8Njp5JHP1&_nc_ht=scontent.fbkk25-1.fna&oh=5f51b3e9c45746cf10b528410a994d31&oe=612B9C61';
+		} elseif ($rand == 19) {
+                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/171603102_4160057257346603_840528981386399256_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=0debeb&_nc_eui2=AeHIQ3h0mJbb-dcZjVsOt6yUZp7ISYUT_x5mnshJhRP_HrO2b8VZogp7RpblEgYD_WIVhcQMzodaVWI50llHhXxw&_nc_ohc=G3zLtIwYnIIAX8dOczL&_nc_ht=scontent.fbkk25-1.fna&oh=8982454f1470bf74da8b154c3360cff4&oe=612AE299';
+		} else {
                     $text = 'กินอะไรกันดีละ';
-                    $case = 1;
-                }
-                $case = 2;
-            }
-            if ( strpos($textinput, 'ตู่') !== false || strpos($textinput, 'ประยุท') !== false || strpos($textinput, 'จันทรโอชา') !== false || strpos($textinput, 'ปรับทัศนคติ') !== false ) {
-                $rand = rand(0, 10);
-                if ($rand == 0) {
-                    $img = 'https://img.pptvhd36.com/contents/files/phet/%E0%B8%A1%E0%B8%8460/58d1061a7234c.jpg';
-                } elseif ($rand == 1) {
-                    $img = 'https://www.thairath.co.th/media/dFQROr7oWzulq5FZYAdIUsZbhUGSJNuE1PgraX04G2xp6kJyhTyS9D3nerViEuA0y74.jpg';
-                } elseif ($rand == 2) {
-                    $img = 'https://www.matichon.co.th/wp-content/uploads/2019/06/30-13-3.jpg';
-                } elseif ($rand == 3) {
-                    $img = 'https://medias.thansettakij.com/images/2019/03/22/1553263625.jpg';
-                } elseif ($rand == 4) {
-                    $img = 'https://www.thairath.co.th/media/dFQROr7oWzulq5FZYjuaaHgLVrx6nX81qIVlz0IT1RRP9fKbcwe3xmfunDFBMzl7Bpe.jpg';
-                } elseif ($rand == 5) {
-                    $img = 'https://www.thairath.co.th/media/dFQROr7oWzulq5FZXCY2NMacRFAagfsKgupcy6vUtTYFdR6ShL9GV19VDWo8N16Mchq.jpg';
-                } elseif ($rand == 6) {
-                    $img = 'https://www.thairath.co.th/media/dFQROr7oWzulq5FZYSPXhkJJdmVVJzjVtbkt4qjv6pjhNVmlda8KeAKu2zC68je6uwU.jpg';
-                } elseif ($rand == 7) {
-                    $img = 'https://img.tnews.co.th/userfiles/images/S__4603906.jpg';
-                } elseif ($rand == 8) {
-                    $img = 'https://www.thairath.co.th/media/dFQROr7oWzulq5FZYSemi26hBQEHjrwfF6LOpyg9o8bAGYjFBiXxdVFPoT18cnz8gF4.jpg';
-                } elseif ($rand == 9) {
-					$img = 'http://board.postjung.com/data/910/910018-img.rfhq7j.qsy6.jpg';
-                } else {
-                    $text = 'พูดชื่อนี้แล้วปวดหัว';
                     $case = 1;
                 }
                 $case = 2;
@@ -1337,7 +1319,7 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-            if ( strpos($textinput, 'สึด') !== false || strpos($textinput, 'สึส') !== false || strpos($textinput, 'คุวย') !== false || strpos($textinput, 'สึด') !== false || strpos($textinput, 'ไอเวร') !== false || strpos($textinput, 'ไอเวน') !== false ) {
+            if ( strpos($textinput, 'สึด') !== false || strpos($textinput, 'สึส') !== false || strpos($textinput, 'คุวย') !== false || strpos($textinput, 'สึด') !== false || strpos($textinput, 'ไอเวร') !== false || strpos($textinput, 'ไอเวน') !== false || strpos($textinput, 'พ่อง') !== false || strpos($textinput, 'พ่อมึง') !== false || strpos($textinput, 'แม่มึง') !== false ) {
                 $rand = rand(0, 7);
                 if ($rand == 0) {
                     $text = 'พูดให้มันดีๆหน่อยได้ป่ะ';
