@@ -1446,8 +1446,8 @@ if (!is_null($events['events'])) {
                 $case = 1;
             }
 	    if ( strpos($textinput, '#updatebot') !== false ) {
-                $img = 'https://i.pinimg.com/originals/42/a8/d4/42a8d4625aeb088c45eba5a84ca36325.gif';
-                $case = 2;
+                $text = 'Update Complete';
+                $case = 1;
             }/*
             if ( strpos($textinput, 'แก้ไม้') !== false ) {
                 $text = 'วิธีการแก้ไม้แบบปิดรวบ
