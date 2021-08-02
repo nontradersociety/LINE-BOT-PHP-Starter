@@ -47,119 +47,119 @@ if (!is_null($events['events'])) {
                 $rand = rand(1, 29);
                 switch ($rand) {
                     case 1:
-                        $img = 'https://images.mover.in.th/wp-content/uploads/2020/06/28215717/62c10a37-4137-40b1-b4cf-12d9fdc9e8b1.jpg';
+                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/230285133_4056819774417310_5515596816126652301_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeGC4-kkCdrMrZwmuuRN0X7EZybW5EjhS-BnJtbkSOFL4NEtXoFbAQiELslXt-Zu4QJCt3DJ-fTkJtkKBkQy7_0V&_nc_ohc=Bsbo-9AA9ZQAX-BQWTF&_nc_ht=scontent.fbkk25-1.fna&oh=4186f28582d0ce6d348fc3d8bd703a0f&oe=612D1574';
                         $case = 2;
                         break;
                     case 2:
-                        $text = 'https://www.instagram.com/bunny_ployfon/';
+                        $text = 'https://www.instagram.com/mindpswnn/';
                         $case = 1;
                         break;
                     case 3:
-                        $img = 'https://www.setup999.com/wp-content/uploads/2019/01/gg3-12.jpg';
+                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/225849101_4048073711958583_6227220069627897149_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeHP_PinJGuohVp7Ey5TdosiKdiuh5oM1d8p2K6HmgzV365xAUjuFXg_RwX7unKdyWFsqDuAS1YoDUtI02K7zcXu&_nc_ohc=i35WWXCXxfUAX_imMTA&_nc_ht=scontent.fbkk25-1.fna&oh=2cd64f23f5fb9129073bf029808081ab&oe=612D8BBC';
                         $case = 2;
                         break;
                     case 4:
-                        $text = 'https://www.instagram.com/nannyy/';
-                        $case = 1;
-                        break;
-                    case 5:
-                        $img = 'https://i.pinimg.com/originals/ff/a8/ed/ffa8edc54dd2468d12f01a5ad7268de3.jpg';
-                        $case = 2;
-                        break;
-                    case 6:
-                        $text = 'https://www.instagram.com/berryying/';
-                        $case = 1;
-                        break;
-                    case 7:
-                        $img = 'https://cheerball.com/uploads/images/gossip/201808/20180807054551_8pk.jpg';
-                        $case = 2;
-                        break;
-                    case 8:
-                        $text = 'https://www.instagram.com/beth_lookgade/';
-                        $case = 1;
-                        break;
-                    case 9:
-                        $img = 'https://i.pinimg.com/originals/2b/1f/a0/2b1fa07b59e98e35843e215714fc1f1d.jpg';
-                        $case = 2;
-                        break;
-                    case 10:
                         $text = 'https://www.instagram.com/fearythanyarat/';
                         $case = 1;
                         break;
+                    case 5:
+                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/225392146_4041085495990738_8656133249362040171_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeGlRzHhDRywLQkc6bgRER4FW-s8NTK_ODJb6zw1Mr84MgEqyQGMfm5XNW5zBYu0H7dlIUmZv3HEEJxSBkiSWRmy&_nc_ohc=w1-YC0huTe0AX8zcNAo&_nc_ht=scontent.fbkk25-1.fna&oh=e5c5d5e90eafea82a44ada8b766cc34b&oe=612D3834';
+                        $case = 2;
+                        break;
+                    case 6:
+                        $text = 'https://www.instagram.com/jamsaiim/';
+                        $case = 1;
+                        break;
+                    case 7:
+                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/216951170_4036850656414222_1612255559703525661_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeEIr_nabLpvCP13aTRwMqBi66JltxNB-1_romW3E0H7X0mJ0S1jWVn2cLAi96LVHLvZmEd2zDnF2ZFZYiJ0N55N&_nc_ohc=16x6GVtF-2QAX9_AXtW&_nc_oc=AQlHmQX0-tyFAFnWptUdLvgHDJLmviEJ2RJifpTdMw6cUqMAJDpbNrwXqnQ2m3MyM5GH8Nl4H492idEsftlVat2e&_nc_ht=scontent.fbkk25-1.fna&oh=7e955b29d462a31ffa6fc62bc654dec2&oe=612C6682';
+                        $case = 2;
+                        break;
+                    case 8:
+                        $text = 'https://www.instagram.com/kukkaikukkaii/';
+                        $case = 1;
+                        break;
+                    case 9:
+                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/211191122_4026831024082852_3829776877547798255_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeE49cW5A1_tBOppJE8pMx8KMh5djLNvOuwyHl2Ms2867BQF2rYFeGGp8F21YN4y26j4EW2V6cgeA-QAYf5UvqEX&_nc_ohc=C7xEuTyoO54AX80C_gr&_nc_ht=scontent.fbkk25-1.fna&oh=e95187f17d3278b37fa8eb434a558e24&oe=612C475E';
+                        $case = 2;
+                        break;
+                    case 10:
+                        $text = 'https://www.instagram.com/nookkyi_/';
+                        $case = 1;
+                        break;
                     case 11:
-                        $img = 'https://i.pinimg.com/originals/d1/bb/7c/d1bb7cd57546981a7672bc73f59017f2.jpg';
+                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/208744479_4017890108310277_366047591159857896_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeG09ckRzND9ygo90UAhCWhkMN7sbH6kWtgw3uxsfqRa2MBtP0SJ4oaRgD4onJAGrC6uRl9OdXhqJkF-lPyxh98e&_nc_ohc=JmVS_R1nkdUAX9SZD6m&tn=dnQ4NQk8Njp5JHP1&_nc_ht=scontent.fbkk25-1.fna&oh=2fbf7011c6c7829b5d3bf7ae19de02e6&oe=612E15EF';
                         $case = 2;
                         break;
                     case 12:
-                        $text = 'https://www.instagram.com/n_kang_nung/';
+                        $text = 'https://www.instagram.com/ptrc_yung/';
                         $case = 1;
                         break;
                     case 13:
-                        $img = 'https://i.pinimg.com/originals/3b/b5/51/3bb551e5e8979ee8dbed70c53842aeb4.jpg';
+                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/217968274_4009372099162078_8200600742594816469_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeHPJBHGdCHt0rxIh7no-84gjgqDSIhbTZCOCoNIiFtNkCAztu667xwHZPjptfRg-iNczVe8Y1V09WFNUAHSpTbJ&_nc_ohc=Yu3SUt0T6LsAX_x1t3Y&tn=dnQ4NQk8Njp5JHP1&_nc_ht=scontent.fbkk25-1.fna&oh=15b7ce3dd420309bd8ef297fed9e5df0&oe=612BE040';
                         $case = 2;
                         break;
                     case 14:
-                        $text = 'https://www.instagram.com/wpearita/';
+                        $text = 'https://www.instagram.com/pimmmmss/';
                         $case = 1;
                         break;
                     case 15:
-                        $img = 'https://scontent.fbkk26-1.fna.fbcdn.net/v/t1.0-9/101881150_1992322827587900_5578854229046460416_o.jpg?_nc_cat=104&ccb=2&_nc_sid=8bfeb9&_nc_eui2=AeGXfnRDJE07Fxl4WmEHKbHYB_NJdeHR7sYH80l14dHuxhDULZ4NlIKBaLRng5wHhveBDBmCxSmNhqWCDgcYvkJX&_nc_ohc=s9vJ1OFLueoAX8kHG5p&_nc_ht=scontent.fbkk26-1.fna&oh=0f14afe7c5f04d1d01dd18094518c336&oe=5FC4848A';
+                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/210548545_4006944319404856_8616687627871452451_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeH0r3KVcPSnLLfdlPSxKU6qg0dO4_2y7HKDR07j_bLscsvqSdlojvw8nNmOmX2po2I_avQWwGx8Jcl31K0Jpupp&_nc_ohc=s47fVPCPa5YAX-xfGvq&_nc_ht=scontent.fbkk25-1.fna&oh=a3ea8a70c51d54d262f68db9feb850e0&oe=612D9E93';
                         $case = 2;
                         break;
                     case 16:
-                        $text = 'https://www.instagram.com/cutegirlthailand/';
+                        $text = 'https://www.instagram.com/panchanokkk/';
                         $case = 1;
                         break;
                     case 17:
-                        $img = 'https://scontent.fbkk26-1.fna.fbcdn.net/v/t1.0-9/96215243_2887386278014194_1980143089263575040_n.jpg?_nc_cat=102&ccb=2&_nc_sid=8bfeb9&_nc_eui2=AeHliA_vkiWWxE6BlGiGpkO_KHwRiVL3d9QofBGJUvd31MnHHN84ePW9HWieD2HGgvRtn5T4SOX1o5SpQxqC8kEi&_nc_ohc=Z1ZIL-ejH1MAX_A9fei&_nc_ht=scontent.fbkk26-1.fna&oh=731878c9638626b80720da654e5d4a76&oe=5FC43CED';
+                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/214449541_4004166346349320_8191930994015391856_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeHmifG_sMcwhbQ_UfpgVvDi6T3HHeLIXa_pPccd4shdr2nil0lplmlPxWgWBfEjOnq1DAmd-ZFP3uGi4sxzMoC3&_nc_ohc=xMa5IqwudqoAX_Q9djK&_nc_ht=scontent.fbkk25-1.fna&oh=4477ef3886db122f1d2e9fb6da1d5979&oe=612CE10E';
                         $case = 2;
                         break;
                     case 18:
-                        $text = 'https://www.instagram.com/nuchcheeber/';
+                        $text = 'https://www.instagram.com/earnpatt/';
                         $case = 1;
                         break;
                     case 19:
-                        $img = 'https://scontent.fbkk26-1.fna.fbcdn.net/v/t1.0-9/91294467_2884178648314815_7570293370061324288_o.jpg?_nc_cat=103&ccb=2&_nc_sid=8bfeb9&_nc_eui2=AeFrou7RUbxWjhlyroirf9toVwyms0-Jtx9XDKazT4m3H1fx5PM5ETxqUJNKZZn_h_-jHOH5Y0K7Ht5d1-ePA8YQ&_nc_ohc=F8JYcuODWy0AX89QrGA&_nc_oc=AQnSx9yPGOm8_T8pSK9MG4HeBhSQilr39yzkTmIeBi_oiZZVpSimRPAz10K32-DjNpc&_nc_ht=scontent.fbkk26-1.fna&oh=330b8da9ac161ccf1dbc8f60e096f707&oe=5FC72453';
+                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/217421054_4000417610057527_1550534091344967959_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeFB3HLE5cB5B9ALSzlrhrBj3f41l0v6S27d_jWXS_pLbv97ueJzWQM0B4XIYOgmN-J2QjHrYa_Z6aPKug5lkg9Z&_nc_ohc=VKNz4OcleZEAX8XWBPj&_nc_ht=scontent.fbkk25-1.fna&oh=47fb1db2b2179864b55492b268a7c2f4&oe=612E6E72';
                         $case = 2;
                         break;
                     case 20:
-                        $text = 'https://www.instagram.com/crystal_girls_/';
+                        $text = 'https://www.instagram.com/n3scafe/';
                         $case = 1;
                         break;
                     case 21:
-                        $img = 'https://scontent.fbkk26-1.fna.fbcdn.net/v/t1.0-9/90102736_2883212695055727_373260326201720832_o.jpg?_nc_cat=103&ccb=2&_nc_sid=8bfeb9&_nc_eui2=AeHsO4LKsNsqnLgu4PI9tNnz-Ka8Xz4nnCH4prxfPiecIfinKQzWc5XPUNjrjBsr2tKOBxtFHOnv96Ju4SdFJ958&_nc_ohc=lmQKZR_NMnEAX_4N8JI&_nc_ht=scontent.fbkk26-1.fna&oh=d31bd360074e195f1c5a2ec3f9f50b03&oe=5FC6F591';
+                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/209704372_3968465529919402_3928301805149704675_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeHXk7XRpVlQjnXT_THSE9LT33y_zmxQ_cjffL_ObFD9yMqodvFUFTGg19m_L5FycRHe-x4YlYO9tdZCtSIxy-aU&_nc_ohc=7gkzY1jihSgAX_N2xKP&tn=dnQ4NQk8Njp5JHP1&_nc_ht=scontent.fbkk25-1.fna&oh=8e45caf8aff3bf5ea09189a4992165d3&oe=612C7CFE';
                         $case = 2;
                         break;
                     case 22:
-                        $text = 'https://www.instagram.com/jaaeynano/';
+                        $text = 'https://www.instagram.com/yayayoda._/';
                         $case = 1;
                         break;
                     case 23:
-                        $img = 'https://scontent.fbkk26-1.fna.fbcdn.net/v/t1.0-9/70387833_2308556456062381_3824333588682244096_o.jpg?_nc_cat=103&ccb=2&_nc_sid=730e14&_nc_eui2=AeFXeG7NFEWvidfZOjpXaWMVIhuKEeFZPioiG4oR4Vk-KoUL6AT3-G99gsoJ6-P0zRVQrRHV9QDO-DU2bWvU327a&_nc_ohc=_20ubA7GinoAX-3xVIb&_nc_ht=scontent.fbkk26-1.fna&oh=dc58863896f6b8217ff4746296f7acd8&oe=5FC4DD8D';
+                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/209994534_3968449863254302_3738218594714920456_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeECpAWojJ4l5dlHRf0UrJtx9EgFPi39AsH0SAU-Lf0CwegCoB5ZExtpMPQMXZntpM7q1pRxNjOm41uz_b6bU_a5&_nc_ohc=bqNiE2Kv7VwAX-pRfML&tn=dnQ4NQk8Njp5JHP1&_nc_ht=scontent.fbkk25-1.fna&oh=d1f5a8e0718c441af06d1e1ad0058f6e&oe=612B8DAE';
                         $case = 2;
                         break;
                     case 24:
-                        $text = 'https://www.instagram.com/padpudd/';
+                        $text = 'https://www.instagram.com/champ.habita/';
                         $case = 1;
                         break;
                     case 25:
-                        $img = 'https://scontent.fbkk26-1.fna.fbcdn.net/v/t1.0-9/121781336_2656369251341562_3448441772676403536_o.jpg?_nc_cat=105&ccb=2&_nc_sid=8bfeb9&_nc_eui2=AeEFm4fzoKFkUfNHLVdUvhk6BryhVKvbUrcGvKFUq9tSt1OHA5rs5vco20JnYrXi8ycTX6JRrG64pbQaKoeq98yZ&_nc_ohc=0M9FzZleTygAX-S720j&_nc_ht=scontent.fbkk26-1.fna&oh=48e2a998983c12fc8d19326416b5260a&oe=5FC673B7';
+                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/227469535_2946906642191424_3250846291767018406_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=a26aad&_nc_eui2=AeHs_rLwpZf5b1SvxPztnSQc9l3JkHOrd9f2XcmQc6t31xiqJS-1epMfyt7fSYjbrlFnHl8KpinUpf5Sv1l5QsUB&_nc_ohc=rem0t-9GkVcAX-S6B-Z&_nc_ht=scontent.fbkk25-1.fna&oh=3608de6b84faf896a03e46754b085a6b&oe=610C8FB6';
                         $case = 2;
                         break;
                     case 26:
-                        $img = 'https://images.app.goo.gl/c2Niwgx7vzDSLsr76';
-                        $case = 2;
+                        $img = 'https://www.instagram.com/iicechawan/';
+                        $case = 1;
                         break;
                     case 27:
-                        $img = 'https://scontent.fbkk26-1.fna.fbcdn.net/v/t1.0-9/121568545_4469386279770283_2761464031873030729_n.jpg?_nc_cat=107&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeGlyRa7Aex-OVuTXXXPr-YY4PNYFV8b_eXg81gVXxv95bH3m_pCS-i8hGcpxB3ocPMCkMnzs1QRTAKbDyrAyLkj&_nc_ohc=GOua4S4aQSQAX-dgmyF&_nc_ht=scontent.fbkk26-1.fna&oh=5bf621b3145fdcf863568319e2871f8b&oe=5FC7AC1A';
+                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/217662616_2938300359718719_7590526710278496581_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeEdiZvG8K_uCeOezCez-y3AcipiPosfWWByKmI-ix9ZYNZNGz64aCeOCmZMy9dt3BiUK1EORbaPOn-rmKJsmB14&_nc_ohc=Z8t97sSOF3sAX-TOU7i&tn=dnQ4NQk8Njp5JHP1&_nc_ht=scontent.fbkk25-1.fna&oh=0e6f402363e53ad7201889021f57874e&oe=610C37E9';
                         $case = 2;
                         break;
                     case 28:
-                        $img = 'https://scontent.fbkk26-1.fna.fbcdn.net/v/t1.0-9/118530065_2606202713024883_6249386831198843101_o.jpg?_nc_cat=103&ccb=2&_nc_sid=8bfeb9&_nc_eui2=AeGcPPqNgEMfHopBQ3sHtcL6I72QmQoyR0ojvZCZCjJHSgmgrbnHrL9OWs-GrDbnvHVtwH8ARajiGB3PSeBsW36I&_nc_ohc=3DFRWjOW7bsAX8mzm_R&_nc_ht=scontent.fbkk26-1.fna&oh=bba72d983a1454934e9d3a4d9d483b0c&oe=5FC5382A';
-                        $case = 2;
+                        $img = 'https://www.instagram.com/nn.nungnew/';
+                        $case = 1;
                         break;
                     case 29:
-                        $img = 'https://scontent.fbkk26-1.fna.fbcdn.net/v/t1.0-9/106110353_667968540457485_2455036747469106088_o.jpg?_nc_cat=107&ccb=2&_nc_sid=8bfeb9&_nc_eui2=AeH-gJ355XjhfhGT9K6xs7tLIHHcCjCu3qsgcdwKMK7eq7q2OE8PP5iJSOPM4_BnbIdkv1Pp6kA6pFGKcCTOkM6v&_nc_ohc=jmwnhVCEcSgAX9BLlvE&_nc_ht=scontent.fbkk26-1.fna&oh=f1096f410f1ae71b3f4037c98a5fb9cd&oe=5FC769D6';
+                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/218733463_2938245849724170_6507841357274022650_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=a26aad&_nc_eui2=AeFSjxfCPzGa1eQ1f3vwhrKnOoIHOg5c9MU6ggc6Dlz0xcFtD2M2b_P39Is11zyt1y6CjzS1CJ5A47Q3SjeLsDCk&_nc_ohc=v0zmR02pEYgAX8V6nar&tn=dnQ4NQk8Njp5JHP1&_nc_ht=scontent.fbkk25-1.fna&oh=dfc9832960fcc6fb58d10394b119fd70&oe=610C20F0';
                         $case = 2;
                         break;
                 }
@@ -265,7 +265,7 @@ if (!is_null($events['events'])) {
             if ( strpos($textinput, 'หวย') !== false || strpos($textinput, 'huay') !== false ) {
                 $rand = rand(0, 10);
                 if ($rand == 0) {
-                    $text = '999 1000x1000 ไป';
+                    $text = '000 1000x1000 ไปเลย';
                 } elseif ($rand == 1) {
                     $text = 'ใครมีเลขเด็ดก็บอกกันบ้าง';
                 } elseif ($rand == 2) {
@@ -279,7 +279,7 @@ if (!is_null($events['events'])) {
                 } elseif ($rand == 6) {
                     $text = 'เล่นหุ้นดีกว่า';
                 } elseif ($rand == 7) {
-                    $text = 'เขาว่ากันว่างวดนี้ 5 มา 555';
+                    $text = 'เขาว่ากันว่างวดนี้ 9 มา 555';
                 } elseif ($rand == 8) {
                     $img = 'https://www.thairath.co.th/media/CiHZjUdJ5HPNXJ92GOy8furMrbYZIJDD20.jpg';
                     $case = 2;
@@ -290,6 +290,34 @@ if (!is_null($events['events'])) {
                     $text = 'รวมสำนักอาจารย์ http://www.007lotto.com/';
                 }
                 $case = 1;
+            }
+	    if ( strpos($textinput, 'ไบเดน') !== false || strpos($textinput, 'Biden') !== false  || strpos($textinput, 'biden') !== false ) {
+                $rand = rand(0, 10);
+                if ($rand == 0) {
+                    $text = 'ชื่อนี้ไม่เร้าใจเลย';
+                    $case = 1;
+                } elseif ($rand == 1) {
+                    $img = 'https://images.workpointnews.com/workpointnews/2020/11/04013304/1604428380_84296_GettyImages-1267429577.jpg';
+                } elseif ($rand == 2) {
+                    $img = 'https://img.pptvhd36.com/thumbor/2020/11/08/news-42f190c556.jpg';
+                } elseif ($rand == 3) {
+                    $img = 'https://www.thairath.co.th/media/dFQROr7oWzulq5Fa4VRPIU1Cl1SyVN6H8GxPuE7JxtoFoejRX3HGYQ1sIuUhLFKJgVh.jpg';
+                } elseif ($rand == 4) {
+                    $img = 'https://static.thairath.co.th/media/dFQROr7oWzulq5FZUIB4UjP0K2mpTET1Pu734wD4wIIi0rHBfXt3c12x4ooGEu9WJJT.jpg';
+                } elseif ($rand == 5) {
+                    $img = 'https://themomentum.co/wp-content/uploads/2020/10/biden-Web-1280x720.png';
+                } elseif ($rand == 6) {
+                    $img = 'https://www.thairath.co.th/media/dFQROr7oWzulq5Fa4VRVzLoEPmfRcmMYp0IBV13AmcbMncDgbPWluvNMCnE1nPkAqap.jpg';
+                } elseif ($rand == 7) {
+                    $img = 'https://pailin.voicetv.co.th/assets/aW1hZ2UvMjAyMS0wNi8yYWE0MjJiMTdmZDVlNmEzZTRhNDhhODkwZmQyYzZmNS5qcGc=';
+                } elseif ($rand == 8) {
+                    $img = 'https://images.squarespace-cdn.com/content/v1/5f7e0e2e76a05248ed76e064/1610642618719-VJUJGCZWMJI2FBZSEGA7/1440x810_cmsv2_2baa65a7-5146-51a7-932e-c0164bb5811a-5081112.jpg';
+                } elseif ($rand == 9) {
+                    $img = 'https://www.prachachat.net/wp-content/uploads/2021/02/%E0%B9%84%E0%B8%9A%E0%B9%80%E0%B8%94%E0%B8%99.jpg';
+                } else {
+                    $img = 'https://img.pptvhd36.com/thumbor/2020/11/09/news-cc6af72048.jpg';
+                }
+                $case = 2;
             }
             if ( strpos($textinput, 'ทรัม') !== false || strpos($textinput, 'trump') !== false) {
                 $rand = rand(0, 15);
@@ -510,7 +538,7 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-            if (strpos($textinput, 'ไอ้บอท') !== false || strpos($textinput, 'ไอบอท') !== false) {
+            if (strpos($textinput, 'ไอ้บอท') !== false || strpos($textinput, 'ไอบอท') !== false || strpos($textinput, 'อีบอท') !== false || strpos($textinput, 'อิบอท') !== false) {
                 $rand = rand(0, 3);
                 if ($rand == 0) {
                     $text = 'พูดให้มันดีๆหน่อย';
@@ -1319,7 +1347,7 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-            if ( strpos($textinput, 'สึด') !== false || strpos($textinput, 'สึส') !== false || strpos($textinput, 'คุวย') !== false || strpos($textinput, 'สึด') !== false || strpos($textinput, 'ไอเวร') !== false || strpos($textinput, 'ไอเวน') !== false || strpos($textinput, 'พ่อง') !== false || strpos($textinput, 'พ่อมึง') !== false || strpos($textinput, 'แม่มึง') !== false ) {
+            if ( strpos($textinput, 'สึด') !== false || strpos($textinput, 'สึส') !== false || strpos($textinput, 'คุวย') !== false || strpos($textinput, 'สึด') !== false || strpos($textinput, 'ไอเวร') !== false || strpos($textinput, 'ไอเวน') !== false || strpos($textinput, 'พ่อง') !== false || strpos($textinput, 'พ่อมึง') !== false || strpos($textinput, 'แม่มึง') !== false || strpos($textinput, 'อิดอก') !== false || strpos($textinput, 'อีดอก') !== false ) {
                 $rand = rand(0, 7);
                 if ($rand == 0) {
                     $text = 'พูดให้มันดีๆหน่อยได้ป่ะ';
@@ -1416,6 +1444,10 @@ if (!is_null($events['events'])) {
             if ( strpos($textinput, 'ปฏิทิน') !== false ) {
                 $text = 'เช็คได้ที่ https://www.forexfactory.com/calendar.php?day=today';
                 $case = 1;
+            }
+	    if ( strpos($textinput, '#updatebot') !== false ) {
+                $img = 'https://i.pinimg.com/originals/42/a8/d4/42a8d4625aeb088c45eba5a84ca36325.gif';
+                $case = 2;
             }/*
             if ( strpos($textinput, 'แก้ไม้') !== false ) {
                 $text = 'วิธีการแก้ไม้แบบปิดรวบ
