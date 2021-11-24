@@ -47,7 +47,7 @@ if (!is_null($events['events'])) {
                 $rand = rand(1, 29);
                 switch ($rand) {
                     case 1:
-                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/230285133_4056819774417310_5515596816126652301_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeGC4-kkCdrMrZwmuuRN0X7EZybW5EjhS-BnJtbkSOFL4NEtXoFbAQiELslXt-Zu4QJCt3DJ-fTkJtkKBkQy7_0V&_nc_ohc=Bsbo-9AA9ZQAX-BQWTF&_nc_ht=scontent.fbkk25-1.fna&oh=4186f28582d0ce6d348fc3d8bd703a0f&oe=612D1574';
+                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/214472989_4004166513015970_5549118296670905373_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeHjDSR87pbQ_TtR1b-izCut3u7xP5CkHeje7vE_kKQd6B8xOZ0cwCO_fXIuZnKZHCmZ8DW7WXoOFMI43w1mlWoK&_nc_ohc=XRJ49rwj_20AX9Zsp26&_nc_ht=scontent.fbkk25-1.fna&oh=9f8dbb85bc3af72b67ca4886497f2c3c&oe=61A255DB';
                         $case = 2;
                         break;
                     case 2:
@@ -55,7 +55,7 @@ if (!is_null($events['events'])) {
                         $case = 1;
                         break;
                     case 3:
-                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/225849101_4048073711958583_6227220069627897149_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeHP_PinJGuohVp7Ey5TdosiKdiuh5oM1d8p2K6HmgzV365xAUjuFXg_RwX7unKdyWFsqDuAS1YoDUtI02K7zcXu&_nc_ohc=i35WWXCXxfUAX_imMTA&_nc_ht=scontent.fbkk25-1.fna&oh=2cd64f23f5fb9129073bf029808081ab&oe=612D8BBC';
+                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/173406124_4026831127416175_458241444679250493_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeH1jOaLu5J1hb97OoIMIHTpY3AaxigYgARjcBrGKBiABDylfAaZnzfSpH8-2xeWANUi3JpC96KzbQcIvP7LQU8x&_nc_ohc=cKLwwKyG1TgAX_oR3l-&_nc_ht=scontent.fbkk25-1.fna&oh=a23cf57c9a07c1197f8687bf7087530c&oe=61A3C0B2';
                         $case = 2;
                         break;
                     case 4:
@@ -63,7 +63,7 @@ if (!is_null($events['events'])) {
                         $case = 1;
                         break;
                     case 5:
-                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/225392146_4041085495990738_8656133249362040171_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeGlRzHhDRywLQkc6bgRER4FW-s8NTK_ODJb6zw1Mr84MgEqyQGMfm5XNW5zBYu0H7dlIUmZv3HEEJxSBkiSWRmy&_nc_ohc=w1-YC0huTe0AX8zcNAo&_nc_ht=scontent.fbkk25-1.fna&oh=e5c5d5e90eafea82a44ada8b766cc34b&oe=612D3834';
+                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/208860137_4029801057119182_8968938472533101840_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeG84VVq21v-EjvRDRj8HNJMBbNi0Bb4Se4Fs2LQFvhJ7pfrP7eZ9J6IO7XDNSxoLVRDyy3CES4LrAMwzjkCiVuX&_nc_ohc=n81UlELBAukAX-9rk7D&_nc_ht=scontent.fbkk25-1.fna&oh=0ae88e95fd993e7871fd86575bce3fde&oe=61A2BC67';
                         $case = 2;
                         break;
                     case 6:
@@ -71,7 +71,7 @@ if (!is_null($events['events'])) {
                         $case = 1;
                         break;
                     case 7:
-                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/216951170_4036850656414222_1612255559703525661_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeEIr_nabLpvCP13aTRwMqBi66JltxNB-1_romW3E0H7X0mJ0S1jWVn2cLAi96LVHLvZmEd2zDnF2ZFZYiJ0N55N&_nc_ohc=16x6GVtF-2QAX9_AXtW&_nc_oc=AQlHmQX0-tyFAFnWptUdLvgHDJLmviEJ2RJifpTdMw6cUqMAJDpbNrwXqnQ2m3MyM5GH8Nl4H492idEsftlVat2e&_nc_ht=scontent.fbkk25-1.fna&oh=7e955b29d462a31ffa6fc62bc654dec2&oe=612C6682';
+                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/216868030_4051201484979139_3123001840820603174_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeEYAmOR_5iUGtIG3xmlJo-dwBg-xY0cJsDAGD7FjRwmwF-Co7mFOrfn4JzqnQRCYm95r-03tWZDny2BC75KoWeZ&_nc_ohc=LatTo6uDXTsAX8ey5wU&_nc_ht=scontent.fbkk25-1.fna&oh=b676715685288eff3a6f22544b17c9e1&oe=61A33A6E';
                         $case = 2;
                         break;
                     case 8:
@@ -79,7 +79,7 @@ if (!is_null($events['events'])) {
                         $case = 1;
                         break;
                     case 9:
-                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/211191122_4026831024082852_3829776877547798255_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeE49cW5A1_tBOppJE8pMx8KMh5djLNvOuwyHl2Ms2867BQF2rYFeGGp8F21YN4y26j4EW2V6cgeA-QAYf5UvqEX&_nc_ohc=C7xEuTyoO54AX80C_gr&_nc_ht=scontent.fbkk25-1.fna&oh=e95187f17d3278b37fa8eb434a558e24&oe=612C475E';
+                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/225736531_4056819837750637_6564352988250544569_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeGOChARvoeQXpGoXUaiXTPSYa8pFMigrBlhrykUyKCsGZsPsNfIxBS_DQVfQdRdLM04l1u1wZGE569VNw2RgL2j&_nc_ohc=HnltkJeQ2i4AX9scoPV&_nc_ht=scontent.fbkk25-1.fna&oh=647d4388f19b2ed15f368d51b662996d&oe=61A27AC3';
                         $case = 2;
                         break;
                     case 10:
@@ -87,7 +87,7 @@ if (!is_null($events['events'])) {
                         $case = 1;
                         break;
                     case 11:
-                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/208744479_4017890108310277_366047591159857896_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeG09ckRzND9ygo90UAhCWhkMN7sbH6kWtgw3uxsfqRa2MBtP0SJ4oaRgD4onJAGrC6uRl9OdXhqJkF-lPyxh98e&_nc_ohc=JmVS_R1nkdUAX9SZD6m&tn=dnQ4NQk8Njp5JHP1&_nc_ht=scontent.fbkk25-1.fna&oh=2fbf7011c6c7829b5d3bf7ae19de02e6&oe=612E15EF';
+                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/253740027_1020732598707595_537747637416489119_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeHWVgSQXKh3NgiPLdJzGGgFYkLTuTIuY0diQtO5Mi5jRwxU_jEp9qLgIrjnJsjiwvoi--utZQ2HXmUv-zxD-Nqe&_nc_ohc=z1URF1rOQ5IAX9pHFz7&_nc_ht=scontent.fbkk25-1.fna&oh=adb9e221e4c1e6a7f2e79190f93b67a6&oe=61A43E46';
                         $case = 2;
                         break;
                     case 12:
@@ -95,7 +95,7 @@ if (!is_null($events['events'])) {
                         $case = 1;
                         break;
                     case 13:
-                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/217968274_4009372099162078_8200600742594816469_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeHPJBHGdCHt0rxIh7no-84gjgqDSIhbTZCOCoNIiFtNkCAztu667xwHZPjptfRg-iNczVe8Y1V09WFNUAHSpTbJ&_nc_ohc=Yu3SUt0T6LsAX_x1t3Y&tn=dnQ4NQk8Njp5JHP1&_nc_ht=scontent.fbkk25-1.fna&oh=15b7ce3dd420309bd8ef297fed9e5df0&oe=612BE040';
+                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/66797165_10217193247997642_5356177303078436864_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=174925&_nc_eui2=AeFZUSyltj-2Gm0wJKN_sF_rXuq7qcgMtV1e6rupyAy1Xest5Sn6Vbp_D9gGQWzN0GPlHIH8ZbdcM_kOeNGOOBFf&_nc_ohc=hUbXB_HzndQAX8r28eG&tn=_ODdZYFQRVx1EbJE&_nc_ht=scontent.fbkk25-1.fna&oh=2f1651631b5e0d0862c3f8ff680170dd&oe=61C45545';
                         $case = 2;
                         break;
                     case 14:
@@ -103,7 +103,7 @@ if (!is_null($events['events'])) {
                         $case = 1;
                         break;
                     case 15:
-                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/210548545_4006944319404856_8616687627871452451_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeH0r3KVcPSnLLfdlPSxKU6qg0dO4_2y7HKDR07j_bLscsvqSdlojvw8nNmOmX2po2I_avQWwGx8Jcl31K0Jpupp&_nc_ohc=s47fVPCPa5YAX-xfGvq&_nc_ht=scontent.fbkk25-1.fna&oh=a3ea8a70c51d54d262f68db9feb850e0&oe=612D9E93';
+                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/240585590_4217411561691463_4054408420251810664_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeHgrHGr9weoszo6oM8gdEfzEDKp8TR-ZiMQMqnxNH5mI5qC7idNWnDunSpmsBpKb2ak6cv_d30Pb22unXsxWuz7&_nc_ohc=PLl9o4MMWAcAX8GY78T&_nc_ht=scontent.fbkk25-1.fna&oh=8ad08cdbe1da493b17b91423e8ec7766&oe=61A25BAC';
                         $case = 2;
                         break;
                     case 16:
@@ -111,7 +111,7 @@ if (!is_null($events['events'])) {
                         $case = 1;
                         break;
                     case 17:
-                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/214449541_4004166346349320_8191930994015391856_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeHmifG_sMcwhbQ_UfpgVvDi6T3HHeLIXa_pPccd4shdr2nil0lplmlPxWgWBfEjOnq1DAmd-ZFP3uGi4sxzMoC3&_nc_ohc=xMa5IqwudqoAX_Q9djK&_nc_ht=scontent.fbkk25-1.fna&oh=4477ef3886db122f1d2e9fb6da1d5979&oe=612CE10E';
+                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/240589680_4232144026884883_2404055425419213600_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeG57Fx_vO_GEE44JJAwxFO8BkrGRnpBYUEGSsZGekFhQbHbEN4d3sf0oD99kLFmhbNEgfZcr-MZ7mSdIN3TL3nX&_nc_ohc=N1SK0ardmLIAX9BgFS9&_nc_ht=scontent.fbkk25-1.fna&oh=4ac7fa59221088a042b70653495ea6c9&oe=61A37149';
                         $case = 2;
                         break;
                     case 18:
@@ -119,7 +119,7 @@ if (!is_null($events['events'])) {
                         $case = 1;
                         break;
                     case 19:
-                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/217421054_4000417610057527_1550534091344967959_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeFB3HLE5cB5B9ALSzlrhrBj3f41l0v6S27d_jWXS_pLbv97ueJzWQM0B4XIYOgmN-J2QjHrYa_Z6aPKug5lkg9Z&_nc_ohc=VKNz4OcleZEAX8XWBPj&_nc_ht=scontent.fbkk25-1.fna&oh=47fb1db2b2179864b55492b268a7c2f4&oe=612E6E72';
+                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/251990899_4349806145118670_549913261951994032_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeFAKH0xnp1GHC6HfD4qP_Sk6wJr66oZG4_rAmvrqhkbj-3Ln7XW3Ri7LZsyFpbqqK2Orh1BqEWbRZ6IUq3F0u--&_nc_ohc=uOAQVbhD8TcAX8qVWUy&_nc_oc=AQkJsOI1VOXgrtOHr-LAPF4P10OW7T_z_CNsDpfzCm9TP-g7LhXbatSyBotcsMLyyrcNrt6qrwLYN1vnIb2DgZb9&_nc_ht=scontent.fbkk25-1.fna&oh=88b48747fab669d54e11862d360dd75b&oe=61A3B0B1';
                         $case = 2;
                         break;
                     case 20:
@@ -127,7 +127,7 @@ if (!is_null($events['events'])) {
                         $case = 1;
                         break;
                     case 21:
-                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/209704372_3968465529919402_3928301805149704675_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeHXk7XRpVlQjnXT_THSE9LT33y_zmxQ_cjffL_ObFD9yMqodvFUFTGg19m_L5FycRHe-x4YlYO9tdZCtSIxy-aU&_nc_ohc=7gkzY1jihSgAX_N2xKP&tn=dnQ4NQk8Njp5JHP1&_nc_ht=scontent.fbkk25-1.fna&oh=8e45caf8aff3bf5ea09189a4992165d3&oe=612C7CFE';
+                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/251866334_4351511158281502_2694481498125038666_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeFBgtP4oMk1xhFTeU7_CljwGVFSvmCMMnEZUVK-YIwycdIIoCnIN7e4R1AdFDYF2yurQH01WiBM2JCFu8KwrREg&_nc_ohc=7w5IR4IDI6gAX8veq6S&_nc_ht=scontent.fbkk25-1.fna&oh=243dea38a8b05b96e9f9fc518b9258f9&oe=61A2CE4E';
                         $case = 2;
                         break;
                     case 22:
@@ -135,7 +135,7 @@ if (!is_null($events['events'])) {
                         $case = 1;
                         break;
                     case 23:
-                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/209994534_3968449863254302_3738218594714920456_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeECpAWojJ4l5dlHRf0UrJtx9EgFPi39AsH0SAU-Lf0CwegCoB5ZExtpMPQMXZntpM7q1pRxNjOm41uz_b6bU_a5&_nc_ohc=bqNiE2Kv7VwAX-pRfML&tn=dnQ4NQk8Njp5JHP1&_nc_ht=scontent.fbkk25-1.fna&oh=d1f5a8e0718c441af06d1e1ad0058f6e&oe=612B8DAE';
+                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/254553565_4362091997223418_4021240294152796049_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeF76NKIqXgZJgN3aSEx_4Ci1fpU_C3qx_DV-lT8LerH8MJziRQkEn2hBFnm2N2sDasfJhke-T9mdDCQbhBVVtfC&_nc_ohc=Vp4GhRhTVm8AX-b9kh9&_nc_ht=scontent.fbkk25-1.fna&oh=1a12757b7d1f09ee856befdf3015057d&oe=61A429B4';
                         $case = 2;
                         break;
                     case 24:
@@ -143,7 +143,7 @@ if (!is_null($events['events'])) {
                         $case = 1;
                         break;
                     case 25:
-                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/227469535_2946906642191424_3250846291767018406_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=a26aad&_nc_eui2=AeHs_rLwpZf5b1SvxPztnSQc9l3JkHOrd9f2XcmQc6t31xiqJS-1epMfyt7fSYjbrlFnHl8KpinUpf5Sv1l5QsUB&_nc_ohc=rem0t-9GkVcAX-S6B-Z&_nc_ht=scontent.fbkk25-1.fna&oh=3608de6b84faf896a03e46754b085a6b&oe=610C8FB6';
+                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/255271620_4362125317220086_5135645430410510802_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeHYIIE1MaB6jaaP1_FfGfqVBIcwm0w_xuEEhzCbTD_G4UkF9bOlbXILfoKAy5KmNmB0H7zqfK_Wdk_og5vRuwL3&_nc_ohc=Xn8rCHK8kZMAX-RbLDE&_nc_ht=scontent.fbkk25-1.fna&oh=90269e3e023d5d04cea41c277650703e&oe=61A26162';
                         $case = 2;
                         break;
                     case 26:
@@ -151,7 +151,7 @@ if (!is_null($events['events'])) {
                         $case = 1;
                         break;
                     case 27:
-                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/217662616_2938300359718719_7590526710278496581_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeEdiZvG8K_uCeOezCez-y3AcipiPosfWWByKmI-ix9ZYNZNGz64aCeOCmZMy9dt3BiUK1EORbaPOn-rmKJsmB14&_nc_ohc=Z8t97sSOF3sAX-TOU7i&tn=dnQ4NQk8Njp5JHP1&_nc_ht=scontent.fbkk25-1.fna&oh=0e6f402363e53ad7201889021f57874e&oe=610C37E9';
+                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/255649808_4368542013245083_695889587987571985_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeEwYFOdarvRLpgp8_hha_WYV5tXsL1tBVVXm1ewvW0FVcdD9uc2UpD0MmPXxyFnrSpa8GJC0IzwMervtOLAzfBB&_nc_ohc=HHcLF6xF5gYAX8s0BqB&_nc_ht=scontent.fbkk25-1.fna&oh=4450d694d2dbcccc047be5ef0908c5f2&oe=61A3784E';
                         $case = 2;
                         break;
                     case 28:
@@ -159,7 +159,7 @@ if (!is_null($events['events'])) {
                         $case = 1;
                         break;
                     case 29:
-                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/218733463_2938245849724170_6507841357274022650_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=a26aad&_nc_eui2=AeFSjxfCPzGa1eQ1f3vwhrKnOoIHOg5c9MU6ggc6Dlz0xcFtD2M2b_P39Is11zyt1y6CjzS1CJ5A47Q3SjeLsDCk&_nc_ohc=v0zmR02pEYgAX8V6nar&tn=dnQ4NQk8Njp5JHP1&_nc_ht=scontent.fbkk25-1.fna&oh=dfc9832960fcc6fb58d10394b119fd70&oe=610C20F0';
+                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/259426300_4410196842412933_7101477399333202435_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeFJ0vvaTTcBNlMsM54UKx9pJBIxR9vfFJQkEjFH298UlDResgbF2SmXdNLCygpj-De5EfJV_0tMLTv4XeZvjIIS&_nc_ohc=fpO7iHJ7UbcAX_TGini&_nc_oc=AQnRoV4jJpYWum6fC22kVPKLMvMcLsUS-5t6kpK12xZ-57b8yKNrBKMh_Kf81NHAyU8fkXAcan-qDuwvDuUjGeTG&_nc_ht=scontent.fbkk25-1.fna&oh=cac47e6ef574034675cada7dec75c907&oe=61A2C47C';
                         $case = 2;
                         break;
                 }
