@@ -700,45 +700,45 @@ if (!is_null($events['events'])) {
             if ( strpos($textinput, 'หิว') !== false ) {
                 $rand = rand(0, 20);
                 if ($rand == 0) {
-                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/276308260_5262763483742636_873357756981195510_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeFKZGbvqsgFpmYRvcwyS6ExuvEUBtzzEyq68RQG3PMTKgMnk2cp-RIfDju0kJLIDpapIqUK5_3uvWUfiAUwSs8s&_nc_ohc=yV07_MNkDD8AX8kx4fO&_nc_ht=scontent.fbkk25-1.fna&oh=00_AT8WNLCfOHzYWY9UQ2SRFFpru5NrKzPvuHhd9iV5UgLPqw&oe=625B4EBF';
+                    $img = 'https://www.catdumb.com/wp-content/uploads/2021/07/Family-Feast-KFC-supplied-1920x1440-1.jpg';
                 } elseif ($rand == 1) {
-                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/275900905_5248078341877817_3746218642701861573_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeHidqEC-wd-4gOQbI-5le5LHFrHb38YlGMcWsdvfxiUY2lRJfQvRy5tcTxegqapBEJVdyEmNpr7_LxYqqM6M-CO&_nc_ohc=dp3z6Pf9lXwAX89NYlp&_nc_ht=scontent.fbkk25-1.fna&oh=00_AT9134qbzDSeW7xh7MZrsCdqMvW539uUufoPvJKmEGfiSg&oe=625C2E8F';
+                    $img = 'https://i.pinimg.com/originals/8c/a5/14/8ca5148a119697bab2d35514aa4a5225.jpg';
                 } elseif ($rand == 2) {
-                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/275813239_5234592459893072_8984299192292173187_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeGl4zsEGs8c3M9o3HOsGVNm4ys_5V2GiFvjKz_lXYaIW5jplPK_E3AsrrYHV3f2cLha8Q-I9_kdpqA0vCMm84ne&_nc_ohc=C2iaq63nrPMAX87fTnV&_nc_ht=scontent.fbkk25-1.fna&oh=00_AT9Ojyf0Ra4kVDrqXWHi70KHvGE8dh1BOX3PbMajAyRq1w&oe=625B9C6E';
+                    $img = 'https://mpics.mgronline.com/pics/Images/564000013113601.JPEG';
                 } elseif ($rand == 3) {
-                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/275693580_5223223534363298_8954529847849694358_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeE6QFrq8y_-IoU0yaXPPBvxQ8oF7xoQAHVDygXvGhAAdcPXeaPN9ST5evsgfa3FGVURxp1hfhwHu8H8FKNf3GUF&_nc_ohc=QzUcSo0HIK8AX8bkonR&_nc_ht=scontent.fbkk25-1.fna&oh=00_AT_apcgiWcdQ_B9gHlfYR-0meJ2aPeLkr8PI7sie3-kQXA&oe=625BD85E';
+                    $img = 'https://lisergia.org/wp-content/uploads/2020/12/dFQROr7oWzulq5FZUEKojfKEkqLji91IEaURMSJLgJLjSrx4GoTgrd071Ljb3zPjwHn.jpg';
                 } elseif ($rand == 4) {
-                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/273837775_5152484001437252_6110892148650834539_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeEG9-ln5qN1Z7VoISXBoevkrrIsE4yYOHKusiwTjJg4clCd4y5tRPkOqjZ1C7zO1TcONAdFZzsAbrJSJhGteLAg&_nc_ohc=IrfkKb8kLRsAX-8Jc3r&_nc_ht=scontent.fbkk25-1.fna&oh=00_AT8TVRmjXgsJlPB34rRERo3l0bg6Wiib1WWvw32vdHN1gQ&oe=625B85EC';
+                    $img = 'https://bk-review.com/wp-content/uploads/2020/01/79422902_2613222022128183_7558992817184309248_o-1024x1024.jpg';
                 } elseif ($rand == 5) {
-                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/272320101_5110213308997655_9117944348562105541_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeHPLWyf6d2PvWpVtasDr8uGmmSlMg8wSaOaZKUyDzBJo5w55sTjnjnXAsGbnhwGg6csbn6khBxYLO2dkFiHvg4X&_nc_ohc=1pn9aqb5DKwAX9EU5tc&_nc_ht=scontent.fbkk25-1.fna&oh=00_AT_faAjRhQeGRmRPFOYPsG1UgOGwPFeVR1pv8jyoU3fs5Q&oe=625BBA88';
+                    $img = 'https://img.wongnai.com/p/1920x0/2019/04/19/cccd10b3b16b4b3aa0bc262517cf94a8.jpg';
                 } elseif ($rand == 6) {
-                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/272886513_5107285125957140_3839709804499108606_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeGdawf1bymlZUnxGM2mhwnQoJDnIStS0ZqgkOchK1LRmhwQ6jvR8ieZGSSI61SI4RYuwNxwtSbm0aqL_xsa00Ik&_nc_ohc=nSwnpVeTL1sAX_M19Gu&_nc_ht=scontent.fbkk25-1.fna&oh=00_AT_E6IbKCdxYDAKXTA47pV5_tWWB-NEq1jEAt4yYbe8tQA&oe=625C9001';
+                    $img = 'https://img.wongnai.com/p/1920x0/2021/01/13/f001eab0c36742f2a0a36b5780db148b.jpg';
                 } elseif ($rand == 7) {
-                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/269836895_4954976177854703_6606632219645842534_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeHmEE3g50Jqr6qixx3zPNn3-Et-QHZLsuX4S35Adkuy5W-NCD4x2-BqWX_O99fh2rUZpJD_3XR_VDWasSXq7GW6&_nc_ohc=i0eVM01SS0gAX-pEjd-&_nc_ht=scontent.fbkk25-1.fna&oh=00_AT-qBUZadLUShJafTv5pNKifwgBV5J6kQ-U1frm3kMwTwg&oe=625B4A72';
+                    $img = 'https://www.wonderfulpackage.com/uploads/moxie/Article/yakiniku5.jpg';
                 } elseif ($rand == 8) {
-                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/267404717_4935951896423798_919535470089946551_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeGT5Ms9PIzZZOI0MztxilrqhRZjQM9THiKFFmNAz1MeIlF_BTvxaDOtjoPucZNbBuOLiiPsH3NkF5zg1NCBaRWJ&_nc_ohc=3QAga3i9bPYAX8uwukB&_nc_oc=AQlzIh7JPj_eQ2RIgxh3rrxkuMHludKmyG8Sylp--6Yr30iWbl3g_0aAhgNgFPbEyAg7sP7HmSHH9fMiJuUYtBQ0&tn=ZBfUqUQyjeW1vHce&_nc_ht=scontent.fbkk25-1.fna&oh=00_AT_QIiEOm0Ai60enex9vdi14u4DTmDlDvqfA6GXx5EZm7A&oe=625BEFA5';
+                    $img = 'https://img.wongnai.com/p/1920x0/2014/06/16/0277a9bb160f4911817867310558c19c.jpg';
                 } elseif ($rand == 9) {
-                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/257955689_4844236612261994_2400371937074637349_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeFa3DJgocp5-imMbas3XLMzc50yjUymbXxznTKNTKZtfAfAoaRCDCCFEiYN0HPA-S6blw58dBqSoVeJ4MqBUQGu&_nc_ohc=x5EgFvbmq5oAX8Pz50L&_nc_ht=scontent.fbkk25-1.fna&oh=00_AT_b5eyQ7Ic9dvgPKXf_ApgaGJHL56R-MCY6Xc9gimvaXw&oe=625C54B1';
+                    $img = 'https://www.posttoday.com/media/content/2018/10/09/7E68135B4E03435881B219B331FB9169.jpg';
                 } elseif ($rand == 10) {
-                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/245604693_4734323743253282_2053869180011299641_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeEeoV2YZcBPil-hMiMQiYrmGhk_CqcvMQAaGT8Kpy8xAFgbHTI1II95Un67qigoHGXRMTZmBom8VU40wk42j6DX&_nc_ohc=Al-jn0crwKYAX8yvh00&_nc_ht=scontent.fbkk25-1.fna&oh=00_AT8ZxNs6MElRLs5TyusS2KZ7DLaZKUUCaDoJVSKBt7H3mQ&oe=625C46C0';
+                    $img = 'https://static.posttoday.com/media/content/2019/12/31/F17E1DA7B68D47F99F407C024F36CE26.jpeg';
                 } elseif ($rand == 11) {
-                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/244725192_4706381392714184_2461831452749512205_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeG_jbztYjMPrTyuOWIZKx_BKhbI4-k2mdoqFsjj6TaZ2st693ySkGXXOuRVXkuagtdKBZV9YCzNl6ap3XOv8tKg&_nc_ohc=S9qNb4F5HEEAX9MHBom&_nc_oc=AQm7stBf4Ij0-nKojAK0YUeODKWe736TQGUg2aA__vN374TOMOFhiRlAJjhENSn8nzI4nBYlYkMQez5sRiV5QzIU&tn=ZBfUqUQyjeW1vHce&_nc_ht=scontent.fbkk25-1.fna&oh=00_AT_tqHpXt_ZjnFIpqXGnzhTXiZDnWDEbIv_eNYqYv2yIrA&oe=625C85E0';
+                    $img = 'https://www.bowensislandrestaurant.com/wp-content/uploads/2016/11/Som-Tam-Sea.jpg';
                 } elseif ($rand == 12) {
-                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/245014829_4706381932714130_280173891784931705_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeH47XAoN2BxSgiimv-xbbjyrLDw_dbdmBmssPD91t2YGRaAUgDKBSRA_OLdRW6dDFPjFou3kY5C3aZwDUCMWX_N&_nc_ohc=XgCW0C5dyDIAX_ntEf_&_nc_ht=scontent.fbkk25-1.fna&oh=00_AT_9VQH6r-iemppHpd-oNjB2JzA3hcS92xw7ais8ro-Erw&oe=625B8BB5';
+                    $img = 'https://s.isanook.com/he/0/ud/6/31245/salmon.jpg';
                 } elseif ($rand == 13) {
-                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/245069431_4706382102714113_6187435351620904007_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeGz2F8RNbVqgfuv53veewFHBrmTbG3DfQQGuZNsbcN9BJXnL33f0WvVcZ0MN0jAMbVErOYFs3s657XCrW34NkY1&_nc_ohc=YRk_---B5DMAX-Nypct&_nc_ht=scontent.fbkk25-1.fna&oh=00_AT_Q9xspOw3GW29tNZHjsE3_YW6vevZVgMr8Y4gKKx3tkw&oe=625B37BF';
+                    $img = 'https://img.wongnai.com/p/1920x0/2017/11/11/853a721652944da694f24d159d5007b2.jpg';
                 } elseif ($rand == 14) {
-                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/244441185_4706381859380804_8626913572182773257_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeHe9XIBETpc_SxObVTmRu-5uaZSuCrCwcO5plK4KsLBw_n3KngJ-04GAEP-fIR1wI89ivsAuGQzOBvJYKT_7dZI&_nc_ohc=lf6aVqbt2sUAX9AGXQv&_nc_ht=scontent.fbkk25-1.fna&oh=00_AT-7rCgOMTbPNh3DHgCkAzmEIMqHrvX_fGIZP9pUPQxYng&oe=625B23F1';
+                    $img = 'https://img.wongnai.com/p/1920x0/2021/05/09/35d9acd72d4f4131a743ee5b82711031.jpg';
                 } elseif ($rand == 15) {
-                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/242063025_4632676466751344_442330854156581303_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeHY4pFoCvFYc5OyIbm8JjlfRgHGHGCV-QVGAcYcYJX5BX7ngE51bEZoEZBt0hlNEcoz_mQUrHPq94x2ORA4mnY_&_nc_ohc=YRZ8sH3upooAX9DkVm8&_nc_oc=AQl3JB-lhcX4lNndwmWw2ELQbOWRGan8oYorK-kiB01mj5pg2LA5JcCmyUU_FZoqdqofTt3w1egMpdJAaKjhID5U&_nc_ht=scontent.fbkk25-1.fna&oh=00_AT_4d_Y70l540P8QyqWyMzfk2OMF4FC72FK0ncIc4GX-Fg&oe=625C78F5';
+                    $img = 'https://i.ytimg.com/vi/Z56PT1_I_pE/maxresdefault.jpg';
                 } elseif ($rand == 16) {
-                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/221652076_4467260049959654_5700117288862481106_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeHBCU9M_2HcVD3JvCPOL5DkPL2jHNqZ0Wk8vaMc2pnRaRxE0QqfjiqtI2qYyGIu5d3l1qn1J8h438jmWEgu5UVK&_nc_ohc=k33CPG6W99sAX9a8cs4&_nc_ht=scontent.fbkk25-1.fna&oh=00_AT_ytBVSmSmxdXBLDL5fysmi6DsRMwPMcZ98npS2UkD4Ow&oe=625B315E';
+                    $img = 'https://i.ytimg.com/vi/gjm1toMrY8g/maxresdefault.jpg';
                 } elseif ($rand == 17) {
-                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/203248360_4367046323314361_1958734081124416100_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeGbsB5v87tlAhMYAlowSIOgRy9gr5TpMOFHL2CvlOkw4WaCmaxqNn-sjevExBWvP_m6kWr7j4OcEl1uUXBwVhEp&_nc_ohc=PUtbYfTYTkcAX-DPR90&_nc_ht=scontent.fbkk25-1.fna&oh=00_AT_PKpqLzy8fSVfhM1h0iHXlZmLPGUGX2vxajxKs_VdI8Q&oe=627CF499';
+                    $img = 'https://www.proudofficials.com/application/files/cache/thumbnails/2e5e936a36586da03e09a4a39375fb0d.jpg';
                 } elseif ($rand == 18) {
-                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/203100635_4366025843416409_2074972338568672668_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeE9I7ZfxJKmvS2GtXyICBz1FQ_bAQS8ZvUVD9sBBLxm9c_AsJedXbUp8nZeYYLAnAUzS9JawWnL7w9phYj08yIF&_nc_ohc=9HRndxXvzLIAX-eYpRz&tn=ZBfUqUQyjeW1vHce&_nc_ht=scontent.fbkk25-1.fna&oh=00_AT-IrZMXqt05XDzOclg85gAbvnw7-wir28-KveK-cvsdHQ&oe=627AABCE';
+                    $img = 'https://www.cpbrandsite.com/contents/recipe/be3vva3vsjjjww2xtpjd8urfq62o2usgdgajfdo4.png';
                 } elseif ($rand == 19) {
-                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/180619231_4214022221950106_6792570831205053467_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeHUX-_qe9Stbwbup1kRdHrKKeLEZ-PvjGIp4sRn4--MYrhKBCntPiu5EoK1NAUVKiFqrRnCU830j5Qqu_616l5E&_nc_ohc=t7Pfq9BrHwAAX-Znb5C&_nc_ht=scontent.fbkk25-1.fna&oh=00_AT9BjOdubgBIBBhnkZlLLqknrIIDHVHZl14IJj6jfm_zWw&oe=627AF455';
+                    $img = 'https://f.ptcdn.info/949/065/000/pxrhl5cs3grYVTBpk4x-o.jpg';
                 }  else {
                     $text = 'กินอะไรกันดีละ';
                     $case = 1;
