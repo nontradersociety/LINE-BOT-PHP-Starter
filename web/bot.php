@@ -478,6 +478,66 @@ if (!is_null($events['events'])) {
                 }
                 $case = 2;
             }
+	    if ( strpos($textinput, 'ตู่') !== false || strpos($textinput, 'ประยุท') !== false || strpos($textinput, 'จันทรโอชา') !== false || strpos($textinput, 'ประยุด') !== false ) {
+                $rand = rand(0, 10);
+                if ($rand == 0) {
+                    $text = 'ได้ยินชื่อแล้วประสาทจะเสีย';
+                    $case = 1;
+                } elseif ($rand == 1) {
+                    $img = 'https://ichef.bbci.co.uk/news/640/cpsprodpb/16F65/production/_107335049_epahi054463889.jpg';
+                } elseif ($rand == 2) {
+                    $img = 'https://www.right-livelihoods.org/wp-content/uploads/2021/06/dFQROr7oWzulq5FZWt5uOWxNqVgnUIRnnhFngXa2ttHqDnSclT4eKMvFn6UPjnX1dZU.jpg';
+                } elseif ($rand == 3) {
+                    $img = 'https://www.naewna.com/uploads/news/source/456101.jpg';
+                } elseif ($rand == 4) {
+                    $img = 'https://pbs.twimg.com/profile_images/1201483636454744065/SOwgoBYn_400x400.jpg';
+                } elseif ($rand == 5) {
+                    $img = 'https://image.bangkokbiznews.com/uploads/images/md/2022/07/Q25QH5m0LPeeZGtKo5DF.webp?x-image-process=style/LG';
+                } elseif ($rand == 6) {
+                    $img = 'https://www.khaosod.co.th/wpapp/uploads/2021/02/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B9%8C-1.jpg';
+                } elseif ($rand == 7) {
+                    $img = 'https://www.dailynews.co.th/admin/upload/20190607/news_kcAAzDavqh182844_533.jpg';
+                } elseif ($rand == 8) {
+                    $img = 'https://themomentum.co/wp-content/uploads/2019/09/%E0%B8%95%E0%B8%B9%E0%B9%88-Thumbnail-960x720.png';
+                } elseif ($rand == 9) {
+                    $text = 'เดี๋ยวทุ่มด้วยโพเดียม !!!';
+                    $case = 1;
+                } else {
+                    $text = 'เรื่องโง่นี่ฉลาดนัก 55';
+                    $case = 1;
+                }
+                $case = 2;
+            }
+	    if ( strpos($textinput, 'ประวิท') !== false || strpos($textinput, 'ประวิต') !== false || strpos($textinput, 'ประวิด') !== false || strpos($textinput, 'ลุงป้อม') !== false || strpos($textinput, 'วงษสุวรรณ') !== false ) {
+                $rand = rand(0, 10);
+                if ($rand == 0) {
+                    $text = 'ทุกวันนี้เดินไม่ไหวแล้ว';
+                    $case = 1;
+                } elseif ($rand == 1) {
+                    $img = 'https://upload.wikimedia.org/wikipedia/commons/2/2b/Prawit_Wongsuwan_%282018%29_cropped.jpg';
+                } elseif ($rand == 2) {
+                    $img = 'https://image.bangkokbiznews.com/uploads/images/md/2021/12/PJIyWQGdKEQc0f3TREwZ.webp?x-image-process=style/LG';
+                } elseif ($rand == 3) {
+                    $img = 'https://thaipublica.org/wp-content/uploads/2018/03/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A7%E0%B8%B4%E0%B8%95%E0%B8%A3.jpg';
+                } elseif ($rand == 4) {
+                    $img = 'https://www.matichon.co.th/wp-content/uploads/2019/05/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A7%E0%B8%B4%E0%B8%95%E0%B8%A3-%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93.jpg';
+                } elseif ($rand == 5) {
+                    $img = 'https://www.isranews.org/images/2016/isranews/02/PIC-pravit-13-2-59_1.jpg';
+                } elseif ($rand == 6) {
+                    $img = 'https://www.khaosod.co.th/wpapp/uploads/2021/09/1232834-img.ueel96.1382k.jpg';
+                } elseif ($rand == 7) {
+                    $img = 'https://www.isranews.org/images/2016/isranews/02/PIC-pravit-13-2-59_1.jpg';
+                } elseif ($rand == 8) {
+                    $img = 'https://matemnews.com/wp-content/uploads/2018/11/46788281_2070780222980425_1128206089532211200_n.jpg';
+                } elseif ($rand == 9) {
+                    $text = 'ไม่รู้ 555555';
+                    $case = 1;
+                } else {
+                    $text = 'อะไรอ่ะ ยืมเขามา 55';
+                    $case = 1;
+                }
+                $case = 2;
+            }
             if ( strpos($textinput, 'คิดถึงบอท') !== false ) {
                 $rand = rand(0, 4);
                 if ($rand == 0) {
@@ -545,7 +605,7 @@ if (!is_null($events['events'])) {
                 } elseif ($rand == 1) {
                     $text = 'พูดไอ้กับใคร';
                 } elseif ($rand == 2) {
-                    $text = 'พูดเพราะเป็นมั๊ย';
+                    $text = 'พูดเพราะๆเป็นมั๊ย';
                 } elseif ($rand == 3) {
                     $text = 'เป็นใครมาจากไหนถึงใช้คำว่า ไอ้ อยากโดน ??';
                 }
@@ -587,7 +647,7 @@ if (!is_null($events['events'])) {
                 $case = 1;
             }
             if ( strpos($textinput, 'เสียดาย') !== false ) {
-                $rand = rand(0, 15);
+                $rand = rand(0, 9);
                 if ($rand == 0) {
                     $text = 'เสียดายดีกว่าเสียใจ';
                 } elseif ($rand == 1) {
@@ -605,7 +665,7 @@ if (!is_null($events['events'])) {
                 } elseif ($rand == 7) {
                     $text = 'อยากจะทำทุกสิ่ง อยากจะทำทุกอย่าง หากจะพอมีหวัง ให้คืนวันมันย้อนไป 555';
                 } elseif ($rand == 8) {
-                    $text = 'ไม่ต้องซี เริ่มต้นใหม่ไป';
+                    $text = 'ไม่ต้องซีเรียส เริ่มต้นใหม่ไป';
                 }
                 $case = 1;
             }
@@ -689,7 +749,7 @@ if (!is_null($events['events'])) {
             if ( strpos($textinput, 'รวน') !== false || strpos($textinput, 'เอ๋อ') !== false) {
                 $rand = rand(0, 2);
                 if ($rand == 0) {
-                    $text = 'ไม่ได้รวน ช่วงนี้มึนๆนิดหน่อย';
+                    $text = 'กราฟลากหรอเลยรวนอ่ะ';
                 } elseif ($rand == 1) {
                     $text = 'อากาศมันร้อนอ่ะเลยไม่ค่อย 100%';
                 } elseif ($rand == 2) {
@@ -746,7 +806,7 @@ if (!is_null($events['events'])) {
                 $case = 2;
             }
             if ( strpos($textinput, 'บิน') !== false ) {
-                $rand = rand(0, 16);
+                $rand = rand(0, 11);
                 if ($rand == 0) {
                     $img = 'https://stickershop.line-scdn.net/stickershop/v1/product/1169980/LINEStorePC/main@2x.png;compress=true?__=20161019';
                     $case = 2;
@@ -777,7 +837,7 @@ if (!is_null($events['events'])) {
                 $case = 1;
             }
             if ( strpos($textinput, 'ทุบ') !== false ) {
-                $rand = rand(0, 16);
+                $rand = rand(0, 11);
                 if ($rand == 0) {
                     $text = 'สงสัยจะไปแกนโลก';
                 } elseif ($rand == 1) {
@@ -910,21 +970,19 @@ if (!is_null($events['events'])) {
                 $rand = rand(0, 1);
                 if ($rand == 0) {
                     $text = 'จุดกลับตัว คือ จุดที่เมื่อราคาได้วิ่งมาชนแล้ว มี "แนวโน้ม" ที่จะกลับตัว';
-                } elseif ($rand == 1) {
-                    $text = 'สังเกตุกราฟด้วยนะว่ามาชนแล้วเด้งหรือแค่มาจ่อ';
                 }
                 $case = 1;
             }
             if ( strpos($textinput, 'แนวสำคัญ') !== false ) {
-                $text = 'แนวต้านสำคัญ คือ แนวราคาที่กราฟได้มาชนบ่อยๆแล้วไม่สามารถผ่านไปได้';
+                $text = 'แนวสำคัญ คือ แนวที่ราคาได้มาชนบ่อยๆแล้วไม่สามารถผ่านไปได้';
                 $case = 1;
             }
             if (strpos($textinput, 'ชนแล้วเด้ง') !== false) {
                 $rand = rand(0, 1);
                 if ($rand == 0) {
-                    $text = 'กราฟชนแนวต้านแล้วเด้งใช่มั๊ย ? แสดงว่าแนวต้านแข็งแรง แต่ถ้าชนมากๆก็มีสิทธิ์ที่จะแตกได้';
+                    $text = 'กราฟชนแนวสำคัญแล้วเด้งใช่มั๊ย ? แสดงว่าราคานั้นแข็งแรง แต่ถ้าชนมากๆก็มีสิทธิ์ที่จะทะลุได้';
                 } else {
-                    $text = 'แสดงว่าแนวราคานั้นมีขนาดแท่งเทียนที่มีขนาดใหญ่พอสมควร ทำให้มีการเด้งกลับ';
+                    $text = 'แสดงว่าราคานั้นอดีตเคยมีแท่งเทียนขนาดใหญ่พอสมควร ทำให้มีการเด้งกลับ';
                 }
                 $case = 1;
             }
@@ -1181,7 +1239,7 @@ if (!is_null($events['events'])) {
                     $text = 'ธรรมด๊า';
                 } elseif ($rand == 1) {
                     $text = 'โหดสัดรัสเซีย ไนจีเรียอ่ะ';
-                } elseif ($rand == 1) {
+                } elseif ($rand == 2) {
                     $text = 'ดูเลเวลด้วย';
                 } else {
                     $text = 'อยากเห็นยิ่งกว่านี้ป่ะ';
