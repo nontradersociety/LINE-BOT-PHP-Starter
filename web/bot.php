@@ -686,7 +686,7 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-            if ( strpos($textinput, 'รวน') !== false ) {
+            if ( strpos($textinput, 'รวน') !== false || strpos($textinput, 'เอ๋อ') !== false) {
                 $rand = rand(0, 2);
                 if ($rand == 0) {
                     $text = 'ไม่ได้รวน ช่วงนี้มึนๆนิดหน่อย';
@@ -915,7 +915,7 @@ if (!is_null($events['events'])) {
                 }
                 $case = 1;
             }
-            if ( strpos($textinput, 'แนวต้านสำคัญ') !== false ) {
+            if ( strpos($textinput, 'แนวสำคัญ') !== false ) {
                 $text = 'แนวต้านสำคัญ คือ แนวราคาที่กราฟได้มาชนบ่อยๆแล้วไม่สามารถผ่านไปได้';
                 $case = 1;
             }
@@ -929,7 +929,7 @@ if (!is_null($events['events'])) {
                 $case = 1;
             }
             if ( strpos($textinput, 'จ่อ') !== false ) {
-                $text = 'กราฟมาจ่อแนวต้านแล้วหรอ ถ้าใครมีออเดอร์อยู่รีบเคลียร์ทิ้งนะ มันมีโอกาสที่จะทะลุได้เลย';
+                $text = 'กราฟมาจ่อแนวต้านหรือแนวรับแล้วหรอ ถ้าใครมีออเดอร์อยู่รีบเคลียร์ทิ้งนะ มันมีโอกาสที่จะทะลุได้เลย';
                 $case = 1;
             }
             if ( strpos($textinput, 'adp-nonfarm') !== false ) {
