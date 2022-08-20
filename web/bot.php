@@ -47,7 +47,7 @@ if (!is_null($events['events'])) {
                 $rand = rand(1, 29);
                 switch ($rand) {
                     case 1:
-                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/214472989_4004166513015970_5549118296670905373_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeHjDSR87pbQ_TtR1b-izCut3u7xP5CkHeje7vE_kKQd6B8xOZ0cwCO_fXIuZnKZHCmZ8DW7WXoOFMI43w1mlWoK&_nc_ohc=XRJ49rwj_20AX9Zsp26&_nc_ht=scontent.fbkk25-1.fna&oh=9f8dbb85bc3af72b67ca4886497f2c3c&oe=61A255DB';
+                        $img = 'https://www.sawsuay.com/wp-content/uploads/2021/07/Nanaryy-Sjt-6-683x1024-1-520x780.jpg';
                         $case = 2;
                         break;
                     case 2:
@@ -55,7 +55,7 @@ if (!is_null($events['events'])) {
                         $case = 1;
                         break;
                     case 3:
-                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/173406124_4026831127416175_458241444679250493_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeH1jOaLu5J1hb97OoIMIHTpY3AaxigYgARjcBrGKBiABDylfAaZnzfSpH8-2xeWANUi3JpC96KzbQcIvP7LQU8x&_nc_ohc=cKLwwKyG1TgAX_oR3l-&_nc_ht=scontent.fbkk25-1.fna&oh=a23cf57c9a07c1197f8687bf7087530c&oe=61A3C0B2';
+                        $img = 'https://saopretty.com/wp-content/uploads/2021/07/%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%87-koi-%E0%B8%81%E0%B9%89%E0%B8%AD%E0%B8%A2-7-768x1152-1-520x780.jpg';
                         $case = 2;
                         break;
                     case 4:
@@ -63,7 +63,7 @@ if (!is_null($events['events'])) {
                         $case = 1;
                         break;
                     case 5:
-                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/208860137_4029801057119182_8968938472533101840_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeG84VVq21v-EjvRDRj8HNJMBbNi0Bb4Se4Fs2LQFvhJ7pfrP7eZ9J6IO7XDNSxoLVRDyy3CES4LrAMwzjkCiVuX&_nc_ohc=n81UlELBAukAX-9rk7D&_nc_ht=scontent.fbkk25-1.fna&oh=0ae88e95fd993e7871fd86575bce3fde&oe=61A2BC67';
+                        $img = 'https://i.pinimg.com/736x/25/df/bc/25dfbccbded774fa4c503f4365095865.jpg';
                         $case = 2;
                         break;
                     case 6:
@@ -71,96 +71,96 @@ if (!is_null($events['events'])) {
                         $case = 1;
                         break;
                     case 7:
-                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/216868030_4051201484979139_3123001840820603174_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeEYAmOR_5iUGtIG3xmlJo-dwBg-xY0cJsDAGD7FjRwmwF-Co7mFOrfn4JzqnQRCYm95r-03tWZDny2BC75KoWeZ&_nc_ohc=LatTo6uDXTsAX8ey5wU&_nc_ht=scontent.fbkk25-1.fna&oh=b676715685288eff3a6f22544b17c9e1&oe=61A33A6E';
-                        $case = 2;
+                        $img = 'https://i.pinimg.com/736x/e9/26/16/e92616ba5a17d4dd0e23d7efdb7e46a7.jpg';
+			$case = 2;
                         break;
                     case 8:
                         $text = 'https://www.instagram.com/kukkaikukkaii/';
                         $case = 1;
                         break;
                     case 9:
-                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/225736531_4056819837750637_6564352988250544569_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeGOChARvoeQXpGoXUaiXTPSYa8pFMigrBlhrykUyKCsGZsPsNfIxBS_DQVfQdRdLM04l1u1wZGE569VNw2RgL2j&_nc_ohc=HnltkJeQ2i4AX9scoPV&_nc_ht=scontent.fbkk25-1.fna&oh=647d4388f19b2ed15f368d51b662996d&oe=61A27AC3';
-                        $case = 2;
+                        $img = 'https://i.pinimg.com/originals/ff/a8/ed/ffa8edc54dd2468d12f01a5ad7268de3.jpg';
+			$case = 2;
                         break;
                     case 10:
                         $text = 'https://www.instagram.com/nookkyi_/';
                         $case = 1;
                         break;
                     case 11:
-                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/253740027_1020732598707595_537747637416489119_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeHWVgSQXKh3NgiPLdJzGGgFYkLTuTIuY0diQtO5Mi5jRwxU_jEp9qLgIrjnJsjiwvoi--utZQ2HXmUv-zxD-Nqe&_nc_ohc=z1URF1rOQ5IAX9pHFz7&_nc_ht=scontent.fbkk25-1.fna&oh=adb9e221e4c1e6a7f2e79190f93b67a6&oe=61A43E46';
-                        $case = 2;
+                        $img = 'https://i.pinimg.com/736x/2b/1f/a0/2b1fa07b59e98e35843e215714fc1f1d.jpg';
+			$case = 2;
                         break;
                     case 12:
                         $text = 'https://www.instagram.com/ptrc_yung/';
                         $case = 1;
                         break;
                     case 13:
-                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/66797165_10217193247997642_5356177303078436864_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=174925&_nc_eui2=AeFZUSyltj-2Gm0wJKN_sF_rXuq7qcgMtV1e6rupyAy1Xest5Sn6Vbp_D9gGQWzN0GPlHIH8ZbdcM_kOeNGOOBFf&_nc_ohc=hUbXB_HzndQAX8r28eG&tn=_ODdZYFQRVx1EbJE&_nc_ht=scontent.fbkk25-1.fna&oh=2f1651631b5e0d0862c3f8ff680170dd&oe=61C45545';
-                        $case = 2;
+                        $img = 'https://สาวสวยน่ารัก.com/wp-content/uploads/2021/07/183237381_4284135054953751_6299081343301808009_n-768x1152-1-683x1024.jpg';
+			$case = 2;
                         break;
                     case 14:
                         $text = 'https://www.instagram.com/pimmmmss/';
                         $case = 1;
                         break;
                     case 15:
-                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/240585590_4217411561691463_4054408420251810664_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeHgrHGr9weoszo6oM8gdEfzEDKp8TR-ZiMQMqnxNH5mI5qC7idNWnDunSpmsBpKb2ak6cv_d30Pb22unXsxWuz7&_nc_ohc=PLl9o4MMWAcAX8GY78T&_nc_ht=scontent.fbkk25-1.fna&oh=8ad08cdbe1da493b17b91423e8ec7766&oe=61A25BAC';
-                        $case = 2;
+                        $img = 'https://daralkholfa.com/wp-content/uploads/2021/07/Supansa-Yoopradit-7-768x1153-1.jpg';
+			$case = 2;
                         break;
                     case 16:
                         $text = 'https://www.instagram.com/panchanokkk/';
                         $case = 1;
                         break;
                     case 17:
-                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/240589680_4232144026884883_2404055425419213600_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeG57Fx_vO_GEE44JJAwxFO8BkrGRnpBYUEGSsZGekFhQbHbEN4d3sf0oD99kLFmhbNEgfZcr-MZ7mSdIN3TL3nX&_nc_ohc=N1SK0ardmLIAX9BgFS9&_nc_ht=scontent.fbkk25-1.fna&oh=4ac7fa59221088a042b70653495ea6c9&oe=61A37149';
-                        $case = 2;
+                        $img = 'https://สาวสวยน่ารัก.com/wp-content/uploads/2021/07/1620101299068.jpg';
+			$case = 2;
                         break;
                     case 18:
                         $text = 'https://www.instagram.com/earnpatt/';
                         $case = 1;
                         break;
                     case 19:
-                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/251990899_4349806145118670_549913261951994032_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeFAKH0xnp1GHC6HfD4qP_Sk6wJr66oZG4_rAmvrqhkbj-3Ln7XW3Ri7LZsyFpbqqK2Orh1BqEWbRZ6IUq3F0u--&_nc_ohc=uOAQVbhD8TcAX8qVWUy&_nc_oc=AQkJsOI1VOXgrtOHr-LAPF4P10OW7T_z_CNsDpfzCm9TP-g7LhXbatSyBotcsMLyyrcNrt6qrwLYN1vnIb2DgZb9&_nc_ht=scontent.fbkk25-1.fna&oh=88b48747fab669d54e11862d360dd75b&oe=61A3B0B1';
-                        $case = 2;
+                        $img = 'https://municipioscontraladeuda.org/wp-content/uploads/2020/09/S__7626829-876x1024.jpg';
+			$case = 2;
                         break;
                     case 20:
                         $text = 'https://www.instagram.com/n3scafe/';
                         $case = 1;
                         break;
                     case 21:
-                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/251866334_4351511158281502_2694481498125038666_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeFBgtP4oMk1xhFTeU7_CljwGVFSvmCMMnEZUVK-YIwycdIIoCnIN7e4R1AdFDYF2yurQH01WiBM2JCFu8KwrREg&_nc_ohc=7w5IR4IDI6gAX8veq6S&_nc_ht=scontent.fbkk25-1.fna&oh=243dea38a8b05b96e9f9fc518b9258f9&oe=61A2CE4E';
-                        $case = 2;
+                        $img = 'https://postjungz.com/wp-content/uploads/2021/07/187291985_936042793843059_1358127618773368209_n-1000x1000-1.jpg';
+			$case = 2;
                         break;
                     case 22:
                         $text = 'https://www.instagram.com/yayayoda._/';
                         $case = 1;
                         break;
                     case 23:
-                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/254553565_4362091997223418_4021240294152796049_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeF76NKIqXgZJgN3aSEx_4Ci1fpU_C3qx_DV-lT8LerH8MJziRQkEn2hBFnm2N2sDasfJhke-T9mdDCQbhBVVtfC&_nc_ohc=Vp4GhRhTVm8AX-b9kh9&_nc_ht=scontent.fbkk25-1.fna&oh=1a12757b7d1f09ee856befdf3015057d&oe=61A429B4';
-                        $case = 2;
+                        $img = 'https://www.greatstarsdigital.com/wp-content/uploads/2019/06/D5E343ED-E365-49B0-A9D5-63C34E698C2B-815x1024.jpeg';
+			$case = 2;
                         break;
                     case 24:
                         $text = 'https://www.instagram.com/champ.habita/';
                         $case = 1;
                         break;
                     case 25:
-                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/255271620_4362125317220086_5135645430410510802_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeHYIIE1MaB6jaaP1_FfGfqVBIcwm0w_xuEEhzCbTD_G4UkF9bOlbXILfoKAy5KmNmB0H7zqfK_Wdk_og5vRuwL3&_nc_ohc=Xn8rCHK8kZMAX-RbLDE&_nc_ht=scontent.fbkk25-1.fna&oh=90269e3e023d5d04cea41c277650703e&oe=61A26162';
-                        $case = 2;
+                        $img = 'https://stringfixer.com/files/79469034.jpg';
+			$case = 2;
                         break;
                     case 26:
                         $img = 'https://www.instagram.com/iicechawan/';
                         $case = 1;
                         break;
                     case 27:
-                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/255649808_4368542013245083_695889587987571985_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeEwYFOdarvRLpgp8_hha_WYV5tXsL1tBVVXm1ewvW0FVcdD9uc2UpD0MmPXxyFnrSpa8GJC0IzwMervtOLAzfBB&_nc_ohc=HHcLF6xF5gYAX8s0BqB&_nc_ht=scontent.fbkk25-1.fna&oh=4450d694d2dbcccc047be5ef0908c5f2&oe=61A3784E';
-                        $case = 2;
+                        $img = 'https://s359.kapook.com/pagebuilder/e5024b71-1903-4e08-90bf-20b5aa84a05b.jpg';
+			$case = 2;
                         break;
                     case 28:
                         $img = 'https://www.instagram.com/nn.nungnew/';
                         $case = 1;
                         break;
                     case 29:
-                        $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/259426300_4410196842412933_7101477399333202435_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeFJ0vvaTTcBNlMsM54UKx9pJBIxR9vfFJQkEjFH298UlDResgbF2SmXdNLCygpj-De5EfJV_0tMLTv4XeZvjIIS&_nc_ohc=fpO7iHJ7UbcAX_TGini&_nc_oc=AQnRoV4jJpYWum6fC22kVPKLMvMcLsUS-5t6kpK12xZ-57b8yKNrBKMh_Kf81NHAyU8fkXAcan-qDuwvDuUjGeTG&_nc_ht=scontent.fbkk25-1.fna&oh=cac47e6ef574034675cada7dec75c907&oe=61A2C47C';
-                        $case = 2;
+                        $img = 'https://image.sistacafe.com/w800/images/uploads/summary/image/23252/17817560_1818272798390544_6188161473890484224_n.jpg';
+			$case = 2;
                         break;
                 }
             }
