@@ -413,29 +413,29 @@ if (!is_null($events['events'])) {
                     $text = 'พารูดซัก 1000 จุดดีมั๊ย';
                     $case = 1;
                 } elseif ($rand == 3) {
-                    $img = 'https://static.politico.com/dims4/default/68795be/2147483647/resize/1160x%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F78%2F02%2Fb284f4d442bd9d00793096672b89%2F190823-jerome-powell-ap-773.jpg';
+                    $img = 'https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHT9v_FRMvs8/v1/1200x-1.jpg';
                 } elseif ($rand == 4) {
-                    $img = 'https://images.axios.com/yxmJGM8mcs1q7nuK_b5AVTjS8F4=/0x0:4922x2769/1920x1080/2019/02/26/1551191586837.jpg';
+                    $img = 'https://www.matichon.co.th/wp-content/uploads/2020/05/2020-05-13T000000Z_162781672_RC2WNG90RFZ1_RTRMADP_3_USA-FED-POWELL-RATES.jpg';
                 } elseif ($rand == 5) {
-                    $img = 'https://thenypost.files.wordpress.com/2019/09/jerome-powell.jpg?quality=90&strip=all';
+                    $img = 'https://image.cnbcfm.com/api/v1/image/107060534-1652390912126-jerry.jpg?v=1652390971';
                 } elseif ($rand == 6) {
-                    $img = 'https://webapi.project-syndicate.org/library/6aed65293d733ca44d18c46ac11c5343.jpg';
+                    $img = 'https://s3-ap-northeast-1.amazonaws.com/psh-ex-ftnikkei-3937bb4/images/2/6/8/0/41520862-3-eng-GB/Cropped-1658837582R20220726%20Jerome%20Powell.jpg';
                 } elseif ($rand == 7) {
-                    $img = 'https://dynaimage.cdn.cnn.com/cnn/c_fill,g_auto,w_1200,h_675,ar_16:9/https%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F181220100716-01-jerome-powell-presser-1219.jpg';
+                    $img = 'https://api.time.com/wp-content/uploads/2020/09/time-100-Jerome-Powell.jpg';
                 } elseif ($rand == 8) {
-                    $img = 'https://media.brstatic.com/2018/01/29124551/meet-jerome-powell-new-chair-federal-reserve.jpg';
+                    $img = 'https://i0.wp.com/thehill.com/wp-content/uploads/sites/2/2022/06/92ab119b0f0f41fabf0815dd676f089f.jpg?w=2000&ssl=1';
                 } elseif ($rand == 9) {
-                    $img = 'https://www.marketplace.org/wp-content/uploads/2018/02/jeromepowell_1.jpg?fit=1800%2C1000';
+                    $img = 'https://image.cnbcfm.com/api/v1/image/106422456-1583256702102rts34kgj.jpg?v=1636411257';
                 } elseif ($rand == 10) {
-                    $img = 'https://cdnph.upi.com/pv/upi/b5404ae98139177cefdb6f6c0e4d23b2/FED-CHAIR-POWELL.jpg';
+                    $img = 'https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2019/12/0/0/Jerome-Powell-Presser-AP-2.jpg?ve=1&tl=1';
                 } elseif ($rand == 11) {
-                    $img = 'https://gvwire.com/wp-content/uploads/2019/03/interest-rate-hikes-jerome-powell-750x400.jpg';
+                    $img = 'https://s.abcnews.com/images/US/jerome-powell-file-gty-ml-220826_1661521963129_hpMain_16x9_1600.jpg';
                 } elseif ($rand == 12) {
-                    $img = 'https://cdn.talkingpointsmemo.com/wp-content/uploads/2018/09/GettyImages-1041032142.jpg';
+                    $img = 'https://media-cldnry.s-nbcnews.com/image/upload/newscms/2019_25/2902141/190619-jerome-powell-ew-1048a.jpg';
                 } elseif ($rand == 13) {
-                    $img = 'https://media3.s-nbcnews.com/i/newscms/2019_25/2902141/190619-jerome-powell-ew-1048a_5b036b56194a785e236e804fb69cc4a8.jpg';
+                    $img = 'https://thehill.com/wp-content/uploads/sites/2/2022/07/powelljerome_062222gn30_w.jpg?strip=1';
                 } else {
-                    $img = 'https://static01.nyt.com/images/2019/06/25/business/25DC-POWELL-01/25DC-POWELL-01-videoSixteenByNine3000.jpg';
+                    $img = 'https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iMMP78fVL6QQ/v1/1200x-1.jpg';
                 }
                 $case = 2;
             }
