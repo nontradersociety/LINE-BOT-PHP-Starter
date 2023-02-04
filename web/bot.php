@@ -760,7 +760,7 @@ if (!is_null($events['events'])) {
             if ( strpos($textinput, 'หิว') !== false ) {
                 $rand = rand(0, 20);
                 if ($rand == 0) {
-                    $img = 'https://www.catdumb.com/wp-content/uploads/2021/07/Family-Feast-KFC-supplied-1920x1440-1.jpg';
+                    $img = 'https://scontent.fbkk25-1.fna.fbcdn.net/v/t39.30808-6/319290561_681975940082334_4167008170701119485_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=0debeb&_nc_ohc=-weMkeYMcygAX_dA2ZC&tn=BxhimMAExeLQgtDx&_nc_ht=scontent.fbkk25-1.fna&oh=00_AfAkFpM8g3KBc-y-ULvKkEzLi0RAG1Dv7gMW8b7ApqVbIw&oe=63E331AC';
                 } elseif ($rand == 1) {
                     $img = 'https://i.pinimg.com/originals/8c/a5/14/8ca5148a119697bab2d35514aa4a5225.jpg';
                 } elseif ($rand == 2) {
